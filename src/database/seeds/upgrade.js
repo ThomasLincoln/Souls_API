@@ -1,6 +1,6 @@
-import { dropUpgrades, dropItems, dropWeapons, dropArmor, dropBosses, dropEnemies, dropNPCs, dropSpells } from "../tables/sql.js";
-import { createUpgrades, createItems, createWeapons, createArmor, createBosses, createEnemies, createNPCs, createSpells } from "../tables/sql.js";
-import { insertUpgrades, insertItems, insertWeapons } from "../tables/sql.js";
+import { dropUpgrades, dropWeapons, dropArmor, dropBosses, dropEnemies, dropNPCs, dropSpells } from "../tables/upgrade.js";
+import { createUpgrades, createWeapons, createArmor, createBosses, createEnemies, createNPCs, createSpells } from "../tables/upgrade.js";
+import { insertUpgrades, insertWeapons } from "../tables/upgrade.js";
 import mysql from "mysql2/promise";
 import dotenv from "dotenv";
 dotenv.config();
@@ -63,7 +63,6 @@ const upgrade = [
 const loadAndSaveData = async () => {
   try {
     await connection.query(dropUpgrades);
-    // await connection.query(dropItems);
     // await connection.query(dropWeapons);
     // await connection.query(dropArmor);
     // await connection.query(dropBosses);
@@ -78,9 +77,6 @@ const loadAndSaveData = async () => {
     
     await connection.query(createUpgrades);
     console.log("Criada tabela de Upgrades");
-    
-    // await connection.query(createItems);
-    // console.log("Criada tabela de Items");
     
     // await connection.query(createWeapons);
     // console.log("Criada tabela de Weapons");
@@ -99,11 +95,6 @@ const loadAndSaveData = async () => {
     
     // await connection.query(createSpells);
     // console.log("Criada tabela de Spells");
-    
-
-
-
-
 
     await connection.query(insertUpgrades, [upgrade.map((u) => Object.values(u))]);
     console.log("Dados enviados para Upgradres");
