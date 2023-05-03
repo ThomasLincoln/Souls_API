@@ -1,6 +1,6 @@
 export const dropItems = "DROP TABLE IF EXISTS items";
 export const insertItems =
-  "INSERT INTO items (Name, Image, InGameDescription, Type, Localization, Usage) VALUES ?";
+  "INSERT INTO items (Name, Image, InGameDescription, GeneralInformation, Type, Availability, Usage, Notes) VALUES ?";
 
 export const createItems = `CREATE TABLE items (
     id INT NOT NULL AUTO_INCREMENT, 
@@ -8,7 +8,9 @@ export const createItems = `CREATE TABLE items (
     Name VARCHAR(250),
     Image VARCHAR(250),
     InGameDescription VARCHAR(250),
+    GeneralInformation VARCHAR (500),
     Type VARCHAR(250),
-    Localization JSON,
-    Usage JSON
+    Availability JSON,
+    Usage JSON,
+    Notes JSON
   )`;

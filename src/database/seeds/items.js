@@ -9,11 +9,11 @@ const connection = await mysql.createConnection(process.env.DATABASE_URL);
 
 const Localizacao = [
   {
-    "Location1":
+    "Location":
       "Found in the Tomb of the Giants, before the first bonfire, on a petrified blacksmith. In a square hole, guarded by six Giant Skeletons; can be dangerous due to the lack of light and cramped quarters. Probably the easiest way to get the ember is to just run past the skeletons and make a beeline for the ember.",
   },
   {
-    "Location1":
+    "Location":
       "Found in the maze-like well portion of the Painted World of Ariamis.",
   },
 ];
@@ -29,10 +29,19 @@ const Uso = [
     }
   ];
 
-const LocSTRING = JSON.stringify(Localizacao[0]);
-const UsaSTRING = JSON.stringify(Uso[0]);
-const Loc2STRING = JSON.stringify(Localizacao[0]);
-const Usa2STRING = JSON.stringify(Uso[0]);
+
+const location = [], usage = [];
+
+  
+for (const objeto of Localizacao) {
+  location.push(JSON.stringify(objeto));
+}
+
+for (const objeto of Uso) {
+  usage.push(JSON.stringify(objeto));
+}
+
+
 
 // REQUIREMENDS
 const items = [
@@ -42,9 +51,11 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/f/f3/Large_Divine_Ember.png/revision/latest?cb=20120827021347",
     InGameDescription:
       "Ember required for weapon ascension. Large divine ember, of secret church rites. Intended for select divine blacksmiths. Ascends +5 divine weapon. Allows reinforcement to +10, on par with the very weapons of the Gods.",
+    GeneralInformation: " ",
     Type: "Ember",
-    Localization: LocSTRING,
-    Usage: UsaSTRING,
+    Availability: location[0],
+    Usage: usage[0],
+    Notes: usage[0],
   },
   {
     Name: "ANNEX KEY",
@@ -52,9 +63,11 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/4/44/Annex_Key.png/revision/latest?cb=20120901100558",
     InGameDescription:
       "Key to the annex in the Painted World of Ariamis. In the wintery painted world, there is a structure resembling an old cathedral; its annex serves as a type of storehouse.",
+    GeneralInformation: " ",
     Type: "Key Item",
-    Localization: LocSTRING,
-    Usage: UsaSTRING,
+    Availability: location[1],
+    Usage: usage[1],
+    Notes: usage[0],
   },
 ];
 
