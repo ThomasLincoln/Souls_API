@@ -58,7 +58,7 @@ const items = [
     Notes: usage[0],
   },
   {
-    Name: "ANNEX KEY",
+    Name: "A",
     Image:
       "https://static.wikia.nocookie.net/darksouls/images/4/44/Annex_Key.png/revision/latest?cb=20120901100558",
     InGameDescription:
