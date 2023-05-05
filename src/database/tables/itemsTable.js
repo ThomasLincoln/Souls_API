@@ -7,7 +7,7 @@ export const createItems = `CREATE TABLE items (
     PRIMARY KEY (id),
     Name VARCHAR(250),
     Image VARCHAR(250),
-    InGameDescription VARCHAR(250),
+    InGameDescription VARCHAR(400),
     GeneralInformation VARCHAR (500),
     Type VARCHAR(250),
     Availability JSON,
