@@ -81,6 +81,29 @@ const Localizacao = [
       "Sold by Andre of Astora for 2,000 souls.",
       
   },
+  {
+    "Availability":
+      "Can be found on a corpse down the stairs from the church in Undead Parish, near the lever that opens the portcullis back to the area with the Fang Boar.",
+  },
+  {
+    "Availability":
+      "Dropped by Asylum Demon, if killed on second encounter.",
+    "Availability2": "Given by Oscar, Knight of Astora, if the Asylum Demon was killed on first encounter.",
+    "Availability3": "Drops from Oscar of Astora. (Guaranteed - Northern Undead Asylum and Northern Undead Asylum Revisit)",
+  },
+  {
+    "Availability":
+      "The Blighttown Key is dropped by the Gaping Dragon upon defeat.",
+  },
+  {
+    "Availability":
+      "It can be purchased from Domhnall of Zena located in the Depths (until both bells are rung) for 1,000 souls. He can be found sitting between the way to the Gaping Dragon and the entrance to Blighttown.",
+    "Availability2": "Since Patch 1.05, it can also be purchased from the Undead Male Merchant located in the Undead Burg for 1,000 souls.",
+  },
+  {
+    "Availability":
+      "Dropped by a respawning Crystal Golem located near the beginning of The Duke's Archives. The Golem will only drop the pendant if Dusk of Oolacile has been rescued from within the Golden Crystal Golem, which can be found in an alcove past the Hydra in Darkroot Basin.",
+  },
 ];
 
 const Uso = [
@@ -141,6 +164,24 @@ const Uso = [
     {
       "Usage": "Allows armor reinforcement at bonfires.",
     },
+    {
+      "Usage": "Undead Burg. Unlocks the small door at the start of the Hellkite bridge.",
+    },
+    {
+      "Usage": "It it used to open the locked door guarded by the Asylum Demon, which lets you exit the Northern Undead Asylum.",
+    },
+    {
+      "Usage": "Unlocks Blighttown. Huge doors beside Domhnall of Zena (sewer merchant) in Depths.",
+    },
+    {
+      "Usage": "Store excess items, a la Stockpile Thomas. Can only be accessed at a bonfire.",
+      "Usage2": "There is no weight carry limit in Dark Souls, but the box allows you to have twice the amount of some items.",
+    },
+    {
+      "Usage": "The stone pendant is the key to enter Lost Oolacile from the Darkroot Basin.",
+      "Usage1": "Enter the vortex inside the cave behind where the Hydra originally was to trigger a cut-scene that takes you back in time.",
+    },
+    
   ];
 
 
@@ -215,6 +256,21 @@ const Uso = [
       "Note1":"Only needs to be bought once each playthrough.",
       "Note2":"You still need to use souls and titanite as you would if a Blacksmith did the reinforcement.",
       "Note3":"This item does not carry over to New Game Plus.",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"This door can only be opened from the Depths side.",
+    },
+    {
+      "Note1":"The bottomless box can be filled after gaining a lot items. You have approximately 2000-2250 slots available.",
+    },
+    {
+      "Note1":"The pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk.",
     },
   ];
 
@@ -487,13 +543,108 @@ const items = [
 
     GeneralInformation:"The Armor Smithbox is an armor modification tool in Dark Souls.",
 
-    Type: "Key",
+    Type: "Key Bonfire Item",
 
     Availability: location[15],
 
     Usage: usage[15],
 
     Notes: notes[15],
+  },
+  {
+    Name: "BASEMENT KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/a/a8/Basement_Key.png/revision/latest?cb=20120901100559",
+
+    InGameDescription:
+      `Opens the narrow passage leading below at the far face of the great bridge in the Undead Burg. The lower Undead Burg is a treacherous place. Do not turn your back on the wily thieves, or the wild dogs who serve the Capra Demon.`,
+
+    GeneralInformation:"The Basement Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[16],
+
+    Usage: usage[16],
+
+    Notes: notes[16],
+  },
+  {
+    Name: "BIG PILGRIM'S KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/e/e7/Big_Pilgrim%27s_Key.png/revision/latest?cb=20120901100600",
+
+    InGameDescription:
+      `Key to the inner door of the Undead Asylum main hall. Big key belonging to a chosen Undead pilgrim. But this chosen Undead knows not what this pilgrimage has in store.`,
+
+    GeneralInformation:"The Big Pilgrim's Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[17],
+
+    Usage: usage[17],
+
+    Notes: notes[17],
+  },
+  {
+    Name: "BLIGHTTOWN KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/6/68/Blighttown_Key.png/revision/latest?cb=20120901100600",
+
+    InGameDescription:
+      `Key to Blighttown from the Depths of the Undead Burg. Swallowed by the Gaping Dragon. As its name suggests, Blighttown is a place of great pestilence. Even the polluted inhabitants of the Depths are aware of its dangers, and built this mighty door in hopes that they could remain safely separated.`,
+
+    GeneralInformation: "The Blighttown Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[18],
+
+    Usage: usage[18],
+
+    Notes: notes[18],
+  },
+  {
+    Name: "BOTTOMLESS BOX",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/8/8a/2088.png/revision/latest?cb=20111211011602",
+
+    InGameDescription:
+      ` peculiar bottomless wooden box. Its origins are unknown. Some deride it as a symbol of unbrideled avarice. Any number of items can be deposited into the box, and items can be managed while resting at a Bonfire.`,
+
+    GeneralInformation: "The Bottomless Box is an item in Dark Souls.",
+
+    Type: "Key Bonfire Items",
+
+    Availability: location[19],
+
+    Usage: usage[19],
+
+    Notes: notes[19],
+  },
+  {
+    Name: "BROKEN PENDANT",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/d/d0/Broken_Pendant.png/revision/latest?cb=20121125193608",
+
+    InGameDescription:
+      `Half of a broken stone pendant. The vine appears to originate from Oolacile. A powerful magic can be sensed from this ancient stone. Yet men of this time can neither manipulate nor sense its power, which has distinct air consisting of both reverence and nostalgia.`,
+
+    GeneralInformation: "The Broken Pendant is a key item in Dark Souls. It is exclusive to the Artorias of the Abyss DLC. A pendant is mentioned in the description of the Soul of Manus as an item of great importance and the reason for his descent into insanity. However, there is no other connection between Manus and this pendant.",
+
+    Type: "Key",
+
+    Availability: location[20],
+
+    Usage: usage[20],
+
+    Notes: notes[20],
   },
 ];
 
