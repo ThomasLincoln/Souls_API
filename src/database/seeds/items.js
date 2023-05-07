@@ -55,6 +55,32 @@ const Localizacao = [
     "Availability":
       "Found in the New Londo Ruins, after the water level is lowered. Easily accessed via the first elevator shortcut, the one nearest to the ruin's entrance. Directly next to the elevator's bottom doorway lies a second identical archway leading to a narrow staircase. By following the narrow path up all the way around the room's perimeter, a second staircase leads to the room containing the item's chest.",
   },
+  {
+    "Availability":
+      "Found in the maze-like well portion of the Painted World of Ariamis.",
+  },
+  {
+    "Availability":
+      "Can be found on a corpse in the prison Tower of The Duke's Archives. Drop down from the third cell to the fourth to find it.",
+  },
+  {
+    "Availability":
+      "Dropped by the Serpent Soldier guarding the player's cell in The Duke's Archives tower.",
+  },
+  {
+    "Availability":
+      "In the chest behind the gramophone, guarded by two Serpent Soldiers and a Serpent Mage.",
+  },
+  {
+    "Availability":
+      "In a chest in the room close to the exit from the Duke's Archives, leading to Crystal Cave.",
+      
+  },
+  {
+    "Availability":
+      "Sold by Andre of Astora for 2,000 souls.",
+      
+  },
 ];
 
 const Uso = [
@@ -94,8 +120,27 @@ const Uso = [
       "Usage": "Give to Blacksmith Andre to modify +10 standard weapons up to +15.",
       "Usage2":"Must give the Large Ember to Andre first, or he will not ask for the Very Large Ember."
     },
-
-
+    {
+      "Usage": "Opens Annex in Painted World of Ariamis. Access to Dark Ember."
+    },
+    {
+      "Usage": "The Duke's Archives Tower. Opens the other cell doors in Archive Tower.",
+      "Usage2": "Also opens second door in the Bonfire cell, and shortcut to gramophone."
+    },
+    {
+      "Usage": "Opens bonfire cell in Archive Tower.",
+      "Usage2": "Opens third cell-door down from bonfire cell. Access Archive Prison Extra Key by dropping down to the cell below."
+    },
+    {
+      "Usage": "The Duke's Archives. Exit Archive Tower.",
+      "Usage2": "Unlocks the large doors at the ledge above the ladder, at the top of the stairs."
+    },
+    {
+      "Usage": "The Duke's Archives Tower. Opens cell behind Pisacas. Free Big Hat Logan and a Fire Keeper Soul.",
+    },
+    {
+      "Usage": "Allows armor reinforcement at bonfires.",
+    },
   ];
 
 
@@ -150,6 +195,26 @@ const Uso = [
     },
     {
       "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"Only needs to be bought once each playthrough.",
+      "Note2":"You still need to use souls and titanite as you would if a Blacksmith did the reinforcement.",
+      "Note3":"This item does not carry over to New Game Plus.",
     },
   ];
 
@@ -312,6 +377,123 @@ const items = [
     Usage: usage[9],
 
     Notes: notes[9],
+  },
+
+    {
+    Name: "ANNEX KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/44/Annex_Key.png/revision/latest?cb=20120901100558",
+
+    InGameDescription:
+      "Key to the annex in the Painted World of Ariamis. In the wintery painted world, there is a structure resembling an old cathedral; its annex serves as a type of storehouse.",
+
+    GeneralInformation:"The Annex Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[10],
+
+    Usage: usage[10],
+
+    Notes: notes[10],
+  },
+  {
+    Name: "ARCHIVE PRISON EXTRA KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/8/84/Archive_Prison_Extra_Key.png/revision/latest?cb=20120901100559",
+
+    InGameDescription:
+      "Extra key to a cell in the Duke's Archive Tower. Perhaps the serpent men were careless, for there are several keys scattered about which fit Archive Tower cells.",
+
+    GeneralInformation:"The Archive Prison Extra Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[11],
+
+    Usage: usage[11],
+
+    Notes: notes[11],
+  },
+  {
+    Name: "ARCHIVE TOWER CELL KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/d/d8/Archive_Tower_Cell_Key.png/revision/latest?cb=20120901100559",
+
+    InGameDescription:
+      `Key to the cell of the Duke's Archive Tower. The Archive Tower, once a trove of precious tomes and letters, became a prison after the onset of Seath's madness. The serpent men who guard the prison know not the value of what they hide. In the basement of the tower are the writhing "mistakes" of the terrifying experiments which were conducted there.`,
+
+    GeneralInformation:"The Archive Tower Cell Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[12],
+
+    Usage: usage[12],
+
+    Notes: notes[12],
+  },
+
+  {
+    Name: "ARCHIVE TOWER GIANT DOOR KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/9/9c/Archive_Tower_Giant_Door_Key.png/revision/latest?cb=20120901100559",
+
+    InGameDescription:
+      `Key to the giant door leading out from the uppermost floor of Archive Tower, which now serves as a prison. The key's design resembles not the key of a prison; indeed, the tower was once no prison at all, but a trove of precious tomes.`,
+
+    GeneralInformation:"The Archive Tower Giant Door Key, not to be confused with Archive Tower Giant Cell Key is a key item in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[13],
+
+    Usage: usage[13],
+
+    Notes: notes[13],
+  },
+
+  {
+    Name: "ARCHIVE TOWER GIANT CELL KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/2/2a/Archive_Tower_Giant_Cell_Key.png/revision/latest?cb=20120901100559",
+
+    InGameDescription:
+      `Key to the giant cell below the Duke's Archives Tower. The giant cell once imprisoned countless maidens, but is now empty, save for a few key persons. They struggle to uphold their sanity, as the horde of "mistakes" writhe at a fearfully close proximity.`,
+
+    GeneralInformation:"The Archive Tower Giant Cell Key is a key item in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[14],
+
+    Usage: usage[14],
+
+    Notes: notes[14],
+  },
+  {
+    Name: "ARMOR SMITHBOX",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/0/04/Armor_Smithbox.png/revision/latest?cb=20121201041311",
+
+    InGameDescription:
+      `Tool used to etch titanite into armor for reinforcement. Rest at a bonfire to make armor reinforcement possible.`,
+
+    GeneralInformation:"The Armor Smithbox is an armor modification tool in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[15],
+
+    Usage: usage[15],
+
+    Notes: notes[15],
   },
 ];
 
