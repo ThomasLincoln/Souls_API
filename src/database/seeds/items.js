@@ -104,6 +104,57 @@ const Localizacao = [
     "Availability":
       "Dropped by a respawning Crystal Golem located near the beginning of The Duke's Archives. The Golem will only drop the pendant if Dusk of Oolacile has been rescued from within the Golden Crystal Golem, which can be found in an alcove past the Hydra in Darkroot Basin.",
   },
+  {
+    "Availability":
+      "At the bottom of the tower where the Crestfallen Merchant is, guarded by a Serpent Mage.",
+  },
+  {
+    "Availability":
+      "Found off a Mimic in Oolacile Township, shortly before fighting the Chained Prisoner. The player must jump off a wooden bridge to their left, onto a balcony.",
+  },
+  {
+    "Availability":
+    "Purchased from the blacksmith, Andre of Astora, for 20,000 souls.",
+    "Availability2":
+    "Andre of Astora drops the Crest of Artorias if it wasn't bought from him already.",
+  },
+  {
+    "Availability":
+      "On the corpse that is thrown down into the players cell by Oscar, Knight of Astora.",
+  },
+  {
+    "Availability":
+      "The Key to Depths is dropped by the Capra Demon found in the lower Undead Burg.",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+
 ];
 
 const Uso = [
@@ -181,7 +232,44 @@ const Uso = [
       "Usage": "The stone pendant is the key to enter Lost Oolacile from the Darkroot Basin.",
       "Usage1": "Enter the vortex inside the cave behind where the Hydra originally was to trigger a cut-scene that takes you back in time.",
     },
-    
+    {
+      "Usage": "Unlocks all hanging cages in Sen's Fortress. The Master Key will also work for Big Hat Logan's cage and the Hero soul, but not for the elevator.",
+      "Usage1": "Free Big Hat Logan. Behind breakable wall, accessed by directing boulders.",
+      "Usage": "Access a Hero Soul. Behind breakable wall, accessed by directing boulders.",
+      "Usage": "Unlocks cage elevator on top of the fortress.",
+      "Usage": "Unlocks all other empty hanging cages.",
+    },
+    {
+      "Usage": "Unlocks the door leading to Hawkeye Gough.",
+    },
+    {
+      "Usage": "This crest unlocks the magically sealed door in Darkroot Garden.",
+    },
+    {
+      "Usage": "Northern Undead Asylum. Unlock cell door.",
+    },
+    {
+      "Usage": "Unlocks door to the Depths. Go down stairs by the Capra location, the door is at the bottom of the tower by two thiefs.",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+
   ];
 
 
@@ -271,6 +359,45 @@ const Uso = [
     },
     {
       "Note1":"The pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk.",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"The key is a manual pick-up.",
+    },
+    {
+      "Note1":"Artorias is related to The Abyss Watchers of DS3",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"",
+    },
+    {
+      "Note1":"DEIXA",
+    },
+    {
+      "Note1":"DEIXA",
+    },
+    {
+      "Note1":"DEIXA",
+    },
+    {
+      "Note1":"DEIXA",
+    },
+    {
+      "Note1":"DEIXA",
+    },
+    {
+      "Note1":"DEIXA",
+    },
+    {
+      "Note1":"DEIXA",
     },
   ];
 
@@ -646,6 +773,190 @@ const items = [
 
     Notes: notes[20],
   },
+  {
+    Name: "CAGE KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/d/df/Cage_Key.png/revision/latest?cb=20120926094515",
+
+    InGameDescription:
+      `Key to the hanging cage in Sen's Fortress. If a hapless adventurer becomes fatigued during an imprudent attempt to overcome the fortress, the serpent men will not kill him, but lock him up in a lonely cage. Eventually, unless they have forgotten, they drag the victim off to who-knows-where.`,
+
+    GeneralInformation: "The Cage Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[21],
+
+    Usage: usage[21],
+
+    Notes: notes[21],
+  },
+  {
+    Name: "CREST KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/2/26/Crest_Key.png/revision/latest?cb=20121125141543",
+
+    InGameDescription:
+      `Bent Crest Key. The grooves of the crest are enchanted, the door sealed with a powerful spell.`,
+      
+
+    GeneralInformation: "The Crest Key is a key in Dark Souls. It is only available in the Artorias of the Abyss DLC.",
+
+    Type: "Key",
+
+    Availability: location[23],
+
+    Usage: usage[23],
+
+    Notes: notes[23],
+  },
+  {
+    Name: "CREST OF ARTORIAS",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/e/ea/Crest_of_Artorias.png/revision/latest?cb=20120901100600",
+
+    InGameDescription:
+      `This crest opens a door in the Darkroot Garden sealed by ancient magic. The door leads to the grave of Sir Artorias the Abysswalker. Many adventurers have left for the grave,but none have returned, for they make easy prey for local bandits. With such dangers, the crest can do more harm than good in the hands of the uninitiated.`,
+      
+
+    GeneralInformation: "The Crest of Artorias is a key in Dark Souls. The in-game description of the Crest of Artorias gives some hints about what lies behind the magical door in Darkroot Garden. The local bandits refer to the Forest Hunter Covenant members that attack the player when they go through the magical door. The uninitiated refers to people who are not part of the Forest Hunter covenant because if the player joins the covenant, the bandits will not attack anymore.",
+
+    Type: "Key",
+
+    Availability: location[24],
+
+    Usage: usage[24],
+
+    Notes: notes[24],
+  },
+  {
+    Name: "DUNGEON CELL KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/1/17/Dungeon_Cell_Key.png/revision/latest?cb=20120901100800",
+
+    InGameDescription:
+      `Key to the dungeon of the Undead Asylum to the North. A mysterious knight, without saying a word, shoved a corpse down into the cell, and on its person was this key. Who was this knight? And what was his purpose? There may be no answer, but one must still forge ahead.`,
+      
+
+    GeneralInformation: "The Dungeon Cell Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[25],
+
+    Usage: usage[25],
+
+    Notes: notes[25],
+  },
+  {
+    Name: "KEY TO DEPTHS",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/9/91/Key_to_Depths.png/revision/latest?cb=20120901100800",
+
+    InGameDescription:
+    `Key opening the door from the lower Undead Burg to the Depths. Those banished from the Undead Burg eke out their existence in the Depths, a damp lair with no trace of sunlight. Nearly half of the Depths form a perilous flooded labyrinth.`,
+      
+
+    GeneralInformation: "The Key to Depths is a key in Dark Souls that allows access to the Depths.",
+
+    Type: "Key",
+
+    Availability: location[26],
+
+    Usage: usage[26],
+
+    Notes: notes[26],
+  },
+  {
+    Name: "AMBULANCIA",
+
+    Image:
+      "---",
+
+    InGameDescription:
+      `CREST KEY
+      CREST KEY`,
+      
+
+    GeneralInformation: ".",
+
+    Type: "Key",
+
+    Availability: location[27],
+
+    Usage: usage[27],
+
+    Notes: notes[27],
+  },
+  {
+    Name: "AMBULANCIA",
+
+    Image:
+      "---",
+
+    InGameDescription:
+      `CREST KEY
+      CREST KEY`,
+      
+
+    GeneralInformation: ".",
+
+    Type: "Key",
+
+    Availability: location[28],
+
+    Usage: usage[28],
+
+    Notes: notes[28],
+  },
+  {
+    Name: "AMBULANCIA",
+
+    Image:
+      "---",
+
+    InGameDescription:
+      `CREST KEY
+      CREST KEY`,
+      
+
+    GeneralInformation: ".",
+
+    Type: "Key",
+
+    Availability: location[29],
+
+    Usage: usage[29],
+
+    Notes: notes[29],
+  },
+  {
+    Name: "AMBULANCIA",
+
+    Image:
+      "---",
+
+    InGameDescription:
+      `CREST KEY
+      CREST KEY`,
+      
+
+    GeneralInformation: ".",
+
+    Type: "Key",
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+
 ];
 
 const loadAndSaveData = async () => {
