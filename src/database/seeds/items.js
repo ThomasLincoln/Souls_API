@@ -128,6 +128,83 @@ const Localizacao = [
   },
   {
     "Availability":
+      "Found in a chest in Blighttown, close to the entrance to the Valley of Drakes.",
+  },
+  {
+    "Availability":
+      "Given by Ingward to the player after he/she obtains the Lordvessel. Killing Ingward will cause him to drop the key, regardless of whether or not the player has the Lordvessel.",
+  },
+  {
+    "Availability":
+    "Choose it as a starting gift.",
+    "Availability2": 
+    "Starting equipment for Thief.",
+    "Availability3": "Purchase from Domhnall of Zena for 5,000 souls after he has relocated to the Firelink Shrine."
+
+    
+  },
+  {
+    "Availability":
+      "In the area of Undead Parish with the sword wielding Hollows. It is down the stairs behind the Armored Tusk. The key is on a corpse near a ladder at the end of the room.",
+  },
+  {
+    "Availability":
+      "The Peculiar Doll can be found when revisiting the Undead Asylum (it cannot be found during the tutorial). It is located in the cell where the game began, guarded by a Black Knight.",
+  },
+  {
+    "Availability":
+    "Sold by the Undead Male Merchant for 3,000 souls.",
+    "Availability2":
+    "Sold by Andre of Astora for 2,000 souls.",
+  },
+  {
+    "Availability":
+    "Can be purchased from Undead Male Merchant for 1,000 souls.",
+    "Availability2":
+    "Drops from the Undead Male Merchant when killed if it was not already bought from him.",
+  },
+  {
+    "Availability":
+      "Found on a corpse in the Giant Undead Rat chamber of the Depths. Can also be looted, through the bars, from a tunnel that connects to the area where a Channeler is encountered.",
+  },
+  {
+    "Availability":
+      "Given by Oscar, Knight of Astora in the Undead Asylum after talking to him.",
+  },
+  {
+    "Availability":
+      "At Firelink Shrine, on the roof that is above Petrus of Thorolund. To reach the roof, the player must ride the elevator leading to Undead Parish and jump off at the opening just above the Firelink Shrine entrance. After this, walk out on the right cliff and jump or roll onto the nearby pillar and walk into the building it is connected to, then the player can drop from there onto the roof to get the key.",
+  },
+  {
+    "Availability":
+      "After defeating the Moonlight Butterfly in Darkroot Garden, this key is found on the body of the dead blacksmith, along with the Divine Ember.",
+  },
+  {
+    "Availability":
+      "Andre of Astora sells the Weapon Smithbox for 2,000 souls.",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
+      "lorem",
+  },
+  {
+    "Availability":
       "lorem",
   },
   {
@@ -154,6 +231,11 @@ const Localizacao = [
     "Availability":
       "lorem",
   },
+  {
+    "Availability":
+      "lorem",
+  },
+
 
 ];
 
@@ -252,6 +334,71 @@ const Uso = [
       "Usage": "Unlocks door to the Depths. Go down stairs by the Capra location, the door is at the bottom of the tower by two thiefs.",
     },
     {
+      "Usage": "Unlocks barred shortcut between upper New Londo Ruins and Valley of Drakes.",
+    },
+    {
+      "Usage": "Access lower New Londo, Valley of Drakes (2nd entrance) and The Abyss.",
+    },
+    {
+      "Usage": "Reusable key that can open any door with a simple lock.",
+      "Usage2": "Open residences in Undead Burg, except for that of Griggs of Vinheim (replaces Residence Key).",
+      "Usage3": "Open bottom of the tower in which Havel resides in Undead Burg. This leads to Darkroot Basin, and the door can be accessed from that side as well (replaces Watchtower Basement Key).",
+      "Usage4": "Open Lautrec's cell door in Undead Parish (replaces Mystery Key).",
+      "Usage5": "Open door to the bonfire in The Depths (replaces Sewer Chamber Key).",
+      "Usage6": "Open the passageway between New Londo and the Valley of Drakes (replaces Key to New Londo Ruins).",
+      "Usage7": "Open the cage doors in Sen's Fortress (but not the elevator cages) (replaces Cage Key).",
+
+    },
+    {
+      "Usage": "Free Lautrec. Behind a breakable door, on the upper floor of the Undead Church, opposite end of boss entrance.",
+    },
+    {
+      "Usage": "This doll grants you the ability to enter the Painted World of Ariamis, which is located inside the giant painting in Anor Londo.",
+    },
+    {
+      "Usage": "Used to repair broken equipment. Can only be used at a bonfire.",
+    },
+    {
+      "Usage": "Access 3x Gold Pine Resin in a residence in Undead Burg, close to the watchtower.",
+      "Usage2": "Free Griggs of Vinheim in Lower Undead Burg.",
+    },
+    {
+      "Usage": "Unlocks Bonfire room in the first slime-hallway in the Depths, close to the kitchen.",
+    },
+    {
+      "Usage": "It unlocks the locked door on the third level's east wing, behind the boulder trap, in the Northern Undead Asylum.",
+    },
+    {
+      "Usage": "It unlocks the locked door on the third level's west wing, guarded by two Undead Soldiers, in the Northern Undead Asylum.",
+    },
+    {
+      "Usage": "Unlocks shortcut between Undead Burg and Darkroot Basin, guarded by Havel.",
+    },
+    {
+      "Usage": "Allows weapon reinforcement at Bonfires.",
+      "Usage2": "Only needs to be bought once each playthrough.",
+      "Usage3": "You still need to use the same amount of souls and titanite as you would if a Blacksmith did the reinforcement.",
+      "Usage4": "This item does not carry over to New Game Plus.",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
+      "Usage": "YPSILOM",
+    },
+    {
       "Usage": "YPSILOM",
     },
     {
@@ -275,14 +422,14 @@ const Uso = [
 
   const Notas = [
     {
-    "Note1": 
+    "Note": 
     "Chaos weapons cannot be buffed.",
     "Note2":"Chaos weapons will inflict damage depending on your Humanity level (max at 10 Humanity). The Humanity scaling decreases exponentially: the first humanity is worth more damage than the tenth. Bear this in mind.",
     "Note3":"Chaos ascension also changes the fire damage to physical damage ratio; from 1:1 to approx 2:1.",
     "Note4":"Exploiting the Dark Hand's R2 attack can give you a lot of soft Humanity, if you're worried about using up your reserves.",
     },
     {
-    "Note1": 
+    "Note": 
     "Chaos Crystal weapons cannot be repaired. Repair Powder is disabled and the Repair sorcery does not restore a crystal weapon's durability. The only way to repair a crystal weapon is to upgrade it. Upon upgrading, its durability is restored to maximum.",
     "Note2":"Crystal weapons cannot be downgraded.",
     "Note3":"The crystal equipment that Domnhall of Zena sells are not upgraded through the crystal path. They cannot be repaired, but have much higher durability.",
@@ -291,20 +438,20 @@ const Uso = [
     "Note5":"It is recommended that when you ascend a weapon to crystal only max it for the trophy/achievement. Its durability will be reduced to 10% of its original value. It will break very fast and it cannot be repaired with anything at all. It is impossible to revert your weapons, so once you ascend a weapon to crystal there is no going back. The scaling on crystal weapons is good enough you don't need to exceed +4 for it to be better than a regular +15. It is advisable to use weapons that drop from enemies or that can be bought.",
     },
     {
-      "Note1": 
+      "Note": 
       "It isn't the same thing as divine. Divine excels in fighting undead and things that have no soul anymore, like skeletons and such. Occult is a whole other type of reinforcement, it excels in fighting living things that have souls, like a lot of enemies in the game (especially Black Knights and Silver Knights, which take extra damage).",
       "Note2":"Note that NO extra damage is done by occult to invaders, hosts or phantoms in PvP.",
     },
     {
-      "Note1": 
+      "Note": 
       "Divine weapons are effective against the Undead, such as the skeletons found in the Catacombs.",
       "Note2":"They can't reform themselves after being slain by a divine weapon.",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"When entering the area containing the Large Divine Ember, be prepared due to the 4 giant skeletons guarding the body and item. Be extra vigilant in this dangerous area.",
+      "Note":"When entering the area containing the Large Divine Ember, be prepared due to the 4 giant skeletons guarding the body and item. Be extra vigilant in this dangerous area.",
       "Note2":"One way to get the ember without killing any skeletons is by jumping across the gap where the ladder is located. This will allow circling the top of the pit containing the giant skeletons. Once above the ember, equip a Ring of Sacrifice drop down quickly grabbing the ember and then either dying or attempting to escape. You can also equip the Slumbering Dragoncrest Ring to move around the skeletons before they begin to attack you.",
       "Note3":"Lightly equipped characters with pyromancy spells or firebombs, it is possible after entering the giant coffin with the giant skeletons to run and jump over the gap described above, and running all the way to the end of the right side. This will aggro all of the skeletons into a group below you, and they will only very rarely be able to hit you. If you lock on and cast some pyromancy spells you can hit them all with the splash damage. The corners at the end of the room work best when attempting this maneuver. If necessary move back and forth along the ledge to re-aggro and get them into another group. You must be close to the edge while casting, being careful not to fall to a quick and certain death at the hands of the giant skeletons.",
       "Note4":"Before descending the first ladder leading into the tomb, equip the Ring of Fog and the Slumbering Dragoncrest Ring and unequip any lit items. Descend the ladders down to the floor of the tomb and lure the large skeletons one by one either by proximity or arrows.",
@@ -313,92 +460,128 @@ const Uso = [
     },
 
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"Fire upgrade weapons cannot be buffed. However, the Magic Shield and Strong Magic Shield sorceries can still be used to enchant fire upgrade shields.",
+      "Note":"Fire upgrade weapons cannot be buffed. However, the Magic Shield and Strong Magic Shield sorceries can still be used to enchant fire upgrade shields.",
     },
 
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"Only needs to be bought once each playthrough.",
+      "Note":"Only needs to be bought once each playthrough.",
       "Note2":"You still need to use souls and titanite as you would if a Blacksmith did the reinforcement.",
       "Note3":"This item does not carry over to New Game Plus.",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"This door can only be opened from the Depths side.",
+      "Note":"This door can only be opened from the Depths side.",
     },
     {
-      "Note1":"The bottomless box can be filled after gaining a lot items. You have approximately 2000-2250 slots available.",
+      "Note":"The bottomless box can be filled after gaining a lot items. You have approximately 2000-2250 slots available.",
     },
     {
-      "Note1":"The pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk.",
+      "Note":"The pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk.",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"The key is a manual pick-up.",
+      "Note":"The key is a manual pick-up.",
     },
     {
-      "Note1":"Artorias is related to The Abyss Watchers of DS3",
+      "Note":"Artorias is related to The Abyss Watchers of DS3",
     },
     {
-      "Note1":"",
+      "Note": ""
     },
     {
-      "Note1":"",
+      "Note":"",
     },
     {
-      "Note1":"DEIXA",
+      "Note":"",
     },
     {
-      "Note1":"DEIXA",
+      "Note":"On the PC PTD Edition, killing Ingward is currently bugged, and he may not always drop the Key to the Seal. It is currently unknown what causes this, but the key becomes completely unrecoverable (quitting/loading or visiting the chest in Fire Link Shrine do not work) effectively preventing you from completing the game.",
+      "Note2": "Ingward will also drop it if killed, without the Lordvessel.",
     },
     {
-      "Note1":"DEIXA",
+      "Note":"If Lautrec is freed, he will be available as a summon for the Bell Gargoyle boss.",
+      "Note2":"He will also give a gift of one Sunlight Medal when he returns to Firelink Shrine.",
+      "Note3":"If Lautrec is not set free, he will still escape his imprisonment after the Gargoyles are slain, but gives no gift.",
     },
     {
-      "Note1":"DEIXA",
+      "Note":"Note that, once you enter the Painted World of Ariamis, there is no return until you jump off of the cliff into oblivion after the boss room. The boss fight with Crossbreed Priscilla is optional because she allows you to leave in peace. She will only attack when first provoked.",
     },
     {
-      "Note1":"DEIXA",
+      "Note":"Only needs to be bought once each playthrough.",
+      "Note2":"Repairs still cost souls, so there is no difference in price if the box is used instead of a Blacksmith.",
+      "Note3":"This item does not carry over to New Game Plus.",
     },
     {
-      "Note1":"DEIXA",
+      "Note":"",
     },
     {
-      "Note1":"DEIXA",
+      "Note":"",
     },
+    {
+      "Note":"",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":'The original Japanese item description does not contain the last sentence of the English version that reads: "For his own good, of course."',
+    },
+        {
+      "Note":"",
+    },
+    {
+      "Note":"DEIXA",
+    },
+        {
+      "Note":"DEIXA",
+    },
+    {
+      "Note":"DEIXA",
+    },
+    {
+      "Note":"DEIXA",
+    },
+    {
+      "Note":"DEIXA",
+    },
+
   ];
 
 
@@ -490,18 +673,6 @@ const items = [
     Availability: location[5],
     Usage: usage[5],
     Notes: notes[5],
-  },
-  {
-    Name: "LARGE DIVINE EMBER",
-    Image:
-      "https://static.wikia.nocookie.net/darksouls/images/f/f3/Large_Divine_Ember.png/revision/latest?cb=20120827021347",
-    InGameDescription:
-      "Ember required for weapon ascension. Large divine ember, of secret church rites. Intended for select divine blacksmiths. Ascends +5 divine weapon. Allows reinforcement to +10, on par with the very weapons of the Gods.",
-    GeneralInformation:"The Large Ember is an Ember in Dark Souls.",
-    Type: "Ember",
-    Availability: location[6],
-    Usage: usage[6],
-    Notes: notes[6],
   },
 
   {
@@ -873,17 +1044,17 @@ const items = [
     Notes: notes[26],
   },
   {
-    Name: "AMBULANCIA",
+    Name: `KEY TO NEW LONDO RUINS`,
 
     Image:
-      "---",
+      "https://static.wikia.nocookie.net/darksouls/images/c/c6/Key_to_New_Londo_Ruins.png/revision/latest?cb=20120901100800",
 
     InGameDescription:
-      `CREST KEY
-      CREST KEY`,
+      `Key to the iron bars separating the ruins of New Londo and Drake Valley.
+      The ruins of New Londo were blocked off, for the cursed ghosts posed danger to life and spirit, and the legends speak of a terrible Dark that was sealed away.`,
       
 
-    GeneralInformation: ".",
+    GeneralInformation: "The Key to New Londo Ruins is a key in Dark Souls.",
 
     Type: "Key",
 
@@ -894,17 +1065,17 @@ const items = [
     Notes: notes[27],
   },
   {
-    Name: "AMBULANCIA",
+    Name: "KEY TO THE SEAL",
 
     Image:
-      "---",
+      "https://static.wikia.nocookie.net/darksouls/images/a/ac/Key_to_the_Seal.png/revision/latest?cb=20120901100600",
 
     InGameDescription:
-      `CREST KEY
-      CREST KEY`,
+      `Key to the floodgates of New Londo, which seal away the Four Kings who fell to Dark.
+      The Sealers flooded New Londo to banish the Darkwraiths and the Four Kings. The agonizing decision was made with the realization that countless lives, and the robust culture of the city, would be lost. The victims now roam the ruins as ghosts.`,
       
 
-    GeneralInformation: ".",
+    GeneralInformation: "The Key to the Seal is a key in Dark Souls.",
 
     Type: "Key",
 
@@ -915,17 +1086,17 @@ const items = [
     Notes: notes[28],
   },
   {
-    Name: "AMBULANCIA",
+    Name: "MASTER KEY",
 
     Image:
-      "---",
+      "https://static.wikia.nocookie.net/darksouls/images/5/57/Master_Key.png/revision/latest?cb=20120901100800",
 
     InGameDescription:
-      `CREST KEY
-      CREST KEY`,
+      `This universal key opens any basic lock. Tool of the trade for thieves.
+      But in the cursed land of the Undead, most doors are left unopened.`,
       
 
-    GeneralInformation: ".",
+    GeneralInformation: "The Master Key is a key and starting gift in Dark Souls.",
 
     Type: "Key",
 
@@ -936,17 +1107,16 @@ const items = [
     Notes: notes[29],
   },
   {
-    Name: "AMBULANCIA",
+    Name: "MYSTERY KEY",
 
     Image:
-      "---",
+      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      `CREST KEY
-      CREST KEY`,
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
       
 
-    GeneralInformation: ".",
+    GeneralInformation: "The Mystery Key is a key in Dark Souls.",
 
     Type: "Key",
 
@@ -956,6 +1126,268 @@ const items = [
 
     Notes: notes[30],
   },
+  {
+    Name: "PECULIAR DOLL",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/0/08/Peculiar_doll.png/revision/latest?cb=20120123093734",
+
+    InGameDescription:
+      `A strange doll in strange dress. There once was an abomination who had no place in this world. She clutched this doll tightly, and eventually was drawn into a cold and lonely painted world.`,
+      
+
+    GeneralInformation: "The Peculiar Doll is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[31],
+
+    Usage: usage[31],
+
+    Notes: notes[31],
+  },
+  {
+    Name: "REPAIRBOX",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/b/b3/Repairbox.png/revision/latest?cb=20121201041005",
+
+    InGameDescription:
+      `Specialized mortar used to repair weapons and armor by grinding repair powder. Rest at a bonfire to make weapon and armor repair possible. Repair powder is fragile and cannot be taken along.`,
+      
+
+    GeneralInformation: "The Repairbox is a weapon modification item in Dark Souls.",
+
+    Type: "Key Bonfire Item",
+
+    Availability: location[32],
+
+    Usage: usage[32],
+
+    Notes: notes[32],
+  },
+  {
+    Name: "RESIDENCE KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/2/2c/Residence_Key.png/revision/latest?cb=20120901100802",
+
+    InGameDescription:
+      `Key to a residence in the Undead Burg. Simple, sturdy design of the locks in the Burg keep out unwanted visitors.
+      But this is a standard key in these parts, and will open several residences.`,
+      
+
+    GeneralInformation: "The Residence Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[33],
+
+    Usage: usage[33],
+
+    Notes: notes[33],
+  },
+  {
+    Name: "SEWER CHAMBER KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/1/15/Sewer_Chamber_Key.png/revision/latest?cb=20120901100802",
+
+    InGameDescription:
+      `Key to the sewer chamber in the Depths. In any community, a few bad apples are sure to exhibit insatiable greed. If they were turned Undead, and banished to the Depths, would they reconsider their ways? Use this key to see for yourself.`,
+      
+
+    GeneralInformation: "The Sewer Chamber Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[34],
+
+    Usage: usage[34],
+
+    Notes: notes[34],
+  },
+  {
+    Name: "UNDEAD ASYLUM F2 EAST KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/b/b1/Undead_Asylum_F2_East_Key.png/revision/latest?cb=20120901100802",
+
+    InGameDescription:
+      `Key to the iron bars on the east side of the second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison, segmented by countless iron bars. Even if an Undead were to escape from a cell, passage to the outside world would not be gained easily.`,
+      
+
+    GeneralInformation: "The Undead Asylum F2 East Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[35],
+
+    Usage: usage[35],
+
+    Notes: notes[35],
+  },
+  {
+    Name: "UNDEAD ASYLUM F2 WEST KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/c/cf/Undead_Asylum_F2_West_Key.png/revision/latest?cb=20120901100802",
+
+    InGameDescription:
+      `Key to the iron bars on the west side of the second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison, segmented by countless iron bars. But even if a hero found a key in Lordran to liberate this prison, would he have the means, or the heart, to ever come back?`,
+      
+
+    GeneralInformation: "The Undead Asylum F2 West Key is a key in Dark Souls.",
+    
+    Type: "Key",
+
+    Availability: location[36],
+
+    Usage: usage[36],
+
+    Notes: notes[36],
+  },
+  {
+    Name: "WATCHTOWER BASEMENT KEY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/e/e6/Watchtower_Basement_Key.png/revision/latest?cb=20120901100834",
+
+    InGameDescription:
+      `Key to the basement of the watchtower in the Undead Burg. The basement of the watchtower forms a stone cell. There are rumors of a hero turned Hollow who was locked away by a dear friend. For his own good, of course.`,
+      
+
+    GeneralInformation: "The Watchtower Basement Key is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[37],
+
+    Usage: usage[37],
+
+    Notes: notes[37],
+  },
+  {
+    Name: "WEAPON SMITHBOX",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/9/99/Weapon_Smithbox.png/revision/latest?cb=20121204035155",
+
+    InGameDescription:
+      `Tools used to etch titanite into weapons for reinforcement. Rest at a bonfire to make weapon reinforcement possible.`,
+      
+
+    GeneralInformation: "The Weapon Smithbox is a weapon modification tool in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[38],
+
+    Usage: usage[38],
+
+    Notes: notes[38],
+  },
+  {
+    Name: "",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
+
+    InGameDescription:
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      
+
+    GeneralInformation: "The  is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: "",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
+
+    InGameDescription:
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      
+
+    GeneralInformation: "The  is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: "",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
+
+    InGameDescription:
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      
+
+    GeneralInformation: "The  is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: "",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
+
+    InGameDescription:
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      
+
+    GeneralInformation: "The  is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: "",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
+
+    InGameDescription:
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      
+
+    GeneralInformation: "The  is a key in Dark Souls.",
+
+    Type: "Key",
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+
 
 ];
 
