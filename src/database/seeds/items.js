@@ -185,39 +185,56 @@ const Localizacao = [
   },
   {
     "Availability":
-      "lorem",
+      "Oswald of Carim - Unobtainable",
   },
   {
     "Availability":
-      "lorem",
+    "Three can be found on a corpse in Undead Parish. The corpse is on a ledge above the Fang Boar's initial position, where two crossbow-wielding Hollow Soldiers are perched",
+    "Availability2":
+    "Sold by Marvelous Chester in Royal Wood for 800 souls each. (AotA)",
+    "Availability3":
+    "Sold by Undead Female Merchant in Lower Undead Burg for 500 souls each."
   },
   {
     "Availability":
-      "lorem",
+    "Starting gift",
+    "Availability2":
+    "Found on a corpse towards the end of the graveyard in Firelink Shrine.",
   },
   {
     "Availability":
-      "lorem",
+      "Found outside Anastacia of Astora's cage in Firelink Shrine after Lautrec murders her, which triggers when either the Blighttown Fire Keeper Soul is collected by the player, or after both Bells of Awakening are rung.",
   },
   {
     "Availability":
-      "lorem",
+    "10 are available as a starting gift.",
+    "Availability2":
+    "5 can be found in a chest in Undead Burg, inside one of the houses beyond the bonfire.",
+    "Availability3":
+    "Sold by the Crestfallen Merchant in Sen's Fortress for 500 souls each.",
+    "Availability4":
+    "Sold by Marvelous Chester in Royal Wood for 800 souls each. (AotA)",
   },
   {
     "Availability":
-      "lorem",
+      "Granted to the player at the beginning of the game.",
   },
   {
     "Availability":
-      "lorem",
+    "Dropped by Demonic Foliages in Darkroot Garden.",
+    "Availability2":
+    "Sold by the Undead Female Merchant for 300 souls each.",
+  },
+  {
+    "Availability": "Uncommonly dropped by Demonic Foliage.",
+    "Availability2": "Rarely dropped by Blowdart Snipers.",
+    "Availability3": "Uncommonly dropped by Wooden Scarecrows.",
+    "Availability4": "Sold by the Undead Female Merchant for 1,000 souls.",
+    "Availability5": "Sold by Marvelous Chester for 1,500 souls.",
   },
   {
     "Availability":
-      "lorem",
-  },
-  {
-    "Availability":
-      "lorem",
+      "Granted after joining the Blade of the Darkmoon covenant.",
   },
   {
     "Availability":
@@ -381,31 +398,45 @@ const Uso = [
       "Usage4": "This item does not carry over to New Game Plus.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Abandons a covenant without penalties",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Throwable item. Attracts some enemies.",
+      "Usage2": "Effect lasts about 5 seconds.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Used to see distant threats, scenery, and other objects.",
+      "Usage1": "This is a key item that can be used more than once.",
+      "Usage2": "Zoom in and out by pressing up and down on the d-pad.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Used to invade Lautrec's world in Anor Londo, right before the Ornstein and Smough entrance.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Throwable item. Deals heavy fire damage.",
+      "Usage2": "Black Firebombs do 21 poise damage.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Used to send summoned White Phantoms back to their own world.",
+      "Usage1": "Used to leave the host's world as a summoned or invading Phantom.",
+      "Usage2": "Using this as an ally will give you +1 Sin in the Book of the Guilty.",
+      "Usage3": "If you are the host using it allows you to see your phantoms' online victories",
+      "Usage4": "Used to send summoned NPC Phantoms back to their own world.",
+      "Usage5": "Banished NPCs can not be re-summoned to the same world, even after resting at a bonfire.",
+      "Usage6": "Quit / reload to make their signs appear again.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Reduces the accumulation of bleeding when consumed.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Reduces the accumulation of both poison and toxin, as well as curing their respective status effects.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "Use this item to invade the world of a player who has 'sin', and more likely someone who is listed in the Book of the Guilty.",
+      "Usage1": "Like the Red Eye Orb, this item has unlimited uses.",
+      "Usage2": "Can invade BELOW the users' own level, to what limit is not confirmed, can invade above own level also.",
+      "Usage3": "Can be used while either human or hollow, and does not drop a bloodstain.",
+      "Usage4": "Note that it may be greyed out if too close to a bonfire or crossroad to multiple areas",
     },
     {
       "Usage": "YPSILOM",
@@ -563,24 +594,52 @@ const Uso = [
     {
       "Note":'The original Japanese item description does not contain the last sentence of the English version that reads: "For his own good, of course."',
     },
-        {
+    {
       "Note":"",
     },
     {
-      "Note":"DEIXA",
+      "Note":"",
     },
-        {
-      "Note":"DEIXA",
+    {
+      "Notes (Enemies affected)": ['Balder Knight', 'Berenike Knight', 'Blowdart Sniper', 'Butcher', 'Darkwraith', 'Fang Boar', 'Havel the Rock', 'Hollow', 'Hollow Soldier', 'Hollow Thief', 'Hollow Warrior', 'Infested Barbarian', 'Infested Ghoul', 'Kirk, Knight of Thorns', 'Knight Lautrec of Carim', 'Maneater Mildred', 'Necromancer', 'Nico of Thorolund', 'Petrus of Thorolund', 'Reah of Thorolund', 'Siegmeyer of Catarina', 'Undead Crystal Soldier', 'Vince of Thorolund'],
     },
+    {
+      "Note":"Equip the Hawk Ring to see even further.",
+      "Note1":"Binoculars can also be used to aim a crossbow from outside of lock-on range.",
+      "Note2":"Particularly useful when trying to aim spells or, of course, when in Princess Gwynevere's bed chamber.",
+      "Note3":"Using the binoculars while talking to a NPC merchant, will result in a third person view of your character with binoculars.",
+      "Note4":"Use them just before the NPC finishes their last spoken sentence, so the binoculars are equipped while the merchant menu is shown.",
+    },
+    {
+      "Note":"A Black Eye Orb was also designated for Shiva of the East originally, but was removed before the final game was released. The cut Black Eye Orb is displayed as Black Eye Orb (Shiva) in the ingame inventory. This orb is only obtainable by modding or save editing and if used in the courtyard area of Painted World of Ariamis, you can invade Shiva as originally intended. Shiva will be accompanied by his bodyguard during the invasion event.",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":"One Bloodred Moss Clump per playthrough can be traded to Snuggly the Crow for a Twinkling Titanite.",
+    },
+
+    {
+      "Note":"One Blooming Purple Moss Clump per playthrough can be traded to Snuggly the Crow for two Twinkling Titanites.",
+    },
+
+    {
+      "Note":`Once in a blue moon you may come across with a bug that makes you invade as a red phantom instead of a blue spirit of vengeance. Killing the target in this form does not grant a souvenir of reprisal but instead gives humanity. Receiving 'sin' after a kill is unknown. You receive sin when the user you "invaded" gets killed by you`,
+    },
+
     {
       "Note":"DEIXA",
     },
+
     {
       "Note":"DEIXA",
     },
-    {
-      "Note":"DEIXA",
-    },
+
+
 
   ];
 
@@ -798,7 +857,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/9/9c/Archive_Tower_Giant_Door_Key.png/revision/latest?cb=20120901100559",
 
     InGameDescription:
-      `Key to the giant door leading out from the uppermost floor of Archive Tower, which now serves as a prison. The key's design resembles not the key of a prison; indeed, the tower was once no prison at all, but a trove of precious tomes.`,
+      "Key to the giant door leading out from the uppermost floor of Archive Tower, which now serves as a prison. The key's design resembles not the key of a prison; indeed, the tower was once no prison at all, but a trove of precious tomes.",
 
     GeneralInformation:"The Archive Tower Giant Door Key, not to be confused with Archive Tower Giant Cell Key is a key item in Dark Souls.",
 
@@ -837,7 +896,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/0/04/Armor_Smithbox.png/revision/latest?cb=20121201041311",
 
     InGameDescription:
-      `Tool used to etch titanite into armor for reinforcement. Rest at a bonfire to make armor reinforcement possible.`,
+      "Tool used to etch titanite into armor for reinforcement. Rest at a bonfire to make armor reinforcement possible.",
 
     GeneralInformation:"The Armor Smithbox is an armor modification tool in Dark Souls.",
 
@@ -856,7 +915,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/a/a8/Basement_Key.png/revision/latest?cb=20120901100559",
 
     InGameDescription:
-      `Opens the narrow passage leading below at the far face of the great bridge in the Undead Burg. The lower Undead Burg is a treacherous place. Do not turn your back on the wily thieves, or the wild dogs who serve the Capra Demon.`,
+      "Opens the narrow passage leading below at the far face of the great bridge in the Undead Burg. The lower Undead Burg is a treacherous place. Do not turn your back on the wily thieves, or the wild dogs who serve the Capra Demon.",
 
     GeneralInformation:"The Basement Key is a key in Dark Souls.",
 
@@ -875,7 +934,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/e/e7/Big_Pilgrim%27s_Key.png/revision/latest?cb=20120901100600",
 
     InGameDescription:
-      `Key to the inner door of the Undead Asylum main hall. Big key belonging to a chosen Undead pilgrim. But this chosen Undead knows not what this pilgrimage has in store.`,
+      "Key to the inner door of the Undead Asylum main hall. Big key belonging to a chosen Undead pilgrim. But this chosen Undead knows not what this pilgrimage has in store.",
 
     GeneralInformation:"The Big Pilgrim's Key is a key in Dark Souls.",
 
@@ -894,7 +953,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/6/68/Blighttown_Key.png/revision/latest?cb=20120901100600",
 
     InGameDescription:
-      `Key to Blighttown from the Depths of the Undead Burg. Swallowed by the Gaping Dragon. As its name suggests, Blighttown is a place of great pestilence. Even the polluted inhabitants of the Depths are aware of its dangers, and built this mighty door in hopes that they could remain safely separated.`,
+      "Key to Blighttown from the Depths of the Undead Burg. Swallowed by the Gaping Dragon. As its name suggests, Blighttown is a place of great pestilence. Even the polluted inhabitants of the Depths are aware of its dangers, and built this mighty door in hopes that they could remain safely separated.",
 
     GeneralInformation: "The Blighttown Key is a key in Dark Souls.",
 
@@ -913,7 +972,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/8/8a/2088.png/revision/latest?cb=20111211011602",
 
     InGameDescription:
-      ` peculiar bottomless wooden box. Its origins are unknown. Some deride it as a symbol of unbrideled avarice. Any number of items can be deposited into the box, and items can be managed while resting at a Bonfire.`,
+      " peculiar bottomless wooden box. Its origins are unknown. Some deride it as a symbol of unbrideled avarice. Any number of items can be deposited into the box, and items can be managed while resting at a Bonfire.",
 
     GeneralInformation: "The Bottomless Box is an item in Dark Souls.",
 
@@ -932,7 +991,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/d/d0/Broken_Pendant.png/revision/latest?cb=20121125193608",
 
     InGameDescription:
-      `Half of a broken stone pendant. The vine appears to originate from Oolacile. A powerful magic can be sensed from this ancient stone. Yet men of this time can neither manipulate nor sense its power, which has distinct air consisting of both reverence and nostalgia.`,
+      "Half of a broken stone pendant. The vine appears to originate from Oolacile. A powerful magic can be sensed from this ancient stone. Yet men of this time can neither manipulate nor sense its power, which has distinct air consisting of both reverence and nostalgia.",
 
     GeneralInformation: "The Broken Pendant is a key item in Dark Souls. It is exclusive to the Artorias of the Abyss DLC. A pendant is mentioned in the description of the Soul of Manus as an item of great importance and the reason for his descent into insanity. However, there is no other connection between Manus and this pendant.",
 
@@ -951,7 +1010,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/d/df/Cage_Key.png/revision/latest?cb=20120926094515",
 
     InGameDescription:
-      `Key to the hanging cage in Sen's Fortress. If a hapless adventurer becomes fatigued during an imprudent attempt to overcome the fortress, the serpent men will not kill him, but lock him up in a lonely cage. Eventually, unless they have forgotten, they drag the victim off to who-knows-where.`,
+      "Key to the hanging cage in Sen's Fortress. If a hapless adventurer becomes fatigued during an imprudent attempt to overcome the fortress, the serpent men will not kill him, but lock him up in a lonely cage. Eventually, unless they have forgotten, they drag the victim off to who-knows-where.",
 
     GeneralInformation: "The Cage Key is a key in Dark Souls.",
 
@@ -970,7 +1029,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/2/26/Crest_Key.png/revision/latest?cb=20121125141543",
 
     InGameDescription:
-      `Bent Crest Key. The grooves of the crest are enchanted, the door sealed with a powerful spell.`,
+      "Bent Crest Key. The grooves of the crest are enchanted, the door sealed with a powerful spell.",
       
 
     GeneralInformation: "The Crest Key is a key in Dark Souls. It is only available in the Artorias of the Abyss DLC.",
@@ -990,7 +1049,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/e/ea/Crest_of_Artorias.png/revision/latest?cb=20120901100600",
 
     InGameDescription:
-      `This crest opens a door in the Darkroot Garden sealed by ancient magic. The door leads to the grave of Sir Artorias the Abysswalker. Many adventurers have left for the grave,but none have returned, for they make easy prey for local bandits. With such dangers, the crest can do more harm than good in the hands of the uninitiated.`,
+      "This crest opens a door in the Darkroot Garden sealed by ancient magic. The door leads to the grave of Sir Artorias the Abysswalker. Many adventurers have left for the grave,but none have returned, for they make easy prey for local bandits. With such dangers, the crest can do more harm than good in the hands of the uninitiated.",
       
 
     GeneralInformation: "The Crest of Artorias is a key in Dark Souls. The in-game description of the Crest of Artorias gives some hints about what lies behind the magical door in Darkroot Garden. The local bandits refer to the Forest Hunter Covenant members that attack the player when they go through the magical door. The uninitiated refers to people who are not part of the Forest Hunter covenant because if the player joins the covenant, the bandits will not attack anymore.",
@@ -1010,7 +1069,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/1/17/Dungeon_Cell_Key.png/revision/latest?cb=20120901100800",
 
     InGameDescription:
-      `Key to the dungeon of the Undead Asylum to the North. A mysterious knight, without saying a word, shoved a corpse down into the cell, and on its person was this key. Who was this knight? And what was his purpose? There may be no answer, but one must still forge ahead.`,
+      "Key to the dungeon of the Undead Asylum to the North. A mysterious knight, without saying a word, shoved a corpse down into the cell, and on its person was this key. Who was this knight? And what was his purpose? There may be no answer, but one must still forge ahead.",
       
 
     GeneralInformation: "The Dungeon Cell Key is a key in Dark Souls.",
@@ -1030,7 +1089,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/9/91/Key_to_Depths.png/revision/latest?cb=20120901100800",
 
     InGameDescription:
-    `Key opening the door from the lower Undead Burg to the Depths. Those banished from the Undead Burg eke out their existence in the Depths, a damp lair with no trace of sunlight. Nearly half of the Depths form a perilous flooded labyrinth.`,
+    "Key opening the door from the lower Undead Burg to the Depths. Those banished from the Undead Burg eke out their existence in the Depths, a damp lair with no trace of sunlight. Nearly half of the Depths form a perilous flooded labyrinth.",
       
 
     GeneralInformation: "The Key to Depths is a key in Dark Souls that allows access to the Depths.",
@@ -1044,14 +1103,13 @@ const items = [
     Notes: notes[26],
   },
   {
-    Name: `KEY TO NEW LONDO RUINS`,
+    Name: "KEY TO NEW LONDO RUINS",
 
     Image:
       "https://static.wikia.nocookie.net/darksouls/images/c/c6/Key_to_New_Londo_Ruins.png/revision/latest?cb=20120901100800",
 
     InGameDescription:
-      `Key to the iron bars separating the ruins of New Londo and Drake Valley.
-      The ruins of New Londo were blocked off, for the cursed ghosts posed danger to life and spirit, and the legends speak of a terrible Dark that was sealed away.`,
+      "Key to the iron bars separating the ruins of New Londo and Drake Valley. The ruins of New Londo were blocked off, for the cursed ghosts posed danger to life and spirit, and the legends speak of a terrible Dark that was sealed away.",
       
 
     GeneralInformation: "The Key to New Londo Ruins is a key in Dark Souls.",
@@ -1071,8 +1129,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/a/ac/Key_to_the_Seal.png/revision/latest?cb=20120901100600",
 
     InGameDescription:
-      `Key to the floodgates of New Londo, which seal away the Four Kings who fell to Dark.
-      The Sealers flooded New Londo to banish the Darkwraiths and the Four Kings. The agonizing decision was made with the realization that countless lives, and the robust culture of the city, would be lost. The victims now roam the ruins as ghosts.`,
+      "Key to the floodgates of New Londo, which seal away the Four Kings who fell to Dark. The Sealers flooded New Londo to banish the Darkwraiths and the Four Kings. The agonizing decision was made with the realization that countless lives, and the robust culture of the city, would be lost. The victims now roam the ruins as ghosts.",
       
 
     GeneralInformation: "The Key to the Seal is a key in Dark Souls.",
@@ -1092,8 +1149,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/5/57/Master_Key.png/revision/latest?cb=20120901100800",
 
     InGameDescription:
-      `This universal key opens any basic lock. Tool of the trade for thieves.
-      But in the cursed land of the Undead, most doors are left unopened.`,
+      "This universal key opens any basic lock. Tool of the trade for thieves. But in the cursed land of the Undead, most doors are left unopened.",
       
 
     GeneralInformation: "The Master Key is a key and starting gift in Dark Souls.",
@@ -1113,7 +1169,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      "The purpose of this key is unknown. Resembles a basic prison cell key.",
       
 
     GeneralInformation: "The Mystery Key is a key in Dark Souls.",
@@ -1133,7 +1189,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/0/08/Peculiar_doll.png/revision/latest?cb=20120123093734",
 
     InGameDescription:
-      `A strange doll in strange dress. There once was an abomination who had no place in this world. She clutched this doll tightly, and eventually was drawn into a cold and lonely painted world.`,
+      "A strange doll in strange dress. There once was an abomination who had no place in this world. She clutched this doll tightly, and eventually was drawn into a cold and lonely painted world.",
       
 
     GeneralInformation: "The Peculiar Doll is a key in Dark Souls.",
@@ -1153,7 +1209,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/b/b3/Repairbox.png/revision/latest?cb=20121201041005",
 
     InGameDescription:
-      `Specialized mortar used to repair weapons and armor by grinding repair powder. Rest at a bonfire to make weapon and armor repair possible. Repair powder is fragile and cannot be taken along.`,
+      "Specialized mortar used to repair weapons and armor by grinding repair powder. Rest at a bonfire to make weapon and armor repair possible. Repair powder is fragile and cannot be taken along.",
       
 
     GeneralInformation: "The Repairbox is a weapon modification item in Dark Souls.",
@@ -1173,8 +1229,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/2/2c/Residence_Key.png/revision/latest?cb=20120901100802",
 
     InGameDescription:
-      `Key to a residence in the Undead Burg. Simple, sturdy design of the locks in the Burg keep out unwanted visitors.
-      But this is a standard key in these parts, and will open several residences.`,
+      "Key to a residence in the Undead Burg. Simple, sturdy design of the locks in the Burg keep out unwanted visitors. But this is a standard key in these parts, and will open several residences.",
       
 
     GeneralInformation: "The Residence Key is a key in Dark Souls.",
@@ -1194,7 +1249,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/1/15/Sewer_Chamber_Key.png/revision/latest?cb=20120901100802",
 
     InGameDescription:
-      `Key to the sewer chamber in the Depths. In any community, a few bad apples are sure to exhibit insatiable greed. If they were turned Undead, and banished to the Depths, would they reconsider their ways? Use this key to see for yourself.`,
+      "Key to the sewer chamber in the Depths. In any community, a few bad apples are sure to exhibit insatiable greed. If they were turned Undead, and banished to the Depths, would they reconsider their ways? Use this key to see for yourself.",
       
 
     GeneralInformation: "The Sewer Chamber Key is a key in Dark Souls.",
@@ -1214,7 +1269,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/b/b1/Undead_Asylum_F2_East_Key.png/revision/latest?cb=20120901100802",
 
     InGameDescription:
-      `Key to the iron bars on the east side of the second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison, segmented by countless iron bars. Even if an Undead were to escape from a cell, passage to the outside world would not be gained easily.`,
+      "Key to the iron bars on the east side of the second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison, segmented by countless iron bars. Even if an Undead were to escape from a cell, passage to the outside world would not be gained easily.",
       
 
     GeneralInformation: "The Undead Asylum F2 East Key is a key in Dark Souls.",
@@ -1234,7 +1289,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/c/cf/Undead_Asylum_F2_West_Key.png/revision/latest?cb=20120901100802",
 
     InGameDescription:
-      `Key to the iron bars on the west side of the second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison, segmented by countless iron bars. But even if a hero found a key in Lordran to liberate this prison, would he have the means, or the heart, to ever come back?`,
+      "Key to the iron bars on the west side of the second floor of the North Undead Asylum. The Undead Asylum is a giant Undead prison, segmented by countless iron bars. But even if a hero found a key in Lordran to liberate this prison, would he have the means, or the heart, to ever come back?",
       
 
     GeneralInformation: "The Undead Asylum F2 West Key is a key in Dark Souls.",
@@ -1254,7 +1309,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/e/e6/Watchtower_Basement_Key.png/revision/latest?cb=20120901100834",
 
     InGameDescription:
-      `Key to the basement of the watchtower in the Undead Burg. The basement of the watchtower forms a stone cell. There are rumors of a hero turned Hollow who was locked away by a dear friend. For his own good, of course.`,
+      "Key to the basement of the watchtower in the Undead Burg. The basement of the watchtower forms a stone cell. There are rumors of a hero turned Hollow who was locked away by a dear friend. For his own good, of course.",
       
 
     GeneralInformation: "The Watchtower Basement Key is a key in Dark Souls.",
@@ -1274,7 +1329,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/9/99/Weapon_Smithbox.png/revision/latest?cb=20121204035155",
 
     InGameDescription:
-      `Tools used to etch titanite into weapons for reinforcement. Rest at a bonfire to make weapon reinforcement possible.`,
+      "Tools used to etch titanite into weapons for reinforcement. Rest at a bonfire to make weapon reinforcement possible.",
       
 
     GeneralInformation: "The Weapon Smithbox is a weapon modification tool in Dark Souls.",
@@ -1288,13 +1343,195 @@ const items = [
     Notes: notes[38],
   },
   {
+    Name: "AFFIDAVIT",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/3/35/Affidavit.png/revision/latest?cb=20200808010739",
+
+    InGameDescription:
+      "Slip sold by bishop of Velka, Goddess of Sin. Annul a covenant without committing sin. A covenant is a most sacred union, normally not subject to negotiation, but when circumstances require it, even Goddess Velka will make an exception.",
+      
+
+    GeneralInformation: "The Affidavit is an item that was originally intended to be in Dark Souls, but was removed from the final release.",
+
+    Type: "Miscellaneous",
+
+    Availability: location[39],
+
+    Usage: usage[39],
+
+    Notes: notes[39],
+  },
+  {
+    Name: "ALLURING SKULL",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/b/b4/Alluring_Skull.png/revision/latest?cb=20200810114906",
+
+    InGameDescription:
+      "A skull with meekly lingering souls. Throw to shatter and spread souls to attract certain types of enemies. Souls are a concentration of life, and the life-starved Hollows are lured by its power. Not effective for all enemies.",
+      
+
+    GeneralInformation: "Alluring Skulls are offensive items in Dark Souls.",
+
+    Type: "Projectil",
+
+    Availability: location[40],
+
+    Usage: usage[40],
+
+    Notes: notes[40],
+  },
+  {
+    Name: "BINOCULARS",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/c/cb/Item_Binoculars.png/revision/latest?cb=20120306113822",
+
+    InGameDescription:
+      "Binoculars made of brass. Use to peer at distant scenery. This advanced device was built by a famous craftsman of Astora. Its utility is singular, but its applications many. The value of these specs depends greatly on the imagination of their owner.",
+      
+
+    GeneralInformation: "The Binoculars are a possible starting gift and lootable item in Dark Souls.",
+
+    Type: "Miscellaneous",
+
+    Availability: location[41],
+
+    Usage: usage[41],
+
+    Notes: notes[41],
+  },
+  {
+    Name: "BLACK EYE ORB",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/41/Black_Eye_Orb.png/revision/latest?cb=20121005182118",
+
+    InGameDescription:
+      "Mystical orb found on a Keeper's corpse. Invade the world of the murderer of a Fire Keeper, to defeat the perpetrator and reclaim the soul of the Fire Keeper.The Black Eye keeps constant watch on the city of the Gods, Anor Londo.",
+      
+
+    GeneralInformation: "The Black Eye Orb is a summon item in Dark Souls.",
+    
+    Type: "Miscellaneous",
+
+    Availability: location[42],
+
+    Usage: usage[42],
+
+    Notes: notes[42],
+  },
+  {
+    Name: "BLACK FIREBOMB",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/b/b6/Black_firebomb.png/revision/latest?cb=20121018140034",
+
+    InGameDescription:
+      "Black bisque urn filled with black powder. Explodes, inflicting fire damage. Powerful ranged weapon, especially in situations called for fire damage. A very precious item at low levels. Black Firebombs are especially destructive.",
+      
+
+    GeneralInformation: "Black Firebombs are offensive items in Dark Souls. They are projectile weapons and are more powerful variants of Firebombs.",
+
+    Type: "Projectil",
+
+    Availability: location[43],
+
+    Usage: usage[43],
+
+    Notes: notes[43],
+  },
+
+  {
+    Name: "BLACK SEPARATION CRYSTAL",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/2/2b/Black_Separation_Crystal.jpg/revision/latest?cb=20121115005918",
+
+    InGameDescription:
+      "This black crystal, long a symbol of farewell, is granted to banished Undead. The crystal sends phantoms back to their homes, or sends you back to yours. Beware of fickle use of the item if you intend to nurture relations.",
+      
+
+    GeneralInformation: "The Black Separation Crystal is an online play item in Dark Souls.",
+
+    Type: "Miscellaneous",
+
+    Availability: location[44],
+
+    Usage: usage[44],
+
+    Notes: notes[44],
+  },
+
+  {
+    Name: "BLOODRED MOSS CLUMP",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/0/0b/Bloodred_Moss_Clump.png/revision/latest?cb=20121023194615",
+
+    InGameDescription:
+      "Medicinal red moss clump. Reduces bleeding build-up. Bleeding builds up when attacked by sharp blades or spikes, and once triggered causes severe damage. Use this moss clump before it reaches this point.",
+      
+
+    GeneralInformation: "Bloodred Moss Clumps are restorative items in Dark Souls.",
+
+    Type: "Consumables",
+
+    Availability: location[45],
+
+    Usage: usage[45],
+
+    Notes: notes[45],
+  },
+  {
+    Name: "BLOOMING PURPLE MOSS CLUMP",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/2/2c/Item_Blooming_Purple_Moss_Clump.png/revision/latest?cb=20120308063515",
+
+    InGameDescription:
+      "Potently medicinal moss clump with a flower. Reduces poison and toxin. Restores status. Toxin is a more vicious form of poison which quickly leads to death. Moss clumps without a flower are useless against toxin, and a lack of these moss clumps could lead to an early demise.",
+      
+
+    GeneralInformation: "Blooming Purple Moss Clumps are restorative items in Dark Souls.",
+
+    Type: "Consumables",
+
+    Availability: location[46],
+
+    Usage: usage[46],
+
+    Notes: notes[46],
+  },
+  {
+    Name: "BLUE EYE ORB",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/0/06/Blue_Eye_Orb.png/revision/latest?cb=20121007212221",
+
+    InGameDescription:
+      "Online play item. Invade world of player in Book of the Guilty. Subdue player to acquire Souvenir of Reprisal. (Only Covenanter can use the item) These mystical orbs are granted to Blades of the Darkmoon, knights who serve the Dark Sun Gwyndolin, so that they may serve the Gods in meting out vengeance.",
+      
+
+    GeneralInformation: "The Blue Eye Orb is an online play item in Dark Souls.",
+
+    Type: "Multiplayer Item",
+
+    Availability: location[47],
+
+    Usage: usage[47],
+
+    Notes: notes[47],
+  },
+  {
     Name: "",
 
     Image:
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      "The purpose of this key is unknown. Resembles a basic prison cell key.",
       
 
     GeneralInformation: "The  is a key in Dark Souls.",
@@ -1314,7 +1551,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      "The purpose of this key is unknown. Resembles a basic prison cell key.",
       
 
     GeneralInformation: "The  is a key in Dark Souls.",
@@ -1334,7 +1571,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      "The purpose of this key is unknown. Resembles a basic prison cell key.",
       
 
     GeneralInformation: "The  is a key in Dark Souls.",
@@ -1354,7 +1591,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      "The purpose of this key is unknown. Resembles a basic prison cell key.",
       
 
     GeneralInformation: "The  is a key in Dark Souls.",
@@ -1374,7 +1611,7 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      "The purpose of this key is unknown. Resembles a basic prison cell key.",
       
 
     GeneralInformation: "The  is a key in Dark Souls.",
@@ -1387,8 +1624,6 @@ const items = [
 
     Notes: notes[30],
   },
-
-
 ];
 
 const loadAndSaveData = async () => {
