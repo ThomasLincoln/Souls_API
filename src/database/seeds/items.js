@@ -238,19 +238,99 @@ const Localizacao = [
   },
   {
     "Availability":
-      "lorem",
+      "The Book of the Guilty can be acquired from Oswald of Carim after ringing the first Bell of Awakening. The player can either buy it from him for 1,000 souls, or kill him to get it as a drop.",
   },
   {
     "Availability":
-      "lorem",
+      "Sold by Hawkeye Gough for 5 souls.",
   },
   {
     "Availability":
-      "lorem",
+      "Found on a corpse deep in the Chasm of the Abyss.",
   },
   {
     "Availability":
-      "lorem",
+      `Drops from a specific Bloathead Sorcerer in the Oolacile Township, near where Dark Orb is found.`,
+  },
+  {
+    "Availability":
+      `Sold by Hawkeye Gough for 5 souls.`,
+  },
+  {
+    "Availability":
+      `Dropped by a Mimic in Oolacile Township.`,
+  },
+  {
+    "Availability":`Sold by the Undead Female Merchant for 500 souls each.`,
+    "Availability2":`Drops from Vagrants, specifically the White Good Vagrant.`,
+  },
+  {
+    "Availability":
+      `Gifted by Petrus of Thorolund after speaking with him in Firelink Shrine.`,
+  },
+
+  {
+    "Availability":`Four are found in a chest in Firelink Shrine, under the elevator to Undead Parish.`,
+    "Availability2":`Six are found on a corpse in the lower parts of the New Londo Ruins.`,
+    "Availability3":`Sold by Darkstalker Kaathe for 3,000 souls each.`,
+  },
+  {
+    "Availability":`Granted to players from the beginning of the game.`,
+  },
+  {
+    "Availability":`Three can be obtained if chosen as a starting gift.`,
+    "Availability2":`One is sold by Reah of Thorolund after saving her in the Tomb of the Giants for 1,000 souls.`,
+    "Availability3":`Sold by Patches in a limited quantity for 20,000 souls. Patches is available as a merchant in Firelink Shrine after defeating Gravelord Nito.`,
+    "Availability4":`Gift from Alvina after killing one invader as a Forest Hunter.`,
+    "Availability5":`One can be looted from a chest in Anor Londo (the large room with the painting and the rafters).`,
+    "Availability6":`Two can be looted in Lost Izalith off two of the corpses in the lava pit with the Bounding Demons of Izalith. Obscured by a large branch; difficult to obtain without the Orange Charred Ring.`,
+    "Availability7":`In a chest in Sen's Fortress guarded by Undead Prince Ricard.`,
+    "Availability8":`Two per playthrough can be obtained by trading a Ring of the Sun Princess to Snuggly the Crow.`,
+  },
+  {
+    "Availability":`Obtained after joining the Path of the Dragon covenant.`,
+  },
+  {
+    "Availability":`The Dragon Head Stone is obtained by joining the Path of the Dragon covenant.`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
   },
 
 
@@ -439,15 +519,65 @@ const Uso = [
       "Usage4": "Note that it may be greyed out if too close to a bonfire or crossroad to multiple areas",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": "A reusable online play item. Checklist of indicted players who have sinned.",
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": `Says "Hello" when it makes contact with a hard surface.`,
     },
     {
-      "Usage": "YPSILOM",
+      "Usage": `Says "Help Me!" when it makes contact with a hard surface.`,
+    },
+    {
+      "Usage": `Says "I'm Sorry" when it makes contact with a hard surface.`,
+    },
+    {
+      "Usage": `Says "Thank You" when it makes contact with a hard surface.`,
+    },
+    {
+      "Usage": `Says "Very Good!" when it makes contact with a hard surface.`,
+    },
+    {
+      "Usage": `Adds 80 Fire Damage to your right hand weapon.`,
+      "Usage": `Duration: 60 seconds.`,
+      "Usage": `May only be used on weapons that are on the standard +1...+15 weapon path and which are not inherently magical (see Weapon Buffs).`,
+    },
+    {
+      "Usage": `Can be sold to Kingseeker Frampt for 1.000 souls.`,
+      
+    },
+    {
+      "Usage": `This item will allow you to invade another player's world by force.`,
+    },
+    {
+      "Usage": `Triggers upon death, sending player back to the last used bonfire. Souls and Humanity are lost, but can be regained by touching the bloodstain where death occured.`,
+      "Usage2": `Can also be triggered by the player, to be sent back to the last used bonfire. All carried Souls and Humanity are lost, and cannot be retrieved.`,
+    },
+    {
+      "Usage": `Will restore full Health and cure Bleed, Poison and Toxin, when consumed.`,
+    },
+    {
+      "Usage": `Players who wish to summon you need to be human and alone in their world. Even when someone else just attempts to invade them, the sign will disappear.`,
+    },
+    {
+      "Usage": `Turns your head into one of a dragon.`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
     },
 
+    
   ];
 
 
@@ -632,14 +762,71 @@ const Uso = [
     },
 
     {
-      "Note":"DEIXA",
+      "Note":`If looking at your own character, it will be the character you set "Join Leaderboard" to "ON" on.`,
     },
 
     {
-      "Note":"DEIXA",
+      "Note":"",
     },
-
-
+    {
+      "Note":"",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":"",
+    },
+    {
+      "Note":``,
+    },
+    {
+      "Note":`You must be human to use this item.`,
+      "Note2":`A successful invasion will consume the item`,
+      "Note3":`A failed invasion will not consume the item. (patch 1.05)`,
+      "Note4":`The invader will receive one Humanity if they successfully kill the host.`,
+      "Note5":`The host will receive one Humanity via a Bloodstain if they are successful.`,
+      "Note6":`The host may also report the invader, for an indictment upon death, if they have been invaded using this method.`,
+      "Note7":`Note that it may be greyed out if too close to a bonfire or crossroad to multiple areas.`,
+      "Note8":`The color of this eye orb is based on the Red Eye Stone, obtained by killing The Maiden in Black in Demon's Souls.`,
+      "Note9":`Some believe Darkwraiths to be revolutionaries, defenders of the human race, but they might just be evil Humanity.`,
+    },
+    {
+      "Note":`Unlike dying, a manual trigger will not hollow a player who are in human form.`,
+      "Note2":`A manual trigger will also preserve your bloodstain from a previous death, even though you lose what you are currently holding.`,
+    },
+    {
+      "Note":``,
+    },
+    {
+      "Note":`However, a Hollow player can still place the sign and invade the summoner.`,
+      "Note2":`Not compatible with password matchmaking.`,
+      "Note3":`Having a Dragon Scale is not actually part of the matchmaking requirement.`,
+      "Note4":`The area boss does not need to be alive in the host's world.`,
+      "Note5":`The winner of the duel will be awarded a Dragon Scale.`,
+      "Note6":`The defeated player will not lose any scales.`,
+    },
+    {
+      "Note":`In order to use this successfully, no head armor must be equipped. The effect will last until you die. With a Dragon Head, your fire power increases.`,
+    },
+    {
+      "Note":`DEIXA`,
+    },
+    {
+      "Note":`DEIXA`,
+    },
+    {
+      "Note":`DEIXA`,
+    },
+    {
+      "Note":`DEIXA`,
+    },
 
   ];
 
@@ -1525,16 +1712,295 @@ const items = [
     Notes: notes[47],
   },
   {
+    Name: "BOOK OF THE GUILTY",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/5/5f/2009.png/revision/latest?cb=20121008202844",
+
+    InGameDescription:
+      "Online play item. Check list of indicted players. The Goddess of Sin Velka oversees this list of the guilty, who have disrespected the Gods or their covenants, and shall one day face the wrath of the Blades of the Darkmoon.",
+      
+
+    GeneralInformation: "The Book of the Guilty is an online play item in Dark Souls.",
+
+    Type: "Multiplayer Item",
+
+    Availability: location[48],
+
+    Usage: usage[48],
+
+    Notes: notes[48],
+  },
+  {
+    Name: "HELLO CARVING",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/43/Hello_Carving.png/revision/latest?cb=20200810123323",
+
+    InGameDescription:
+      `Head carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it. This head says "Hello". Have another look. Do you sense the amicability in its eyes?`,
+      
+
+    GeneralInformation: "Carvings are a set of miscellaneous items in Dark Souls. They are only available in the Artorias of the Abyss DLC.",
+
+    Type: "Carving",
+
+    Availability: location[49],
+
+    Usage: usage[49],
+
+    Notes: notes[49],
+  },
+  {
+    Name: "HELP ME! CARVING",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/5/54/Help_Me%21_Carving.png/revision/latest?cb=20121211053639",
+
+    InGameDescription:
+      `Head carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it. This head says "Help me!". Look again. Can you hear the desperate plea?`,
+      
+
+    GeneralInformation: "Carvings are a set of miscellaneous items in Dark Souls. They are only available in the Artorias of the Abyss DLC.",
+
+    Type: "Carving",
+
+    Availability: location[50],
+
+    Usage: usage[50],
+
+    Notes: notes[50],
+  },
+  {
+    Name: "I'M SORRY CARVING",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/a/ae/I%27m_Sorry_Carving.png/revision/latest?cb=20200810123321",
+
+    InGameDescription:
+      `Head carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it. This head says "I'm Sorry". Have another look. Isn't that an expression of atonement?`,
+      
+
+    GeneralInformation: "Carvings are a set of miscellaneous items in Dark Souls. They are only available in the Artorias of the Abyss DLC.",
+
+    Type: "Carving",
+
+    Availability: location[51],
+
+    Usage: usage[51],
+
+    Notes: notes[51],
+  },
+  {
+    Name: "THANK YOU CARVING",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/9/98/Thank_You_Carving.png/revision/latest?cb=20200810123320",
+
+    InGameDescription:
+      `Head carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it. This head says "Thank you". Have another look. Is this not the face of gratitude?`,
+      
+
+    GeneralInformation: "Carvings are a set of miscellaneous items in Dark Souls. They are only available in the Artorias of the Abyss DLC.",
+
+    Type: "Carving",
+
+    Availability: location[52],
+
+    Usage: usage[52],
+
+    Notes: notes[52],
+  },
+  {
+    Name: "VERY GOOD CARVING",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/e/ee/Very_Good%21_Carving.png/revision/latest?cb=20200810123322",
+
+    InGameDescription:
+      `Head carved of archtrees by Gough in his imprisonment. Gough imparts an emotion to each and every completed carving, which helps him achieve personal enlightenment. When a head is disturbed, it speaks, reflecting the emotion conferred to it. This head says "Very Good!". Have another look. Does it not appear quite jovial?`,
+      
+    GeneralInformation: "Carvings are a set of miscellaneous items in Dark Souls. They are only available in the Artorias of the Abyss DLC.",
+
+    Type: "Carving",
+
+    Availability: location[53],
+
+    Usage: usage[53],
+
+    Notes: notes[53],
+  },
+  {
+    Name: "CHARCOAL PINE RESIN",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/1/1d/Charcoal_Pine_Resin.png/revision/latest?cb=20130407035224",
+
+    InGameDescription:
+      `Black charcoal-like pine resin. Applies fire to right-hand weapon.
+      Affected weapon inflicts fire damage for a short time. Particularly effective against corporeal creatures and Undead, who have an instinctual fear of fire.`,
+      
+
+    GeneralInformation: `The Charcoal Pine Resin is an offensive item in Dark Souls.`,
+
+    Type: "Consumables",
+
+    Availability: location[54],
+
+    Usage: usage[54],
+
+    Notes: notes[54],
+  },
+  {
+    Name: `COPPER COIN
+    `,
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/0/05/Coppercoin.png/revision/latest?cb=20121002231620",
+
+    InGameDescription:
+      `Coin made of copper. Its face shows Old Man McLoyf, god of medicine and drink.
+      Even coins of great value in the world often have little value in Lordran, where the accepted currency is souls.
+      Those who dream of returning to the outside world are fond of carrying these around.`,
+      
+
+    GeneralInformation: `The Copper Coin is an item in Dark Souls.
+    `,
+
+    Type: "Miscellaneous",
+
+    Availability: location[55],
+
+    Usage: usage[55],
+
+    Notes: notes[55],
+  },
+  {
+    Name: `CRACKED RED EYE ORB
+    `,
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/1/13/Item_Cracked_Red_Eye_Orb.png/revision/latest?cb=20120308063556",
+
+    InGameDescription:
+      `Online play item. Invade another world. (Hollows cannot use the item)
+      Defeat the master of the world you have invaded to acquire humanity.
+      The Cracked Red Eye Orb allows players to temporarily imitate this ability normally limited to the Darkwraiths of Kaathe.`,
+      
+
+    GeneralInformation: `Cracked Red Eye Orbs are online play items in Dark Souls.
+
+    `,
+
+    Type: "Multiplayer Item",
+
+    Availability: location[56],
+
+    Usage: usage[56],
+
+    Notes: notes[56],
+  },
+  {
+    Name: "DARKSIGN",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/4/4c/Darksign.png/revision/latest?cb=20121005093801",
+
+    InGameDescription:
+      `The Darksign signifies an accursed Undead. Those branded with it are reborn after death, but will one day lose their mind and go Hollow.
+      Death triggers the Darksign, which returns its bearer to the last bonfire rested at, but at the cost of all humanity and souls.`,
+      
+
+    GeneralInformation: `The Darksign is an item in Dark Souls.`,
+
+    Type: "Miscellaneous",
+
+    Availability: location[57],
+
+    Usage: usage[57],
+
+    Notes: notes[57],
+  },
+  {
+    Name: `DIVINE BLESSING
+    `,
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/a/aa/Item_Divine_Blessing.png/revision/latest?cb=20120308064935",
+
+    InGameDescription:
+      `Holy Water from the Goddess Gwynevere. Fully restore HP and undo irregularities.
+      The Goddess of Sunlight, Gwynevere, daughter of the great Lord of Sunlight Gwyn, is cherished by all as a symbol of bounty and fertility.`,
+      
+
+    GeneralInformation: `Divine Blessings are restorative items in Dark Souls.
+
+    `,
+
+    Type: "Consumable",
+
+    Availability: location[58],
+
+    Usage: usage[58],
+
+    Notes: notes[58],
+  },
+  {
+    Name: `DRAGON EYE
+    `,
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/a/ab/Dragon_Eye.png/revision/latest?cb=20121211052302",
+
+    InGameDescription:
+      `Online play item. Find a player who has acquired a Dragon Scale and invade that player's world to pillage it. (Only Covenanter can use the item).
+      An art of the transcendent apostles who pray to the ancient dragons. To be alive is to be vulnerable, and the fiery Gods are no exception. The apostles seek another plane of existence, which transcends life.`,
+      
+
+    GeneralInformation: `The Dragon Eye is an online play item in Dark Souls.
+
+`,
+
+    Type: "Multiplayer Item",
+
+    Availability: location[59],
+
+    Usage: usage[59],
+
+    Notes: notes[59],
+  },
+  {
+    Name: "DRAGON HEAD STONE",
+
+    Image:
+      "https://static.wikia.nocookie.net/darksouls/images/6/61/Dragon_Headstone.png/revision/latest?cb=20121005094308",
+
+    InGameDescription:
+      `Stone imbued with the power of the dragons. Rite of apostles of the ancient dragons. Gain head of dragon. Emit dragon breath.
+      The dragon apostles seek transcendence of life itself, attainable by transformation into an ancient dragon. This rite is only one step, but it cannot be reversed until death.`,
+      
+
+    GeneralInformation: `The Dragon Head Stone is an offensive item in Dark Souls.`,
+
+    Type: "Miscellaneous",
+
+    Availability: location[60],
+
+    Usage: usage[60],
+
+    Notes: notes[60],
+  },
+  {
     Name: "",
 
     Image:
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      "The purpose of this key is unknown. Resembles a basic prison cell key.",
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
       
 
-    GeneralInformation: "The  is a key in Dark Souls.",
+    GeneralInformation: `The  is a key in Dark Souls.`,
 
     Type: "Key",
 
@@ -1551,70 +2017,10 @@ const items = [
       "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
 
     InGameDescription:
-      "The purpose of this key is unknown. Resembles a basic prison cell key.",
+      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
       
 
-    GeneralInformation: "The  is a key in Dark Souls.",
-
-    Type: "Key",
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: "",
-
-    Image:
-      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
-
-    InGameDescription:
-      "The purpose of this key is unknown. Resembles a basic prison cell key.",
-      
-
-    GeneralInformation: "The  is a key in Dark Souls.",
-
-    Type: "Key",
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: "",
-
-    Image:
-      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
-
-    InGameDescription:
-      "The purpose of this key is unknown. Resembles a basic prison cell key.",
-      
-
-    GeneralInformation: "The  is a key in Dark Souls.",
-
-    Type: "Key",
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: "",
-
-    Image:
-      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
-
-    InGameDescription:
-      "The purpose of this key is unknown. Resembles a basic prison cell key.",
-      
-
-    GeneralInformation: "The  is a key in Dark Souls.",
+    GeneralInformation: `The  is a key in Dark Souls.`,
 
     Type: "Key",
 
