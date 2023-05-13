@@ -294,16 +294,25 @@ const Localizacao = [
     "Availability":`The Dragon Head Stone is obtained by joining the Path of the Dragon covenant.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Obtained by reaching Rank +2 in the Path of the Dragon covenant.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Painted World of Ariamis. Drop down onto the balcony, from first left turret when facing the castle from the bonfire.`,
+    "Availability2":`In Dark Souls Remastered, the dried finger is now sold by the Undead Merchant in the Undead Burg, and the item from its previous location is a Twin Humanities.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Sold by Hawkeye Gough in Oolacile Township for 200 souls each. (AotA)`,
+    "Availability2":`Sold by Undead Female Merchant in Lower Undead Burg for 200 souls each.`,
+    "Availability3":`Dropped by Dung Giants (all) in Blighttown.`,
+    "Availability4":`Drops from Infested Barbarian (50% Chance - Blighttown)`,
+    "Availability5":`Drops from Vagrants, specifically the White Good Vagrant.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Sold by Eingyi in Quelaag's Domain for 1,000 souls. If you talk to him while bearing an Egg Head, he will always give you one Vermifuge per infection.`,
+    "Availability2":`Treasure in the attic of the first room with several Engorged Zombies(toxic pyro hollows), in Painted World of Ariamis.`,
+    "Availability3":`Drops from Tree Lizard (10% Chance - Darkroot Garden)`,
+    "Availability4":`Drops from Egg Carrier (5% Chance - Quelaag's Domain or Demon Ruins)`,
+    "Availability5":`Drops from Vagrants, specifically the Red Good Vagrant. `,
   },
   {
     "Availability":`lorem`,
@@ -562,16 +571,21 @@ const Uso = [
       "Usage": `Turns your head into one of a dragon.`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `Turns you completely into a Dragonoid.`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `Resets the internal invasion timer. This way you can be invaded with greater frequency.`,
+      "Usage2": `Dark Souls Remastered only: Unlocks summoning of up to 3 co-op partners, and allows invasions from up to 2 players at the same time. (Max online 6 players in one session)`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `Thrown item. Inflicts Toxic status on enemies, but also on yourself.`,
+      "Usage2": `Toxin build-up is 25 on you, and ?? on target.`,
+      "Usage3": `Toxic Power is 420 (7 HP/s) for 60 seconds.`,
+      "Usage4": `Trade one with Snuggly for a Demon Titanite.`,
+      "Usage5": `Can be "sold" to Frampt for 200 souls.`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `This item cures the egg head infection you may receive when grabbed by an Egg-Burdened, or when attacked by the parasites they bear. These parasites emerge in groups of 5 from the corpses of the Egg-Burdened. You can use it as prophylaxis before an egg head develops if you've been attacked by these enemies. You can also trade it with Snuggly for a Dragon Scale.`,
     },
     {
       "Usage": `YPSILOM`,
@@ -816,10 +830,24 @@ const Uso = [
       "Note":`In order to use this successfully, no head armor must be equipped. The effect will last until you die. With a Dragon Head, your fire power increases.`,
     },
     {
-      "Note":`DEIXA`,
+      "Note":`Using the Dragon Stone will activate an ability similar to Miracle: Force, knocking back opponents.`,
+      "Note2":`Using the Dragon Stone will activate an ability similar to Miracle: Force, knocking back opponents.`,
+      "Note3":`Also for a few seconds, your attack strength will increase 25%.`,
+      "Note4":`Like with the Dragon Head, the effect will last until you die.`,
+      "Note5":`The plunging attack also differs from the norm when in dragon form, having both claws facing downward.`,
+      "Note6":`Covenant related: Path of the Dragon`,
     },
     {
-      "Note":`DEIXA`,
+      "Note":`This internal timer is a fail safe so that people aren't constantly invaded.`,
+      "Note2":`Can be used multiple times without consumption.`,
+      "Note3":`Only one of this item can be held, leaving the player unable to pick it up in the next game cycle.`,
+      "Note4":`Since this item is finger with "multiple knuckles" and is "shriveled but still slightly warm", it's possible that it was a piece of an Undead Dragon, a creature that died long ago but is kept alive (thus "warm") even if horribly rotten.`,
+    },
+    {
+      "Note":``,
+    },
+    {
+      "Note":``,
     },
     {
       "Note":`DEIXA`,
@@ -1991,18 +2019,110 @@ const items = [
     Notes: notes[60],
   },
   {
-    Name: "",
+    Name: "DRAGON TORSO STONE",
 
     Image:
-      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
+      "https://static.wikia.nocookie.net/darksouls/images/8/8c/Dragon_Torso_Stone.png/revision/latest?cb=20121005012648",
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      `Stone imbued with the power of the dragons. Rite of apostles of the ancient dragons. Gain torso of dragon. Roar like a dragon.
+      The dragon apostles seek transcendence of life itself, attainable by transformation into an ancient dragon. This rite is only one step, but it cannot be reversed until death.`,
       
 
-    GeneralInformation: `The  is a key in Dark Souls.`,
+    GeneralInformation: `The Dragon Torso Stone is an offensive item in Dark Souls.`,
 
-    Type: "Key",
+    Type: "Miscellaneous",
+
+    Availability: location[61],
+
+    Usage: usage[61],
+
+    Notes: notes[61],
+  },
+  {
+    Name: `DRIED FINGER
+    `,
+
+    Image:
+      `https://static.wikia.nocookie.net/darksouls/images/2/27/Dried_Finger.png/revision/latest?cb=20111210230840`,
+
+    InGameDescription:
+      `Dried finger with multiple knuckles.
+      Shriveled but still slightly warm. With this many knuckles, surely it cannot belong to anything human.`,
+      
+
+    GeneralInformation: `The Dried Finger is an online play item in Dark Souls.
+
+    `,
+
+    Type: `Multiplayer Item`,
+
+    Availability: location[62],
+
+    Usage: usage[62],
+
+    Notes: notes[62],
+  },
+  {
+    Name: `DUNG PIE
+      `,
+
+    Image:
+      `https://static.wikia.nocookie.net/darksouls/images/5/58/Item_Dung_Pie.png/revision/latest?cb=20120308063730`,
+
+    InGameDescription:
+      `Atrocious fecal waste material. Throw at enemy to build up toxins, but also builds up your toxicity,
+      Although the stench makes it difficult to carry on one's person, turning an enemy toxic inflicts high damage over a period of time.`,
+      
+
+    GeneralInformation: `Dung Pies are offensive items in Dark Souls.
+    `,
+
+    Type: `Projectiles`,
+
+    Availability: location[63],
+
+    Usage: usage[63],
+
+    Notes: notes[63],
+  },
+  {
+    Name: `EGG VERMIFUGE
+    `,
+
+    Image:
+      `https://static.wikia.nocookie.net/darksouls/images/1/18/Egg_vermifuge.png/revision/latest?cb=20121023200115`,
+
+    InGameDescription:
+      `Bitter, sour chestnut. Removes parasitic egg from body.
+      The egg-bearers have chosen to serve the Flame of Chaos, and the eggs symbolize this selfless choice.
+      Naturally, these chestnuts are forbidden, but are allowed under certain circumstances.`,
+      
+
+    GeneralInformation: `Egg Vermifuges are restorative items in Dark Souls.
+    `,
+
+    Type: `Consumable`,
+
+    Availability: location[64],
+
+    Usage: usage[64],
+
+    Notes: notes[64],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
 
     Availability: location[30],
 
@@ -2011,18 +2131,18 @@ const items = [
     Notes: notes[30],
   },
   {
-    Name: "",
+    Name: `aa`,
 
     Image:
-      "https://static.wikia.nocookie.net/darksouls/images/4/49/Mystery_Key.png/revision/latest?cb=20120901100801",
+      `aa`,
 
     InGameDescription:
-      `The purpose of this key is unknown. Resembles a basic prison cell key.`,
+      `aa`,
       
 
-    GeneralInformation: `The  is a key in Dark Souls.`,
+    GeneralInformation: `aa`,
 
-    Type: "Key",
+    Type: `aa`,
 
     Availability: location[30],
 
@@ -2030,6 +2150,187 @@ const items = [
 
     Notes: notes[30],
   },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+  {
+    Name: `aa`,
+
+    Image:
+      `aa`,
+
+    InGameDescription:
+      `aa`,
+      
+
+    GeneralInformation: `aa`,
+
+    Type: `aa`,
+
+    Availability: location[30],
+
+    Usage: usage[30],
+
+    Notes: notes[30],
+  },
+
 ];
 
 const loadAndSaveData = async () => {
