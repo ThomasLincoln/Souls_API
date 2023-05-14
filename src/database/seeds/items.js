@@ -315,28 +315,84 @@ const Localizacao = [
     "Availability5":`Drops from Vagrants, specifically the Red Good Vagrant. `,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`One is found on a corpse in the Royal Wood.`,
+    "Availability2":`One is received from Elizabeth, after agreeing to help her.`,
+    "Availability3":`Another three are received from Elizabeth after defeating Manus, Father of the Abyss.`,
+    "Availability4":`Three are dropped by Elizabeth if she is killed. The player must not have already received three as a reward.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Drops from Oscar of Astora. (Guaranteed - Northern Undead Asylum and Northern Undead Asylum Revisit).`,
+    "Availability2":`Chest behind Frampt's Location in Firelink Shrine (If not picked up from Oscar after NG0).`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`3 are found near the coffin behind the Titanite Demon that leads to the Gravelord Servant covenant in The Catacombs.`,
+    "Availability2":`3 are found on a corpse in the Tomb of the Giants.`,
+    "Availability3":`6% chance drop from Basilisks.`,
+    "Availability4":`3 are sold by Patches in Firelink Shrine for 3,000 souls each. `,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`One is located in Undead Parish. It is on an altar in the Undead Church (2nd section of Undead Parish), guarded by a Berenike Knight.`,
+    "Availability2":`One is located in New Londo Ruins. It can be seen on the right hand when crossing the narrow wooden walkway. Three ghosts will spawn when getting near.`,
+    "Availability3":`One is located in Blighttown. In a wastewater pit, about halfway down from the Valley of Drakes entrance, guarded by fire-dogs and toxic dart shooters.`,
+    "Availability4":`One is located in the Duke's Archives. At the bottom of the prison tower, behind the pisaca. You need the Archive Tower Giant Cell Key that is acquired later in the level to access it (don't confuse this with the Archive Tower Giant Door Key).`,
+    "Availability5":`One is obtained after killing Quelaag's Sister. Please note that you won't be able to join the Chaos Servant covenant or use the bonfire in front of her anymore (with the exclusion of being able to warp to, but not from, that location).`,
+    "Availability6":`One is obtained after killing the Darkmoon Knightess fire keeper in Anor Londo. If you decide to kill her for her soul, her bonfire will no longer be lit but you may still warp there using the Lordvessel.`,
+    "Availability7":`One can be obtained if you allow Knight Lautrec kill Anastacia of Astora, then later kill Knight Lautrec in Anor Londo using the Black Eye Orb that was found at Anastacia's dead body (under the Firelink Shrine bonfire.).`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Sold by Undead Merchant for 50 souls.`,
+    "Availability2":`Sold by Marvelous Chester for 100 souls.`,
+    "Availability3":`Dropped by firebomb throwing Hollow Soldiers`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Found in the Painted World of Ariamis, on a corpse after jumping through two barrels on a ledge in a room with Snow Rats.`,
+    "Availability2":`Mimic drop in Anor Londo, on the second floor after the second bonfire.`,
+    "Availability3":`Found in the Royal Wood, on a corpse.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Treasure x3: Undead Burg, residence beside first crossbow sniper (tower). Requires Residence Key or Master Key.`,
+    "Availability2":`Sold by Domhnall of Zena (only 3) for 1,000 souls each.`,
+    "Availability3":`Sold by Elizabeth (only 5) for 1,000 souls each (AotA).`,
+    "Availability4":`Drops from Large Mushroom People (20% or 80% Chance - Darkroot Garden) `,
+    "Availability5":`Drops from Small Mushroom People (5% Chance - Darkroot Garden)`,
+    "Availability6":`Drops from Vagrants, specifically the Red Good Vagrant`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Purchased from the Crestfallen Merchant for 1,000 souls each (unlimited).`,
+    "Availability":`Common drop from Frog-Rays in the Darkroot Garden.`,
+    "Availability":`Sold by Marvellous Chester for 1,200 souls each.`,
+  },
+  {
+    "Availability":`Can be purchased from Undead Merchant (Female) for 500 souls.`,
+    "Availability":`Can be purchased from Blacksmith Vamos for 500 souls.`,
+    "Availability":`Can be purchased from Oswald of Carim for 500 souls.`,
+    "Availability":`Can be purchased from Hawkeye Gough for 300 souls. `,
+    "Availability":`Can be purchased from Marvelous Chester for 800 souls.`,
+    "Availability":`Treasure x6 in chest at bottom of elevator shaft in Firelink Shrine.`,
+    "Availability":`Drops from Minor Capra Demon (Guaranteed - Demon Ruins)`,
+    "Availability":`Drops from Minor Taurus Demon (Guaranteed - Demon Ruins)`,
+  },
+  {
+    "Availability":`Sold by Undead Merchant (Female) for 5,000 souls (one time only).`,
+    "Availability2":`Sold by Patches the Hyena for 10,000 souls (only sells 3).`,
+    "Availability3":`Sold by Marvelous Chester for 10,000 souls (only sells 13) (AotA)`,
+    "Availability4":`Bribe from Patches, if you talk to him before the first incident, and don't forgive him after.`,
+    "Availability5":`Dropped by several NPCs.`,
+    "Availability6":`Dropped by most Bosses (patch 1.05).`,
+    "Availability7":`Dropped by Pisacas in Duke's Archive (4% Chance).`,
+    "Availability8":`Dropped by Humanity Sprites in Chasm of the Abyss (AotA) (Small: Single 4.44%, Twin 1.11%; Medium: Single 8%, Twin 2%; Large: Single 9.09%, Twin 4.55%).`,
+    "Availability9":`Firelink Shrine: On the corpse hanging over the well.`,
+    "Availability10":`Undead Burg: On top of the sewer canal, beside the entrance from Firelink.`,
+    "Availability11":`Undead Parish: On a corpse in a barrel inside the church, close to Lautrec's cell.`,
+    "Availability12":`New Londo Ruins: At the end of the walkway along the raised wall, close to the Valley of Drakes entrance.`,
+    "Availability13":`Valley of Drakes: In a small cave, beside the lone Drake who blocks the narrow path.`,
+    "Availability14":`Painted World of Ariamis: One on each of the two hanging corpses, cut chains to gain access.`,
+    "Availability15":`Tomb of Giants: On the ledge at the end of the last slide, right above the first bonfire.`,
+    "Availability16":`Crystal Cave: Through a narrow passage with invisible floor, after the first Golem.`,
+    "Availability17":`Drops from Small Rats (5% Chance - Undead Parish, Depths or Firelink Shrine; 3% Chance - Depths or Painted World of Ariamis`,
+    "Availability18":`Drops from Large Rats (100% - Depths)`,
+    "Availability19":`Drops from Snow Rats (5% Chance - Painted World of Ariamis)`,
+    "Availability20":`Drops from Skeleton Baby (2% Chance - Tomb of Giants)`,
   },
   {
     "Availability":`lorem`,
@@ -588,9 +644,53 @@ const Uso = [
       "Usage": `This item cures the egg head infection you may receive when grabbed by an Egg-Burdened, or when attacked by the parasites they bear. These parasites emerge in groups of 5 from the corpses of the Egg-Burdened. You can use it as prophylaxis before an egg head develops if you've been attacked by these enemies. You can also trade it with Snuggly for a Dragon Scale.`,
     },
     {
+      "Usage": `Regenerates health for 30 seconds when consumed.`,
+      "Usage2": `Grants 1,000 souls when fed to Kingseeker Frampt.`,
+    },
+    {
+      "Usage": `Reusable item that replenishes health. Acquire Estus at Bonfires for HP recovery in the field.`,
+    },
+    {
+      "Usage": `The Eyes of Death are used to level up in the Gravelord Servant Covenant.`,
+      "Usage2": `They are also used to put signs on the ground, which will send Black Phantoms into 3 random players worlds. The players can then search for the sign and invade the gravelord. If the invaders are defeated, the gravelord gains additional Eyes of Death. Level range is +/- 10% of the host's level + 10 levels.`,
+    },
+    {
+      "Usage": `This soul is used to reinforce Estus Flasks, to increase its healing powers.`,
+      "Usage2": `To improve your Estus Flasks give the Fire Keeper Soul to one of the three Fire Keepers: Anastacia of Astora, the mute girl in the cell below Firelink Shrine, the Daughter of Chaos (Chaos Servant leader in Quelaag's Domain) or the Darkmoon Knightess, the brass armored Fire Keeper in Anor Londo.`,
+      "Usage3": `If you wish to revive Anastacia of Astora, do NOT use or consume her soul! Only her own soul, obtained by invading and defeating Knight Lautrec, can be used to bring her back to life. To avoid confusion, go straight back to Firelink and revive her as soon as you obtain this item.`,
+    },
+    {
+      "Usage": `Throwable item.`,
+      "Usage2": `Deals fire damage. (Amount depends on the enemy's resistance to Fire.)`,
+    },
+    {
+      "Usage": `Can be sold to Kingseeker Frampt for 5.000 souls.`,
+    },
+    {
+      "Usage": `Applies 150 Lightning damage to the right-hand weapon.`,
+    },
+    {
+      "Usage": `Increases Stamina recovery speed by 40 per second when consumed.`,
+    },
+    {
+      "Usage": `Transports player to the last visited Bonfire, player loses neither souls nor humanity.`,
+    },
+    {
+      "Usage": `Increases Humanity count by 1 when consumed.`,
+      "Usage2": `Restores full health when consumed. (at least 2000+)`,
+    },
+    {
       "Usage": `YPSILOM`,
     },
-
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
     
   ];
 
@@ -848,6 +948,76 @@ const Uso = [
     },
     {
       "Note":``,
+    },
+    {
+      "Note":`Regeneration rate is approximately 100 HP per second.`,
+      "Note2":`Elizabeth's Mushroom is a Self Buff and interferes with other such buffs (i.e. Great Magic Barrier, Transient Curse, Power Within, etc.). As long as it's active it's not possible to cast other Self Buffs and vice versa.`,
+    },
+    {
+      "Note":`Resting at Bonfires will recover your supply of Estus, up to the limit of that particular fire.`,
+      "Note2":`The starting number of uses you recover from any normal Bonfire is 5.`,
+      "Note3":`Use"Kindle" at a Bonfire, and spend one Humanity point, to increase the amount to 10 for that particular fire.`,
+      "Note4":`The Bonfires with a Fire Keeper present are kindled by default, providing 10 flasks.`,
+      "Note5":`After acquiring the Rite of Kindling the bonfires can be kindled to 15 and then to 20 Estus uses.`,
+      "Note6":`Resting will always provide you with the maximum amount of Estus for that Bonfire.`,
+      "Note7":`Drinking Estus will also heal summoned co-op players. This does not apply to summoned NPCs.`,
+      "Note8":`Other online players Kindling their bonfires in the same area can grant you a bonus Estus use.`,
+      "Note9":`If you have 20 full charges in your bottle already, the number of charges will not increase further.`,
+      "Note10":`The Estus Flask can be upgraded with a Fire Keeper Soul, up to +7, to replenish more HP with each charge.`,
+      "Note11":`To upgrade it, give Fire Keeper Souls to one of the three known Fire Keepers: Anastacia, the mute girl below Firelink Shrine, The Fair Lady, who resides in Quelaag's Domain, beyond the boss room, and behind an illusionary wall, and the Darkmoon Knightess, leaning against a wall in the room containing the first bonfire in Anor Londo.`,
+      "Note12 (Values of heal)":[300,	400,	500,	600,	650,	700,	750,	800],
+    },
+    {
+      "Note":`A black aura appears around the player, indicating the Eye of Death is active.`,
+      "Note":`You can't fight any bosses while the Eye of Death is active, but you can walk between areas freely.`,
+      "Note":`The effect is removed when you die, or quit and reload the game as well as being summoned, invading via cracked orbs or using homebound or homeward bones.`,
+      "Note":`The player can only visit Nito if they have one or more Eye(s) of Death in their inventory.`,
+    },
+    {
+      "Note":`Only one of each Fire Keeper Soul can be carried at a time, but one can also be stored in the Bottomless Box, making it possible to have a total of 14.`,
+      "Note2 (Another Game Description)":`Soul of the Ash Maiden, Fire Keeper of Firelink Shrine.
+      A Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. Was the Ash Maiden locked in this dark prison for some transgression, or by her own will?`,
+      "Note3 (Another Game Description)":`Soul of the Darkmoon Knightess, Fire Keeper of Anor Londo.
+      A Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. Her brass armor serves to disguise this ghastly form.`,
+      "Note4 (Another Game Description)":`Soul of a Daughter of Chaos, Fire Keeper of Quelaag's Domain.
+      A Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. To her, the countless eggs which appeared were cradles for each tiny humanity.`,
+
+    },
+    {
+      "Note":`Firebombs deal 21 poise damage.`,
+      "Note":`Very low price (50 souls apiece) and good damage make them handy in many situations. You can kill the Undead Attack Dogs in Capra Demon's fight with a single bomb, making it much easier to run up the stairs without having to circle around the dogs. Firebombs are also good replacements for Fireorbs/Fireballs when the target is outside the range of these pyromancy spells.`,
+    },
+    {
+      "Note":`Cannot be sold to Kingseeker Frampt if you either jump down the hole he is in or speak to Darkstalker Kaathe`,
+    },
+    {
+      "Note":`Duration: 60 seconds.`,
+      "Note2":`May only be used on weapons that are on the standard +1...+15 weapon path and which are not inherently magical.`,
+    },
+    {
+      "Note":`Duration: 60 seconds.`,
+      "Note":`Stacks with: Cloranthy Ring, Grass Crest Shield and Mask of the Child.`,
+      "Note":`Green Blossom is a Self Buff and interferes with other such buffs (i.e. Great Magic Barrier, Transient Curse, Power Within, etc.). As long as it's active it's not possible to cast other Self Buffs and vice versa.`,
+    },
+    {
+      "Note":`Same effect as the "Homeward" Miracle.`,
+      "Note2":`Bonfires were originally used to burn the bones of slaughtered cattle, hence the name; bone-fire.`,
+      "Note3":`Homeward Bone is obviously a play on words with the expression "Homeward Bound".`,
+    },
+    {
+      "Note":`Can be traded to Snuggly for a Ring of Sacrifice.`,
+      "Note2":`Can be sold to Kingseeker Frampt for 1,000 souls.`,
+      "Note3":`The more Humanity one has in the counter by their health bar, the higher some resistances are. `,
+      "Note4":`Humanity in the counter also increases Curse resistance to a high degree the more one has. `,
+      "Note5":`Humanity also greatly increase Item Discovery hardcapping at 10 Humanity in the counter granting 210 Item Discovery. `,
+      "Note6":`Humanity is the primary component of the Chaos upgrade path's power with the max damage bonus being received  at 10 Humanity held in the counter. `,
+      "Note7":`A great tactic is to obtain the Dark Hand as soon as one can as NPCs that are Humanoid characters like Petrus hold a good amount of Humanity that can be absorbed.`,
+      "Note8":`For characters that are encountered sitting, kicking them with cause  them to stand up. Using the Force Miracle works as well if one fears miss-clicking a kick and attacking said character.`,
+      "Note9":`In addition to what is mentioned above, using the Kick maneuver or the Force Miracle deal no damage to said characters and does not incur a sin. Using the Dark Hand's Absorb grab-attack does not deal damage to targets either, however it does cause the NPCs to speak as if they were attacked. This is not a cause for alarm as no damage is being done and it does not incur a sin as long as the grab connects and animation plays.  Make sure to be on even ground and close to the target.`,
+      "Note10":`Humanity can be conveniently farmed infinitely at the last bonfire at the end of the Artorias of the Abyss DLC in the final area leading up to Manus, Father of the Abyss. `,
+    },
+    {
+      "Note":`DEIXA`,
     },
     {
       "Note":`DEIXA`,
@@ -2111,226 +2281,181 @@ const items = [
     Notes: notes[64],
   },
   {
-    Name: `aa`,
+    Name: `ELIZABETH'S MUSHROOM`,
 
     Image:
-      `aa`,
+      `https://static.wikia.nocookie.net/darksouls/images/b/b9/Elizabeth%27s_Mushroom.png/revision/latest?cb=20121211052518`,
 
     InGameDescription:
-      `aa`,
+      `Large medicinal mushroom of Elizabeth, keeper of the sanctuary.
+      Eating this mushroom invigorates the flesh, and greatly restores HP for a limited duration.
+      Its dramatic effect can make the difference between a warrior's life and death.`,
       
 
+    GeneralInformation: `Elizabeth's Mushrooms are restorative items in Dark Souls. They are only available in the AotA DLC.
+
+    `,
+
+    Type: `Consumable`,
+
+    Availability: location[65],
+
+    Usage: usage[65],
+
+    Notes: notes[65],
+  },
+  {
+    Name: `ESTUS FLASK (DARK SOULS)
+    `,
+    Image:
+      `https://static.wikia.nocookie.net/darksouls/images/7/78/Item_Estus_Flask.png/revision/latest?cb=20120412071752`,
+    InGameDescription:
+      `The Undead treasure these dull green flasks. Fill with Estus at bonfire. Fills HP. The Estus Flasks are linked to the Fire Keepers. The Dark Tales also make reference:
+      An emerald flask, from the Keeper's soul
+      She lives to protect the flame,
+      And dies to protect it further.`,
+    GeneralInformation: `Estus Flasks are restorative items in Dark Souls.
+
+    `,
+    Type: `Consumable`,
+    Availability: location[66],
+    Usage: usage[66],
+    Notes: notes[66],
+  },
+  {
+    Name: `EYE OF DEATH`,
+
+    Image:
+      `https://static.wikia.nocookie.net/darksouls/images/9/9b/Eye_of_Death.png/revision/latest?cb=20121211052645`,
+
+    InGameDescription:
+      `Online play item. Lure phantoms from other worlds. (Only Covenanter can use the item while Hollows cannot)
+      The dreadful Eyes of Death spread disaster across neighboring worlds. Phantoms lured to the host world may end up as victims, allowing the Eyes of Death to multiply, and leading to further proliferation of bane.`,
+      
+
+    GeneralInformation: `Eyes of Death are online play items in Dark Souls.`,
+
+    Type: `Multiplayer Item`,
+
+    Availability: location[67],
+
+    Usage: usage[67],
+
+    Notes: notes[67],
+  },
+  {
+    Name: `FIRE KEEPER SOUL`,
+
+    Image:
+      `https://static.wikia.nocookie.net/darksouls/images/a/ac/2130.png/revision/latest?cb=20120124035945`,
+
+    InGameDescription:
+      `Soul of a long-lost Fire Keeper. Each Fire Keeper is a corporeal manifestation of her bonfire, and a draw for the humanity which is offered to her. Her soul is gnawed by infinite humanity, and can boost the power of the precious Estus Flask. Reinforced Estus Flasks capture denser Estus, allowing for increased restoration of HP.`,
+      
+
+    GeneralInformation: `Fire Keeper Souls are restorative items in Dark Souls.`,
+
+    Type: `Consumable`,
+
+    Availability: location[68],
+
+    Usage: usage[68],
+
+    Notes: notes[68],
+  },
+  {
+    Name: `FIREBOMB
+    `,
+
+    Image:
+      `https://static.wikia.nocookie.net/darksouls/images/b/b0/Firebomb.png/revision/latest?cb=20160526213656`,
+
+    InGameDescription:
+      `Bisque urn filled with black powder. Explodes, inflicting fire damage.
+      Relatively powerful ranged weapon, especially in situations calling for fire damage. A very precious item for low levels.
+      Many warriors use these to augment their strategic repertoire.`,
+      
+
+    GeneralInformation: `Firebombs are offensive items in Dark Souls. They are used for ranged attacks, and inflict fire damage.`,
+
+    Type: `Projectiles`,
+
+    Availability: location[69],
+
+    Usage: usage[69],
+
+    Notes: notes[69],
+  },
+  {
+    Name: `GOLD COIN`,
+    Image:`https://static.wikia.nocookie.net/darksouls/images/1/1f/Gold_Coin.png/revision/latest?cb=20120930091545`,
+    InGameDescription: `Coin made of gold, with Allfather Lloyd and his white halo shown on its face. Even coins of great value in the world of men have little value in Lordran, where the accepted currency is souls. Those who dream of returning to the outside world are fond of carrying these around.`,
+    GeneralInformation: `Gold Coins are items in Dark Souls.`,
+    Type: `Miscellaneous`,
+    Availability: location[70],
+    Usage: usage[70],
+    Notes: notes[70],
+  },
+  {
+    Name: `GOLD PINE RESIN`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/4/40/Item_Gold_Pine_Resin.png/revision/latest?cb=20130407034540`,
+    InGameDescription: `Rare pine which emits golden sparks. Applies lightning to right-hand weapon. Affected weapon inflicts rare lightning damage, making it effective against targets which are resilient to both magic and fire. Very effective against dragon family foes.`,
+    GeneralInformation: `Gold Pine Resins are offensive items in Dark Souls.`,
+    Type: `Consumable`,
+    Availability: location[71],
+    Usage: usage[71],
+    Notes: notes[71],
+  },
+  {
+    Name: `GREEN BLOSSOM`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/8/85/Green_blossom.png/revision/latest?cb=20121018125640`,
+    InGameDescription: `Green weed, shaped like a flower. Temporary boost to stamina recovery speed. This uniquely bitter, biting herb is sometimes harvested in large quantities but normally it is an annual plant found near water.`,
+    GeneralInformation: `The Green Blossom is a restorative item in Dark Souls.`,
+    Type: `Consumable`,
+    Availability: location[72],
+    Usage: usage[72],
+    Notes: notes[72],
+  },
+  {
+    Name: `HOMEWARD BONE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/a/ab/Homeward_Bone.png/revision/latest?cb=20121211053925`,
+    InGameDescription: `Bone fragment reduced to white ash. Return to last bonfire used for resting. Bonfires are fueled by the bones of the Undead. In rare cases, the strong urge of their previous owner's [sic] to seek bonfires enchants their bones with a homeward instinct.`,
+    GeneralInformation: `Homeward Bones are miscellaneous items in Dark Souls.`,
+    Type: `Consumable`,  
+    Availability: location[73],
+    Usage: usage[73],
+    Notes: notes[73],
+  },
+  {
+    Name: `HUMANITY (ITEM)`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/8/89/Item_Humanity.png/revision/latest?cb=20120306111417`,
+    InGameDescription: `Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP. This black sprite is called humanity, but little is known about its true nature. If the soul is the source of all life, then what distinguishes the humanity we hold within ourselves?`,
+    GeneralInformation: `Humanity is a restorative item in Dark Souls. It is also commonly known as solid humanity, to distinguish it from its liquid form.`,
+    Type: `Consumable`,
+    Availability: location[74],
+    Usage: usage[74],
+    Notes: notes[74],
+  },
+  {
+    Name: `aa`,
+    Image: `aa`,
+    InGameDescription: `aa`,
     GeneralInformation: `aa`,
-
     Type: `aa`,
-
     Availability: location[30],
-
     Usage: usage[30],
-
     Notes: notes[30],
   },
   {
     Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
+    Image: `aa`,
+    InGameDescription: `aa`,
     GeneralInformation: `aa`,
-
     Type: `aa`,
-
     Availability: location[30],
-
     Usage: usage[30],
-
     Notes: notes[30],
   },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-  {
-    Name: `aa`,
-
-    Image:
-      `aa`,
-
-    InGameDescription:
-      `aa`,
-      
-
-    GeneralInformation: `aa`,
-
-    Type: `aa`,
-
-    Availability: location[30],
-
-    Usage: usage[30],
-
-    Notes: notes[30],
-  },
-
 ];
 
 const loadAndSaveData = async () => {
