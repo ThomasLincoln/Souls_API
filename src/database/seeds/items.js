@@ -395,9 +395,68 @@ const Localizacao = [
     "Availability20":`Drops from Skeleton Baby (2% Chance - Tomb of Giants)`,
   },
   {
+    "Availability":`Sold by Oswald of Carim for 200 souls each.`,
+  },
+  {
+    "Availability":`Four are found in a chest in Firelink Shrine. Drop from the elevator leading to the Undead Parish to obtain them.`,
+    "Availability2":`Sold by Marvelous Chester in Royal Wood for 800 souls each.`,
+    "Availability3":`Sold by Undead Male Merchant in Undead Burg for 500 souls each.`,
+  },
+  {
+    "Availability":`Sold by the Undead Male Merchant for 100 souls.`,
+    "Availability2":`If not purchased, the Undead Male Merchant will drop this item upon death.`,
+  },
+  {
+    "Availability":`Can be obtained as a starting gift.`,
+    "Availability2":`Found on the altar in the Undead Parish, if the player allows Petrus to kill Reah.`,
+    "Availability3":`Random reward for killing an invader in the Forest Hunter covenant.`,
+  },
+  {
+    "Availability":`Sold by the Undead Female Merchant in Lower Undead Burg for 100 souls each.`,
+  },
+  {
+    "Availability":`Sold by Undead Merchant (Female) for 10 souls.`,
+    "Availability2":`Sold by Patches the Hyena for 10 souls.`,
+    "Availability3":`Sold by Hawkeye Gough for 10 souls.`,
+    "Availability4":`Treasure x20: Chest in The Duke's Archives, beneath the staricase that leads to the Crystal Cave.`,
+    "Availability5":`Drops from Vagrants, specifically the White Good Vagrant. `,
+  },
+  {
+    "Availability":`Five are sold by Oswald of Carim in Undead Parish for 3,000 souls each.`,
+    "Availability2":`Sold by the Undead Female Merchant in Lower Undead Burg for 6,000 souls each.`,
+    "Availability3":`Two per playthrough may be obtained from Snuggly the Crow in exchange for a Cracked Red Eye Orb.`,
+    "Availability4":`Dropped by Man-Eater Shells (10% Chance) in Ash Lake or the Crystal Cave.`,
+    "Availability5":`Drops from Vagrants, specifically the Red Good Vagrant.`,
+  },
+  {
+    "Availability":`Granted to the player the first time they enter the Battle of Stoicism duel arena, right before the Oolacile Township.`,
+  },
+  {
+    "Availability":`Sold by Undead Merchant (Female) for 500 souls.`,
+    "Availability2":`Dropped by Ents in Darkroot Garden.`,
+    "Availability3":`Drops from Ents (20% chance - Darkroot Garden)`,
+    "Availability4":`Drops from Treant Gardener (Royal Wood)`,
+    "Availability5":`Drops from Blowdart Sniper (30% ~ 70% chance - Blighttown)`,
+    "Availability6":`Drops from Vagrants, specifically the White Good Vagrant.`,
+  },
+  {
+    "Availability":`Granted to the player by Darkstalker Kaathe upon reaching Darkwraith covenant level +1.`,
+  },
+  {
     "Availability":`lorem`,
   },
-
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
 
 ];
 
@@ -678,6 +737,44 @@ const Uso = [
     {
       "Usage": `Increases Humanity count by 1 when consumed.`,
       "Usage2": `Restores full health when consumed. (at least 2000+)`,
+    },
+    {
+      "Usage": `When slain by an invading player, this item can be used to add that player's name to the Book of the Guilty. (Being indicted by another player online will give you +1 sin)`,
+    },
+    {
+      "Usage": `Throw at an enemy to deny Estus recovery.`,
+      "Usage2": `Can also be thrown at Mimic chests, to make them fall asleep and give up treasure. More info can be found here.`,
+    },
+    {
+      "Usage": `Using the Orange Guidance Soapstone allows players to leave messages on the ground for other players in other worlds to see. It also allows players to rate other players' messages.`,
+    },
+    {
+      "Usage": `Can be traded to Snuggly for a Souvenir of Reprisal.`,
+    },
+    {
+      "Usage": `Throwing knife used as a consumable item, does (?) amount of poison buildup, and deals 7 poise damage.`,
+    },
+    {
+      "Usage": `Used to make breadcrumb trails, or to mark areas already visited in confusing places.`,
+      "Usage2": `Used to determine the height of a fall. Listen to the sound of the stone hitting the ground. If it's loud, the fall will be fatal.`,
+      "Usage3": `Trade one to Snuggly for a Demon Titanite.`,
+    },
+    {
+      "Usage": `Reduces curse build-up and breaks curse.`,
+    },
+    {
+      "Usage": `Multiplayer item. Exit Battle of Stoicism.`,
+    },
+    {
+      "Usage": `Reduces the accumulation of poison and cancels poisoned status.`,
+      "Usage2": `One Purple Moss Clump per playthrough can be traded to Snuggly the Crow for a Twinkling Titanite.`,
+    },
+    {
+      "Usage": `Unlike its cracked brethren, the item is not consumed upon use, and can be used infinitely`,
+      "Usage2": `You can use the orb in any multiplayer-able area. Note that it may be greyed out if too close to a bonfire or a crossroad to multiple areas`,
+    },
+    {
+      "Usage": `YPSILOM`,
     },
     {
       "Usage": `YPSILOM`,
@@ -1017,7 +1114,60 @@ const Uso = [
       "Note10":`Humanity can be conveniently farmed infinitely at the last bonfire at the end of the Artorias of the Abyss DLC in the final area leading up to Manus, Father of the Abyss. `,
     },
     {
-      "Note":`DEIXA`,
+      "Note":`Being indicted gives you +1 sin, and will leave you open to invasions from the Blade of the Dark Moon faction.`,
+      "Note2":`If slain by a player in the Blade of the Dark Moon faction, you will get -1 sin, and be notified that the invading player cannot be indicted.`,
+      "Note3":`Red phantoms summoned from their Red Sign Soapstone can not be indicted after killing the host.`,
+      "Note4":`Forest Hunter and Path of the Dragon members can also be indicted while invading with their covenant item. They will not be added to the Book of the Guilty scoreboard, but will still be open to Darkmoon invasions.`,
+      "Note5":`This item is not consumed upon use, so it only needs to be bought once.`,
+      "Note6":`The "Indict ...?" prompt goes away if the indictment is discarded.`,
+      "Note7":`A host can indict an invader even if killed by something else while the invader is present.`,
+    },
+    {
+      "Note":`The visual effect of the Talisman lasts for 25 seconds. The actual effect lasts for approximately the same length.`,
+      "Note2":`Lloyd's Talismans don't block healing from any source other than Estus Flasks, including miracles, Humanity and Divine Blessings.`,
+      "Note4":`Throwing a Lloyd's Talisman at a Mimic causes it to go to sleep, allowing the player to collect its item without danger of being attacked.`,
+      "Note5":`It is rumored that one can get it very rarely from Giant Clams. However, this is more likely to be related to the drift item mechanics, as it has been reported that dropped items were found on the floor in various areas, including the boss room in the Abyss.`,
+    },
+    {
+      "Note":`The soapstone is not needed to read or rate messages, only to write them.`,
+      "Note2":`A message will only be sent to other players while the author of the message is online and connected.`,
+      "Note3":`Players can cast six messages at a time, per character.`,
+      "Note4":`Cast the Seek Guidance Miracle to see more messages, as well as their ratings. This miracle will also show some helpful developer messages, visible both on- and offline (see seek guidance for details).`,
+      "Note5":`There are also tutorial messages scattered around, mostly in the Undead Asylum. These messages can only be read, and are visible both on- and offline.`,
+    },
+    {
+      "Note":`No other usage, from the director of Darks Souls: "When it comes to the pendant, I actually had a little bit of an intention to play a prank."`,
+      "Note2":`Hidetaka Miyazaki, dark souls game director, suggested that the player should choose either the Pendant or Nothing as a starting gift. His suggestion set in motion all kinds of speculation on the Pendant's 'true' usage, but no additional effect or usage have yet been discovered.`,
+      "Note3":`It is speculated that invaders in Darkroot Garden must have chosen the Pendant as a gift, or in their possession, to drop one upon death.`,
+      "Note4":`Based on in-game dialogue (which one ?) the pendant may be an heirloom handed down from the Furtive Pygmy, one of the first to receive a flame. If this is true then both the player (if the item is taken as a starting gift) and/or Reah of Thorolund (her ownership is discovered after certain events) are possibly descendants of the Pygmy.      `,
+      "Note4":`Supposedly the player is the descendant of the pygmy, who snuffed his flame in favor of the age of man. Meaning the "bad" ending is really the good ending. And when you consider that Gwynevere seems to be an illusion conjured by Gwyndolin, it seems like she is trying to trick you into disregarding your ancestor's wishes and prolonging the age of Gods, making the "good" ending the bad ending.`,
+      "Note5":`Since it has been said that it is impossible to find its use in the first playthrough, maybe it's required to play multiple times with the same pendant on our inventory to unlock its effect. --- LautrecOfCarim`,
+      "Note6":`Since it has been said that it is impossible to find its use in the first playthrough, maybe it's required to play multiple times with the same pendant on our inventory to unlock its effect. --- LautrecOfCarim`,
+      "Note7":`There's a pendant in Shadow Tower: Abyss for the PS2 as well. Shadow Tower games are first-person action RPGs and just like King's Field, another RPG series by From, they are a sort of a precursor to Demon's Souls and Dark Souls. In one of the game's levels you find an item called "Onyx Pendant" (it's in a chest hidden behind a breakable wall). Its description says "Old-looking item with no obvious value". The pendant proceeds to sit in your inventory till the end of the game as there's absolutely nothing you can do with that thing. You find tons of weapons, equipment and other items throughout the game and every single one of them has a purpose but not the pendant.`,
+      "Note8":`A pendant called 'Seath's Tear' can also be found by completing a sub-quest in King's Field (king's field 2 in japan). In that game the pendant actually has a purpose, as it will revive the wearer by offering a statue (idol) of Seath.`,
+      "Note9":`Let's see what we know so far; The description says that "fond memories comfort travellers". Reah has one and you get them randomly from forest intruder kills. Reah does not have it on her when she's found praying in front of a statue in Undead Parish. The same statue is found near the Darkmoon Ring and the Sunlight Altar. You can trade it in to Snuggly for a Souvenir of Reprisal. Souvenirs of Reprisal are offerings in the Darkmoon covenant. The description of the pendant matches that of the sunlight medal (could be just a translation error). Please let me know if there are any other connections or clues about the pendant and I'll add it to the list. The only trail I seem to be finding is that it's pointing me in the direction of Gwyn's offsprings or towards "protectors" (Darkmoons and Forest Hunters). Someone pointed out that the pendant also looks dirty or covered in mud. I tried thinking of a way to "wash it off" and thought about dropping it in the Ash Lake. It didn't change anything about it so I decided to quit and reload ala snuggly trade. All that did was make the item disappear. So now I'm stuck with the pendant Reah dropped. I'll try and see if I can do anything special with it in Gwyn's tomb or Gwynevere's chamber.`,
+    },
+    {
+      "Note":``,
+    },
+    {
+      "Note (Prism Colors)":['Purple', 'Yellow', 'Green', 'White', 'Red/Orange', 'Light Cyan', 'Pink', 'Blue', 'Orange/Pink', 'Red', 'Slightly different green'],
+    },
+    {
+      "Note":`Does not remove the Transient Curse effect.`,
+    },
+    {
+      "Note":`The Purple Coward's Crystal has a somewhat long casting animation that can be interrupted by the opponent.`,
+    },
+    {
+      "Note":`Siegmeyer of Catarina gifts a Pierce Shield to the player in Blighttown in exchange for three Purple Moss Clumps.`,
+    },
+    {
+      "Note":`Can invade only players who have not killed the area boss yet.`,
+      "Note2":`Can invade anyone with higher level than you or 10% lower level than you.`,
+      "Note3":`Humanity is gained when you defeat a 'master of world'`,
+      "Note4":`The color of this eye orb is based on the Red Eye Stone, obtained by killing The Maiden in Black in Demon's Souls.`,
+      "Note5":`Some believe Darkwraiths to be revolutionaries, defenders of the human race, but they might just be evil Humanity.`,
     },
     {
       "Note":`DEIXA`,
@@ -1025,7 +1175,9 @@ const Uso = [
     {
       "Note":`DEIXA`,
     },
-
+    {
+      "Note":`DEIXA`,
+    },
   ];
 
 
@@ -2437,14 +2589,105 @@ const items = [
     Notes: notes[74],
   },
   {
-    Name: `aa`,
-    Image: `aa`,
-    InGameDescription: `aa`,
-    GeneralInformation: `aa`,
-    Type: `aa`,
-    Availability: location[30],
-    Usage: usage[30],
-    Notes: notes[30],
+    Name: `INDICTMENT`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/8/8f/Indictment.png/revision/latest?cb=20200808011534`,
+    InGameDescription: `Slip sold by bishop of Velka, Goddess of Sin. If you are killed by an invader, use this to report the crime of the trespasser. The indicted player will be added to a list of unfortunate souls who will one day face the wrath of the Blades of the Darkmoon.`,
+    GeneralInformation: `Indictments are online play items in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[75],
+    Usage: usage[75],
+    Notes: notes[75],
+  },
+  {
+    Name: `LLOYD'S TALISMAN`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/5/54/Lloyds_Talisman.png/revision/latest?cb=20121002231505`,
+    InGameDescription: `Talisman utilized by Allfather Lloyd's cleric knights to hunt down the Undead.
+    Blocks Estus recovery within a limited area. In the outside world, the Undead are accursed creatures, and Lloyd's cleric knights are widely praised for their Undead hunts. This blessed talisman blocks Undead recovery, allowing the knights to fight with impunity.`,
+    GeneralInformation: `Lloyd's Talismans are offensive items in Dark Souls.`,
+    Type: `Projectiles`,
+    Availability: location[76],
+    Usage: usage[76],
+    Notes: notes[76],
+  },
+  {
+    Name: `ORANGE GUIDANCE SOAPSTONE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/61/Guidance_Soapstone.png/revision/latest?cb=20121004033007`,
+    InGameDescription: `Online play item. Write/view/rate message. Messages transmit to other worlds, where they are rated. Also, rate messages of others. In Lordran, the flow of time is distorted, and messages allow Undead to assist (or deceive) one another.`,
+    GeneralInformation: `The Orange Guidance Soapstone is an online play item in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[77],
+    Usage: usage[77],
+    Notes: notes[77],
+  },
+  {
+    Name: `PENDANT`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/e/ee/Item_Pendant.png/revision/latest?cb=20120308064243`,
+    InGameDescription: `A simple pendant with no effect. Even so, pleasant memories are crucial to survival on arduous journeys.`,
+    GeneralInformation: `The Pendant is a miscellaneous item in Dark Souls. It is one of the starting gifts.`,
+    Type: `Miscellaneous`,
+    Availability: location[78],
+    Usage: usage[78],
+    Notes: notes[78],
+  },
+  {
+    Name: `POISON THROWING KNIFE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/f/f8/Poison_Throwing_Knife.png/revision/latest?cb=20121220011942`,
+    InGameDescription: `Throwing knives have limited range and accuracy compared to arrows, but offer a quick-and-easy ranged attack. When a foe is poisoned, it will continually take damage over a period of time.`,
+    GeneralInformation: `The Poison Throwing Knife is an offensive item in Dark Souls.`,
+    Type: `Projectiles`,
+    Availability: location[79],
+    Usage: usage[79],
+    Notes: notes[79],
+  },
+  {
+    Name: `PRISM STONE (DARK SOULS)`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/01/Item_Prism_Stone.png/revision/latest?cb=20120308064409`,
+    InGameDescription: `Warm pebble emitting a beautiful phasing aura of seven colors, with a very rare eighth. The rainbow stone does nothing special, but can serve as a path marker, and can be dropped off a cliff to judge height by the sound of descent. If a loud noise is heard upon its landing, then a fall off the ledge is surely lethal.`,
+    GeneralInformation: `Prism Stones are miscellaneous items in Dark Souls.`,
+    Type: `Consumable`,
+    Availability: location[80],
+    Usage: usage[80],
+    Notes: notes[80],
+  },
+  {
+    Name: `PURGING STONE`,
+    Image: `https://darksouls.wiki.fextralife.com/file/Dark-Souls/2019.png`,
+    InGameDescription: `Ash-colored stone encasing a skull. Secret treasure of Arstor, the Earl of Carim. Reduces curse build-up and breaks curse. Humans are helpless against curses, and can only redirect their influence. The Purging Stone does not dispel curses, but receives them as a surrogate. The stone itself was once a person or some other being.`,
+    GeneralInformation: `Purging Stones are restorative items in Dark Souls.`,
+    Type: `Consumable`,
+    Availability: location[81],
+    Usage: usage[81],
+    Notes: notes[81],
+  },
+  {
+    Name: `PURPLE COWARD'S CRYSTAL`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/7/7d/Purple_Coward%27s_Crystal.png/revision/latest?cb=20121211054955`,
+    InGameDescription: `Online play item. Quit Battle of Stoicism. (Session ends if host leaves) Victory in this battle once led to ancient Anor Londo, but even in the absence of it's overseer, capitulation is a disgrace. In the name of a warrior's honor, do not quickly resort to the use of this crystal.`,
+    GeneralInformation: `The Purple Coward's Crystal is an online play item in Dark Souls. It is exclusive to the Artorias of the Abyss DLC.`,
+    Type: `Multiplayer Item`,
+    Availability: location[82],
+    Usage: usage[82],
+    Notes: notes[82],
+  },
+  {
+    Name: `PURPLE MOSS CLUMP`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/c/c4/Purple_moss_clump.png/revision/latest?cb=20121023194922`,
+    InGameDescription: `Medicinal purple moss clump. Reduces poison build-up. Cures poison. Poison builds up in the body, and when it breaks out, it causes gradual damage over a period of time. Poison can be exasperating, so be certain to carry the needed quantity of these moss clumps when destined for an afflicted area.`,
+    GeneralInformation: `Purple Moss Clumps are restorative items in Dark Souls.`,
+    Type: `Consumable`,
+    Availability: location[83],
+    Usage: usage[83],
+    Notes: notes[83],
+  },
+  {
+    Name: `RED EYE ORB`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/5/56/Red_Eye_Orb.png/revision/latest?cb=20160526213149`,
+    InGameDescription: `Online play item. Invade another world. (Only Covenanter can use the item while Hollows cannot) Defeat the master of the world you have invaded to acquire humanity. The Darkwraiths of Kaathe use this orb to seek humanity and plunge further into dark. Perhaps they are more human than we?`,
+    GeneralInformation: `The Red Eye Orb is an online play item in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[84],
+    Usage: usage[84],
+    Notes: notes[84],
   },
   {
     Name: `aa`,
