@@ -359,18 +359,18 @@ const Localizacao = [
   },
   {
     "Availability":`Purchased from the Crestfallen Merchant for 1,000 souls each (unlimited).`,
-    "Availability":`Common drop from Frog-Rays in the Darkroot Garden.`,
-    "Availability":`Sold by Marvellous Chester for 1,200 souls each.`,
+    "Availability2":`Common drop from Frog-Rays in the Darkroot Garden.`,
+    "Availability3":`Sold by Marvellous Chester for 1,200 souls each.`,
   },
   {
     "Availability":`Can be purchased from Undead Merchant (Female) for 500 souls.`,
-    "Availability":`Can be purchased from Blacksmith Vamos for 500 souls.`,
-    "Availability":`Can be purchased from Oswald of Carim for 500 souls.`,
-    "Availability":`Can be purchased from Hawkeye Gough for 300 souls. `,
-    "Availability":`Can be purchased from Marvelous Chester for 800 souls.`,
-    "Availability":`Treasure x6 in chest at bottom of elevator shaft in Firelink Shrine.`,
-    "Availability":`Drops from Minor Capra Demon (Guaranteed - Demon Ruins)`,
-    "Availability":`Drops from Minor Taurus Demon (Guaranteed - Demon Ruins)`,
+    "Availability2":`Can be purchased from Blacksmith Vamos for 500 souls.`,
+    "Availability3":`Can be purchased from Oswald of Carim for 500 souls.`,
+    "Availability4":`Can be purchased from Hawkeye Gough for 300 souls. `,
+    "Availability5":`Can be purchased from Marvelous Chester for 800 souls.`,
+    "Availability6":`Treasure x6 in chest at bottom of elevator shaft in Firelink Shrine.`,
+    "Availability7":`Drops from Minor Capra Demon (Guaranteed - Demon Ruins)`,
+    "Availability8":`Drops from Minor Taurus Demon (Guaranteed - Demon Ruins)`,
   },
   {
     "Availability":`Sold by Undead Merchant (Female) for 5,000 souls (one time only).`,
@@ -443,7 +443,95 @@ const Localizacao = [
     "Availability":`Granted to the player by Darkstalker Kaathe upon reaching Darkwraith covenant level +1.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Found at the very top of the stairs in the central tower in the Painted World of Ariamis, guarded by some Crow Demons.`,
+  },
+  {
+    "Availability":`Sold by Elizabeth in Oolacile Sanctuary for 300 souls each. (AotA)`,
+    "Availability2":`Sold by Undead Male Merchant in Undead Burg for 500 souls each.`,
+    "Availability3":`Drops from Vagrants, specifically the White Good Vagrant.`,
+  },
+  {
+    "Availability":`Defeat Pinwheel, boss of The Catacombs, to obtain the Rite of Kindling.`,
+  },
+  {
+    "Availability":`Sold by the Undead Female Merchant for 1,000 souls each.`,
+  },
+  {
+    "Availability":`Treasure, found by dropping down to the lower area, right in front of the first fog door in Undead Burg.`,
+    "Availability2":`Possible reward from forest hunter covenant when a successful invasion has been completed.`,
+    "Availability3":`Possible starting item`,
+    "Availability4":`Oolacile Township - On a corpse.`,
+  },
+  {
+    "Availability":`Sold by Eingyi for 500 souls if the player has joined the Chaos Servant covenant.`,
+  },
+  {
+    "Availability":`Drops 5 pieces from Mimic. (100% Chance - Sen's Fortress, Anor Londo, The Duke's Archives and Oolacile Township)`,
+    "Availability2":`Drops from Vagrants, specifically the Red Good Vagrant.`,
+  },
+  {
+    "Availability":`Found in a chest, inside a hidden room in Oolacile Township. Use a light-source ( Cast Light spell, Skull Lantern and Sunlight Maggot confirmed) to reveal an illusory wall to access the room.`,
+  },
+  {
+    "Availability":`Reward for invading and killing other players using the Blue Eye Orb as a member of the Blade of the Darkmoon covenant.`,
+    "Availability2":`One is dropped by Knight Lautrec of Carim by invading him with the Black Eye Orb in Anor Londo.`,
+    "Availability3":`Uncommon drop from Crow Demons. (3.6% pre-patch 1.05, 6% afterward) This is the only way for offline Blade of the Darkmoon advancement without moving to new playthroughs.`,
+    "Availability4":`One per playthrough is obtainable by trading a Pendant to Snuggly the Crow.`,
+  },
+  {
+    "Availability":`Given to members of the Warrior of Sunlight covenant and their teammates after defeating a boss in co-op play.`,
+    "Availability2":`Given to the player by Knight Lautrec of Carim in Firelink Shrine after he is freed from his cell in the Undead Parish.`,
+    "Availability3":`Three Sunlight Medals can be found in a chest in the latter half of Anor Londo.`,
+    "Availability4":`Chaos Bugs in the shortcut to Lost Izalith may sometimes drop Sunlight Medals. This is the only way for offline Warrior of Sunlight advancement without moving to an NG+.`,
+  },
+  {
+    "Availability":`Sold by Undead Merchant for 10 souls.`,
+    "Availability2":`Dropped by the painting guardians in Anor Londo.`,
+    "Availability3":`Drops from Painting Guardian (5% or 10% Chance - Anor Londo)`,
+  },
+  {
+    "Availability":`Sold by the Female Undead Merchant for 4,000 souls a piece.`,
+    "Availability2":`Sold by the Ingward for 1,000 souls a piece. (Patch 1.05)`,
+    "Availability3":`Dropped by ghosts in New Londo Ruins.`,
+    "Availability4":`Treasure x2: On corpse in a vase, before the rickety bridge to New Londo Ruins.`,
+    "Availability5":`Treasure x2: On corpse in a vase, behind a wall at the base of the first staircase in New Londo Ruins.`,
+    "Availability6":`Treasure x2: On corpse, behind screaming ghost close to the first fog-door.`,
+    "Availability7":`Drops from Banshee (New Londo Ruins, 5% chance).`,
+    "Availability8":`Drops from Ghost (New Londo Ruins, 5% chance).`,
+    "Availability9":`Drops from Vagrants, specifically the White Good Vagrant.`,
+  },
+  {
+    "Availability":`Can be taken as a Gift upon character creation.`,
+    "Availability2":`Sold by: Patches the Hyena for 20,000 (1 only?).`,
+    "Availability3":`Atonement gift from Patches if you choose not to forgive him after the incident in the Tomb of Giants.`,
+    "Availability4":`Treasure: Lower Undead Burg, guarded by zombies with torches.`,
+    "Availability5":`Treasure: In a chest behind a fake wall, in tunnel between Blighttown and The Great Hollow.`,
+    "Availability6":`Treasure: Sniper tower above bonfire, in the lavabed by Lost Izalith.`,
+    "Availability7":`Dropped by Oswald of Carim when killed.`,
+    "Availability8":`Dropped by Giant Humanity spirits that consist of medium and small sizes (4.55% chance for Large, 2% for Medium and 1.11% for Small - Chasm of the Abyss)`,
+    "Availability9":`Dropped by some Bosses.`,
+    "Availability10":`Drops from Vagrants, specifically the Red Evil Vagrant.`,
+    "Availability11":`Drops from Clan of Forest Protectors (Guaranteed, but only drops from the non-respawning Archer (Pharis) - Darkroot Garden.`,
+  },
+  {
+    "Availability":`After encountering Solaire of Astora in the Undead Burg (after the Taurus Demon fight but before the Red Drake encounter), initiate a conversation with him and answer "yes" to both of his questions. Killing Solaire where he is first encountered will also yield this as a drop should the player not acquire it prior to killing him.`,
+  },
+  {
+    "Availability":`Drops from The Four Kings`,
+  },
+  {
+    "Availability":`Drops from Seath the Scaleless`,
+  },
+  {
+    "Availability":`The Core of an Iron Golem is dropped upon defeating the Iron Golem.`,
+  },
+  {
+    "Availability":`Dropped by the Sanctuary Guardian upon death.`,
+  },
+  {
+    "Availability":`Darkroot Garden - On the outskirts of the area where the Great Felines are encountered.`,
+    "Availability2":`Sen's Fortress - On the bombarded roof of the fortress, the charred corpse was a victim of the Firebomber Giant's 2nd targeted mark.`,
+    "Availability3":`The Duke's Archives - Inside the Archive Tower cell accessed using the Archive Prison Extra Key.`,
   },
   {
     "Availability":`lorem`,
@@ -451,13 +539,6 @@ const Localizacao = [
   {
     "Availability":`lorem`,
   },
-  {
-    "Availability":`lorem`,
-  },
-  {
-    "Availability":`lorem`,
-  },
-
 ];
 
 const Uso = [
@@ -763,7 +844,7 @@ const Uso = [
       "Usage": `Reduces curse build-up and breaks curse.`,
     },
     {
-      "Usage": `Multiplayer item. Exit Battle of Stoicism.`,
+      "Usage": `Exit Battle of Stoicism.`,
     },
     {
       "Usage": `Reduces the accumulation of poison and cancels poisoned status.`,
@@ -774,7 +855,70 @@ const Uso = [
       "Usage2": `You can use the orb in any multiplayer-able area. Note that it may be greyed out if too close to a bonfire or a crossroad to multiple areas`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `This item will allow you to be summoned as a dark spirit in another player's world.`,
+      "Usage2": `Using this item will place a soul sign onto the ground and a host player must accept it to summon you into their world.`,
+    },
+    {
+      "Usage": `Used to repair broken equipment in the field, without the need of a repairbox and being at a bonfire.`,
+    },
+    {
+      "Usage": `Allows further kindling of Bonfires.`,
+      "Usage2": `Allows Bonfires to provide 15 to 20 Estus.`,
+    },
+    {
+      "Usage": `Applies 180 poison element to right-hand weapon when consumed. (3 HP/s for 180 seconds)`,
+    },
+    {
+      "Usage": `Rubbish can be traded to Snuggly the Crow for a Titanite Chunk. Only one can be traded per playthrough. Rubbish can also be fed to Kingseeker Frampt for a return of 1 soul.`,
+      "Usage2": `Only known use is to trade it with Snuggly for a Titanite Chunk.`,
+    },
+    {
+      "Usage": `A reusable online play item. A checklist of servants to the Daughter of Chaos, and how much humanity they have offered.`,
+    },
+    {
+      "Usage": `Can be sold to Kingseeker Frampt for 3.000 souls.`,
+    },
+    {
+      "Usage": `Deflects Dark Magic for a short duration when used.`,
+    },
+    {
+      "Usage": `The Souvenir of Reprisal are used to level up in the Blade of the Darkmoon Covenant.`,
+    },
+    {
+      "Usage": `Sunlight Medals are items used to increase your rank in the Warrior of Sunlight covenant.`,
+      "Usage2": `Can also be traded with Snuggly for a White Titanite Chunk.`,
+    },
+    {
+      "Usage": `Can be thrown at enemies by locking onto them. They deal 100 damage, and 7 poise damage.`,
+    },
+    {
+      "Usage": `Lets you interact with ghosts for a limited time, since you must be cursed to hit them.`,
+    },
+    {
+      "Usage": `Increases Humanity by 2 when consumed.`,
+      "Usage2": `Restores a large amount of health when consumed. (more than 2600 HP)`,
+      "Usage3": `Can be Traded to Snuggly for a Rare Ring of Sacrifice.`,
+      "Usage4": `Can be sold to Kingseeker Frampt for 2,000 souls.`,
+    },
+    {
+      "Usage": `Used to drop summon sign for online co-op play as a White Phantom.`,
+    },
+    {
+      "Usage": `Kindle Lordvessel at Firelink Altar.`,
+    },
+    {
+      "Usage": `Kindle Lordvessel at Firelink Altar`,
+    },
+    {
+      "Usage": `Dragon Bone Fist (Ascended from +10 fist weapons)`,
+      "Usage2": `Golem Axe (Ascended from +10 axe weapons)`,
+      "Usage3": `Gives 12,000 souls when consumed. 8,000 souls from feeding to Frampt.`,
+    },
+    {
+      "Usage": `Gives 12,000 souls when consumed. 10,000 souls from feeding to Frampt.`,
+    },
+    {
+      "Usage": `Gives 8,000 souls when consumed.`,
     },
     {
       "Usage": `YPSILOM`,
@@ -782,23 +926,16 @@ const Uso = [
     {
       "Usage": `YPSILOM`,
     },
-    {
-      "Usage": `YPSILOM`,
-    },
-    {
-      "Usage": `YPSILOM`,
-    },
-    
   ];
 
 
-  const Notas = [
+  const Notas =  [
     {
     "Note": 
     "Chaos weapons cannot be buffed.",
     "Note2":"Chaos weapons will inflict damage depending on your Humanity level (max at 10 Humanity). The Humanity scaling decreases exponentially: the first humanity is worth more damage than the tenth. Bear this in mind.",
     "Note3":"Chaos ascension also changes the fire damage to physical damage ratio; from 1:1 to approx 2:1.",
-    "Note4":"Exploiting the Dark Hand's R2 attack can give you a lot of soft Humanity, if you're worried about using up your reserves.",
+    "Note4":"Exploiting the Dark Hand's R2 attack can give you a lot of soft Humanity, if you're worried about using up your reserves."
     },
     {
     "Note": 
@@ -807,378 +944,446 @@ const Uso = [
     "Note3":"The crystal equipment that Domnhall of Zena sells are not upgraded through the crystal path. They cannot be repaired, but have much higher durability.",
     "Note4":"In most cases, a crystal +4 weapon will have greater attack rating than a normal +15.",
     "Note5":"You can use the crystal halberd dropped by the first mimic in Anor Londo to obtain the Crystal Weapon trophy/achievement. Only 7 Titanite Chunks and 1 Titanite Slab are required to upgrade it to maximum.",
-    "Note5":"It is recommended that when you ascend a weapon to crystal only max it for the trophy/achievement. Its durability will be reduced to 10% of its original value. It will break very fast and it cannot be repaired with anything at all. It is impossible to revert your weapons, so once you ascend a weapon to crystal there is no going back. The scaling on crystal weapons is good enough you don't need to exceed +4 for it to be better than a regular +15. It is advisable to use weapons that drop from enemies or that can be bought.",
+    "Note6":"It is recommended that when you ascend a weapon to crystal only max it for the trophy/achievement. Its durability will be reduced to 10% of its original value. It will break very fast and it cannot be repaired with anything at all. It is impossible to revert your weapons, so once you ascend a weapon to crystal there is no going back. The scaling on crystal weapons is good enough you don't need to exceed +4 for it to be better than a regular +15. It is advisable to use weapons that drop from enemies or that can be bought."
     },
     {
       "Note": 
       "It isn't the same thing as divine. Divine excels in fighting undead and things that have no soul anymore, like skeletons and such. Occult is a whole other type of reinforcement, it excels in fighting living things that have souls, like a lot of enemies in the game (especially Black Knights and Silver Knights, which take extra damage).",
-      "Note2":"Note that NO extra damage is done by occult to invaders, hosts or phantoms in PvP.",
+      "Note2":"Note that NO extra damage is done by occult to invaders, hosts or phantoms in PvP."
     },
     {
       "Note": 
       "Divine weapons are effective against the Undead, such as the skeletons found in the Catacombs.",
-      "Note2":"They can't reform themselves after being slain by a divine weapon.",
+      "Note2":"They can't reform themselves after being slain by a divine weapon."
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
       "Note":"When entering the area containing the Large Divine Ember, be prepared due to the 4 giant skeletons guarding the body and item. Be extra vigilant in this dangerous area.",
       "Note2":"One way to get the ember without killing any skeletons is by jumping across the gap where the ladder is located. This will allow circling the top of the pit containing the giant skeletons. Once above the ember, equip a Ring of Sacrifice drop down quickly grabbing the ember and then either dying or attempting to escape. You can also equip the Slumbering Dragoncrest Ring to move around the skeletons before they begin to attack you.",
       "Note3":"Lightly equipped characters with pyromancy spells or firebombs, it is possible after entering the giant coffin with the giant skeletons to run and jump over the gap described above, and running all the way to the end of the right side. This will aggro all of the skeletons into a group below you, and they will only very rarely be able to hit you. If you lock on and cast some pyromancy spells you can hit them all with the splash damage. The corners at the end of the room work best when attempting this maneuver. If necessary move back and forth along the ledge to re-aggro and get them into another group. You must be close to the edge while casting, being careful not to fall to a quick and certain death at the hands of the giant skeletons.",
       "Note4":"Before descending the first ladder leading into the tomb, equip the Ring of Fog and the Slumbering Dragoncrest Ring and unequip any lit items. Descend the ladders down to the floor of the tomb and lure the large skeletons one by one either by proximity or arrows.",
-      "Note3":"If using a bow to shoot down upon the giant skeletons, they tend to bunch up directly underneath the ledge, where they are incapable of being hit. To lure them back out into the open, use the Aural Decoy spell.",
+      "Note5":"If using a bow to shoot down upon the giant skeletons, they tend to bunch up directly underneath the ledge, where they are incapable of being hit. To lure them back out into the open, use the Aural Decoy spell."
       
     },
 
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"Fire upgrade weapons cannot be buffed. However, the Magic Shield and Strong Magic Shield sorceries can still be used to enchant fire upgrade shields.",
+      "Note":"Fire upgrade weapons cannot be buffed. However, the Magic Shield and Strong Magic Shield sorceries can still be used to enchant fire upgrade shields."
     },
 
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
       "Note":"Only needs to be bought once each playthrough.",
       "Note2":"You still need to use souls and titanite as you would if a Blacksmith did the reinforcement.",
-      "Note3":"This item does not carry over to New Game Plus.",
+      "Note3":"This item does not carry over to New Game Plus."
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"This door can only be opened from the Depths side.",
+      "Note":"This door can only be opened from the Depths side."
     },
     {
-      "Note":"The bottomless box can be filled after gaining a lot items. You have approximately 2000-2250 slots available.",
+      "Note":"The bottomless box can be filled after gaining a lot items. You have approximately 2000-2250 slots available."
     },
     {
-      "Note":"The pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk.",
+      "Note":"The pendant can be obtained even if the player has killed the Golem prior to rescuing Dusk."
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"The key is a manual pick-up.",
+      "Note":"The key is a manual pick-up."
     },
     {
-      "Note":"Artorias is related to The Abyss Watchers of DS3",
+      "Note":"Artorias is related to The Abyss Watchers of DS3"
     },
     {
       "Note": ""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
       "Note":"On the PC PTD Edition, killing Ingward is currently bugged, and he may not always drop the Key to the Seal. It is currently unknown what causes this, but the key becomes completely unrecoverable (quitting/loading or visiting the chest in Fire Link Shrine do not work) effectively preventing you from completing the game.",
-      "Note2": "Ingward will also drop it if killed, without the Lordvessel.",
+      "Note2": "Ingward will also drop it if killed, without the Lordvessel."
     },
     {
       "Note":"If Lautrec is freed, he will be available as a summon for the Bell Gargoyle boss.",
       "Note2":"He will also give a gift of one Sunlight Medal when he returns to Firelink Shrine.",
-      "Note3":"If Lautrec is not set free, he will still escape his imprisonment after the Gargoyles are slain, but gives no gift.",
+      "Note3":"If Lautrec is not set free, he will still escape his imprisonment after the Gargoyles are slain, but gives no gift."
     },
     {
-      "Note":"Note that, once you enter the Painted World of Ariamis, there is no return until you jump off of the cliff into oblivion after the boss room. The boss fight with Crossbreed Priscilla is optional because she allows you to leave in peace. She will only attack when first provoked.",
+      "Note":"Note that, once you enter the Painted World of Ariamis, there is no return until you jump off of the cliff into oblivion after the boss room. The boss fight with Crossbreed Priscilla is optional because she allows you to leave in peace. She will only attack when first provoked."
     },
     {
       "Note":"Only needs to be bought once each playthrough.",
       "Note2":"Repairs still cost souls, so there is no difference in price if the box is used instead of a Blacksmith.",
-      "Note3":"This item does not carry over to New Game Plus.",
+      "Note3":"This item does not carry over to New Game Plus."
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":'The original Japanese item description does not contain the last sentence of the English version that reads: "For his own good, of course."',
+      "Note":"The original Japanese item description does not contain the last sentence of the English version that reads: 'For his own good, of course.'"
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Notes (Enemies affected)": ['Balder Knight', 'Berenike Knight', 'Blowdart Sniper', 'Butcher', 'Darkwraith', 'Fang Boar', 'Havel the Rock', 'Hollow', 'Hollow Soldier', 'Hollow Thief', 'Hollow Warrior', 'Infested Barbarian', 'Infested Ghoul', 'Kirk, Knight of Thorns', 'Knight Lautrec of Carim', 'Maneater Mildred', 'Necromancer', 'Nico of Thorolund', 'Petrus of Thorolund', 'Reah of Thorolund', 'Siegmeyer of Catarina', 'Undead Crystal Soldier', 'Vince of Thorolund'],
+      "Notes (Enemies affected)": ["Balder Knight", "Berenike Knight", "Blowdart Sniper", "Butcher", "Darkwraith", "Fang Boar", "Havel the Rock", "Hollow", "Hollow Soldier", "Hollow Thief", "Hollow Warrior", "Infested Barbarian", "Infested Ghoul", "Kirk, Knight of Thorns", "Knight Lautrec of Carim", "Maneater Mildred", "Necromancer", "Nico of Thorolund", "Petrus of Thorolund", "Reah of Thorolund", "Siegmeyer of Catarina", "Undead Crystal Soldier", "Vince of Thorolund"]
     },
     {
       "Note":"Equip the Hawk Ring to see even further.",
       "Note1":"Binoculars can also be used to aim a crossbow from outside of lock-on range.",
       "Note2":"Particularly useful when trying to aim spells or, of course, when in Princess Gwynevere's bed chamber.",
       "Note3":"Using the binoculars while talking to a NPC merchant, will result in a third person view of your character with binoculars.",
-      "Note4":"Use them just before the NPC finishes their last spoken sentence, so the binoculars are equipped while the merchant menu is shown.",
+      "Note4":"Use them just before the NPC finishes their last spoken sentence, so the binoculars are equipped while the merchant menu is shown."
     },
     {
-      "Note":"A Black Eye Orb was also designated for Shiva of the East originally, but was removed before the final game was released. The cut Black Eye Orb is displayed as Black Eye Orb (Shiva) in the ingame inventory. This orb is only obtainable by modding or save editing and if used in the courtyard area of Painted World of Ariamis, you can invade Shiva as originally intended. Shiva will be accompanied by his bodyguard during the invasion event.",
+      "Note":"A Black Eye Orb was also designated for Shiva of the East originally, but was removed before the final game was released. The cut Black Eye Orb is displayed as Black Eye Orb (Shiva) in the ingame inventory. This orb is only obtainable by modding or save editing and if used in the courtyard area of Painted World of Ariamis, you can invade Shiva as originally intended. Shiva will be accompanied by his bodyguard during the invasion event."
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"One Bloodred Moss Clump per playthrough can be traded to Snuggly the Crow for a Twinkling Titanite.",
+      "Note":"One Bloodred Moss Clump per playthrough can be traded to Snuggly the Crow for a Twinkling Titanite."
     },
 
     {
-      "Note":"One Blooming Purple Moss Clump per playthrough can be traded to Snuggly the Crow for two Twinkling Titanites.",
+      "Note":"One Blooming Purple Moss Clump per playthrough can be traded to Snuggly the Crow for two Twinkling Titanites."
     },
 
     {
-      "Note":`Once in a blue moon you may come across with a bug that makes you invade as a red phantom instead of a blue spirit of vengeance. Killing the target in this form does not grant a souvenir of reprisal but instead gives humanity. Receiving 'sin' after a kill is unknown. You receive sin when the user you "invaded" gets killed by you`,
+      "Note":"Once in a blue moon you may come across with a bug that makes you invade as a red phantom instead of a blue spirit of vengeance. Killing the target in this form does not grant a souvenir of reprisal but instead gives humanity. Receiving 'sin' after a kill is unknown. You receive sin when the user you \"invaded\" gets killed by you"
     },
 
     {
-      "Note":`If looking at your own character, it will be the character you set "Join Leaderboard" to "ON" on.`,
+      "Note":"If looking at your own character, it will be the character you set \"Join Leaderboard\" to \"ON\" on."
     },
 
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":"",
+      "Note":""
     },
     {
-      "Note":``,
+      "Note":""
     },
     {
-      "Note":`You must be human to use this item.`,
-      "Note2":`A successful invasion will consume the item`,
-      "Note3":`A failed invasion will not consume the item. (patch 1.05)`,
-      "Note4":`The invader will receive one Humanity if they successfully kill the host.`,
-      "Note5":`The host will receive one Humanity via a Bloodstain if they are successful.`,
-      "Note6":`The host may also report the invader, for an indictment upon death, if they have been invaded using this method.`,
-      "Note7":`Note that it may be greyed out if too close to a bonfire or crossroad to multiple areas.`,
-      "Note8":`The color of this eye orb is based on the Red Eye Stone, obtained by killing The Maiden in Black in Demon's Souls.`,
-      "Note9":`Some believe Darkwraiths to be revolutionaries, defenders of the human race, but they might just be evil Humanity.`,
+      "Note": "You must be human to use this item.",
+      "Note2": "A successful invasion will consume the item",
+      "Note3": "A failed invasion will not consume the item. (patch 1.05)",
+      "Note4": "The invader will receive one Humanity if they successfully kill the host.",
+      "Note5": "The host will receive one Humanity via a Bloodstain if they are successful.",
+      "Note6": "The host may also report the invader, for an indictment upon death, if they have been invaded using this method.",
+      "Note7": "Note that it may be greyed out if too close to a bonfire or crossroad to multiple areas.",
+      "Note8": "The color of this eye orb is based on the Red Eye Stone, obtained by killing The Maiden in Black in Demon's Souls.",
+      "Note9": "Some believe Darkwraiths to be revolutionaries, defenders of the human race, but they might just be evil Humanity."
     },
     {
-      "Note":`Unlike dying, a manual trigger will not hollow a player who are in human form.`,
-      "Note2":`A manual trigger will also preserve your bloodstain from a previous death, even though you lose what you are currently holding.`,
+      "Note": "Unlike dying, a manual trigger will not hollow a player who are in human form.",
+      "Note2": "A manual trigger will also preserve your bloodstain from a previous death, even though you lose what you are currently holding."
     },
     {
-      "Note":``,
+      "Note": ""
     },
     {
-      "Note":`However, a Hollow player can still place the sign and invade the summoner.`,
-      "Note2":`Not compatible with password matchmaking.`,
-      "Note3":`Having a Dragon Scale is not actually part of the matchmaking requirement.`,
-      "Note4":`The area boss does not need to be alive in the host's world.`,
-      "Note5":`The winner of the duel will be awarded a Dragon Scale.`,
-      "Note6":`The defeated player will not lose any scales.`,
+      "Note": "However, a Hollow player can still place the sign and invade the summoner.",
+      "Note2": "Not compatible with password matchmaking.",
+      "Note3": "Having a Dragon Scale is not actually part of the matchmaking requirement.",
+      "Note4": "The area boss does not need to be alive in the host's world.",
+      "Note5": "The winner of the duel will be awarded a Dragon Scale.",
+      "Note6": "The defeated player will not lose any scales."
     },
     {
-      "Note":`In order to use this successfully, no head armor must be equipped. The effect will last until you die. With a Dragon Head, your fire power increases.`,
+      "Note": "In order to use this successfully, no head armor must be equipped. The effect will last until you die. With a Dragon Head, your fire power increases."
     },
     {
-      "Note":`Using the Dragon Stone will activate an ability similar to Miracle: Force, knocking back opponents.`,
-      "Note2":`Using the Dragon Stone will activate an ability similar to Miracle: Force, knocking back opponents.`,
-      "Note3":`Also for a few seconds, your attack strength will increase 25%.`,
-      "Note4":`Like with the Dragon Head, the effect will last until you die.`,
-      "Note5":`The plunging attack also differs from the norm when in dragon form, having both claws facing downward.`,
-      "Note6":`Covenant related: Path of the Dragon`,
+      "Note": "Using the Dragon Stone will activate an ability similar to Miracle: Force, knocking back opponents.",
+      "Note2": "Using the Dragon Stone will activate an ability similar to Miracle: Force, knocking back opponents.",
+      "Note3": "Also for a few seconds, your attack strength will increase 25%.",
+      "Note4": "Like with the Dragon Head, the effect will last until you die.",
+      "Note5": "The plunging attack also differs from the norm when in dragon form, having both claws facing downward.",
+      "Note6": "Covenant related: Path of the Dragon"
     },
     {
-      "Note":`This internal timer is a fail safe so that people aren't constantly invaded.`,
-      "Note2":`Can be used multiple times without consumption.`,
-      "Note3":`Only one of this item can be held, leaving the player unable to pick it up in the next game cycle.`,
-      "Note4":`Since this item is finger with "multiple knuckles" and is "shriveled but still slightly warm", it's possible that it was a piece of an Undead Dragon, a creature that died long ago but is kept alive (thus "warm") even if horribly rotten.`,
+      "Note": "This internal timer is a fail safe so that people aren't constantly invaded.",
+      "Note2": "Can be used multiple times without consumption.",
+      "Note3": "Only one of this item can be held, leaving the player unable to pick it up in the next game cycle.",
+      "Note4": "Since this item is finger with \"multiple knuckles\" and is \"shriveled but still slightly warm\", it's possible that it was a piece of an Undead Dragon, a creature that died long ago but is kept alive (thus \"warm\") even if horribly rotten."
     },
     {
-      "Note":``,
+      "Note": ""
     },
     {
-      "Note":``,
+      "Note": ""
     },
     {
-      "Note":`Regeneration rate is approximately 100 HP per second.`,
-      "Note2":`Elizabeth's Mushroom is a Self Buff and interferes with other such buffs (i.e. Great Magic Barrier, Transient Curse, Power Within, etc.). As long as it's active it's not possible to cast other Self Buffs and vice versa.`,
+      "Note": "Regeneration rate is approximately 100 HP per second.",
+      "Note2": "Elizabeth's Mushroom is a Self Buff and interferes with other such buffs (i.e. Great Magic Barrier, Transient Curse, Power Within, etc.). As long as it's active it's not possible to cast other Self Buffs and vice versa."
     },
     {
-      "Note":`Resting at Bonfires will recover your supply of Estus, up to the limit of that particular fire.`,
-      "Note2":`The starting number of uses you recover from any normal Bonfire is 5.`,
-      "Note3":`Use"Kindle" at a Bonfire, and spend one Humanity point, to increase the amount to 10 for that particular fire.`,
-      "Note4":`The Bonfires with a Fire Keeper present are kindled by default, providing 10 flasks.`,
-      "Note5":`After acquiring the Rite of Kindling the bonfires can be kindled to 15 and then to 20 Estus uses.`,
-      "Note6":`Resting will always provide you with the maximum amount of Estus for that Bonfire.`,
-      "Note7":`Drinking Estus will also heal summoned co-op players. This does not apply to summoned NPCs.`,
-      "Note8":`Other online players Kindling their bonfires in the same area can grant you a bonus Estus use.`,
-      "Note9":`If you have 20 full charges in your bottle already, the number of charges will not increase further.`,
-      "Note10":`The Estus Flask can be upgraded with a Fire Keeper Soul, up to +7, to replenish more HP with each charge.`,
-      "Note11":`To upgrade it, give Fire Keeper Souls to one of the three known Fire Keepers: Anastacia, the mute girl below Firelink Shrine, The Fair Lady, who resides in Quelaag's Domain, beyond the boss room, and behind an illusionary wall, and the Darkmoon Knightess, leaning against a wall in the room containing the first bonfire in Anor Londo.`,
-      "Note12 (Values of heal)":[300,	400,	500,	600,	650,	700,	750,	800],
+      "Note": "Resting at Bonfires will recover your supply of Estus, up to the limit of that particular fire.",
+      "Note2": "The starting number of uses you recover from any normal Bonfire is 5.",
+      "Note3": "Use \"Kindle\" at a Bonfire, and spend one Humanity point, to increase the amount to 10 for that particular fire.",
+      "Note4": "The Bonfires with a Fire Keeper present are kindled by default, providing 10 flasks.",
+      "Note5": "After acquiring the Rite of Kindling the bonfires can be kindled to 15 and then to 20 Estus uses.",
+      "Note6": "Resting will always provide you with the maximum amount of Estus for that Bonfire.",
+      "Note7": "Drinking Estus will also heal summoned co-op players. This does not apply to summoned NPCs.",
+      "Note8": "Other online players Kindling their bonfires in the same area can grant you a bonus Estus use.",
+      "Note9": "If you have 20 full charges in your bottle already, the number of charges will not increase further.",
+      "Note10": "The Estus Flask can be upgraded with a Fire Keeper Soul, up to +7, to replenish more HP with each charge.",
+      "Note11": "To upgrade it, give Fire Keeper Souls to one of the three known Fire Keepers: Anastacia, the mute girl below Firelink Shrine, The Fair Lady, who resides in Quelaag's Domain, beyond the boss room, and behind an illusionary wall, and the Darkmoon Knightess, leaning against a wall in the room containing the first bonfire in Anor Londo.",
+      "Note12 (Values of heal)": [300, 400, 500, 600, 650, 700, 750, 800]
     },
     {
-      "Note":`A black aura appears around the player, indicating the Eye of Death is active.`,
-      "Note":`You can't fight any bosses while the Eye of Death is active, but you can walk between areas freely.`,
-      "Note":`The effect is removed when you die, or quit and reload the game as well as being summoned, invading via cracked orbs or using homebound or homeward bones.`,
-      "Note":`The player can only visit Nito if they have one or more Eye(s) of Death in their inventory.`,
+      "Note": "A black aura appears around the player, indicating the Eye of Death is active.",
+      "Note2": "You can't fight any bosses while the Eye of Death is active, but you can walk between areas freely.",
+      "Note3": "The effect is removed when you die, or quit and reload the game as well as being summoned, invading via cracked orbs or using homebound or homeward bones.",
+      "Note4": "The player can only visit Nito if they have one or more Eye(s) of Death in their inventory."
     },
     {
-      "Note":`Only one of each Fire Keeper Soul can be carried at a time, but one can also be stored in the Bottomless Box, making it possible to have a total of 14.`,
-      "Note2 (Another Game Description)":`Soul of the Ash Maiden, Fire Keeper of Firelink Shrine.
-      A Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. Was the Ash Maiden locked in this dark prison for some transgression, or by her own will?`,
-      "Note3 (Another Game Description)":`Soul of the Darkmoon Knightess, Fire Keeper of Anor Londo.
-      A Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. Her brass armor serves to disguise this ghastly form.`,
-      "Note4 (Another Game Description)":`Soul of a Daughter of Chaos, Fire Keeper of Quelaag's Domain.
-      A Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. To her, the countless eggs which appeared were cradles for each tiny humanity.`,
+      "Note": "Only one of each Fire Keeper Soul can be carried at a time, but one can also be stored in the Bottomless Box, making it possible to have a total of 14.",
+      "Note2 (Another Game Description)": "Soul of the Ash Maiden, Fire Keeper of Firelink Shrine.\nA Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. Was the Ash Maiden locked in this dark prison for some transgression, or by her own will?",
+      "Note3 (Another Game Description)": "Soul of the Darkmoon Knightess, Fire Keeper of Anor Londo.\nA Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. Her brass armor serves to disguise this ghastly form.",
+      "Note4 (Another Game Description)": "Soul of a Daughter of Chaos, Fire Keeper of Quelaag's Domain.\nA Fire Keeper's soul is a draw for humanity, and held within their bosoms, below just a thin layer of skin, are swarms of humanity that writhe and squirm. To her, the countless eggs which appeared were cradles for each tiny humanity."
+    },
+    {
+      "Note": "Firebombs deal 21 poise damage.",
+      "Note2": "Very low price (50 souls apiece) and good damage make them handy in many situations. You can kill the Undead Attack Dogs in Capra Demon's fight with a single bomb, making it much easier to run up the stairs without having to circle around the dogs. Firebombs are also good replacements for Fireorbs/Fireballs when the target is outside the range of these pyromancy spells."
+    },
+    {
+      "Note":"Cannot be sold to Kingseeker Frampt if you either jump down the hole he is in or speak to Darkstalker Kaathe"
+    },
+    {
+      "Note":"Duration: 60 seconds.",
+      "Note2":"May only be used on weapons that are on the standard +1...+15 weapon path and which are not inherently magical."
+    },
+    {
+      "Note":"Duration: 60 seconds.",
+      "Note2":"Stacks with: Cloranthy Ring, Grass Crest Shield and Mask of the Child.",
+      "Note3":"Green Blossom is a Self Buff and interferes with other such buffs (i.e. Great Magic Barrier, Transient Curse, Power Within, etc.). As long as it's active it's not possible to cast other Self Buffs and vice versa."
+    },
+    {
+      "Note":"Same effect as the \"Homeward\" Miracle.",
+      "Note2":"Bonfires were originally used to burn the bones of slaughtered cattle, hence the name; bone-fire.",
+      "Note3":"Homeward Bone is obviously a play on words with the expression \"Homeward Bound\"."
+    },
+    {
+      "Note":"Can be traded to Snuggly for a Ring of Sacrifice.",
+      "Note2":"Can be sold to Kingseeker Frampt for 1,000 souls.",
+      "Note3":"The more Humanity one has in the counter by their health bar, the higher some resistances are. ",
+      "Note4":"Humanity in the counter also increases Curse resistance to a high degree the more one has. ",
+      "Note5":"Humanity also greatly increase Item Discovery hardcapping at 10 Humanity in the counter granting 210 Item Discovery. ",
+      "Note6":"Humanity is the primary component of the Chaos upgrade path's power with the max damage bonus being received  at 10 Humanity held in the counter. ",
+      "Note7":"A great tactic is to obtain the Dark Hand as soon as one can as NPCs that are Humanoid characters like Petrus hold a good amount of Humanity that can be absorbed.",
+      "Note8":"For characters that are encountered sitting, kicking them with cause  them to stand up. Using the Force Miracle works as well if one fears miss-clicking a kick and attacking said character.",
+      "Note9":"In addition to what is mentioned above, using the Kick maneuver or the Force Miracle deal no damage to said characters and does not incur a sin. Using the Dark Hand's Absorb grab-attack does not deal damage to targets either, however it does cause the NPCs to speak as if they were attacked. This is not a cause for alarm as no damage is being done and it does not incur a sin as long as the grab connects and animation plays.  Make sure to be on even ground and close to the target.",
+      "Note10":"Humanity can be conveniently farmed infinitely at the last bonfire at the end of the Artorias of the Abyss DLC in the final area leading up to Manus, Father of the Abyss. "
+    },
+    {
+      "Note":"Being indicted gives you +1 sin, and will leave you open to invasions from the Blade of the Dark Moon faction.",
+      "Note2":"If slain by a player in the Blade of the Dark Moon faction, you will get -1 sin, and be notified that the invading player cannot be indicted.",
+      "Note3":"Red phantoms summoned from their Red Sign Soapstone can not be indicted after killing the host.",
+      "Note4":"Forest Hunter and Path of the Dragon members can also be indicted while invading with their covenant item. They will not be added to the Book of the Guilty scoreboard, but will still be open to Darkmoon invasions.",
+      "Note5":"This item is not consumed upon use, so it only needs to be bought once.",
+      "Note6":"The \"Indict ...?\" prompt goes away if the indictment is discarded.",
+      "Note7":"A host can indict an invader even if killed by something else while the invader is present."
+    },
+    {
+      "Note":"The visual effect of the Talisman lasts for 25 seconds. The actual effect lasts for approximately the same length.",
+      "Note2":"Lloyd's Talismans don't block healing from any source other than Estus Flasks, including miracles, Humanity and Divine Blessings.",
+      "Note3":"Throwing a Lloyd's Talisman at a Mimic causes it to go to sleep, allowing the player to collect its item without danger of being attacked.",
+      "Note4":"It is rumored that one can get it very rarely from Giant Clams. However, this is more likely to be related to the drift item mechanics, as it has been reported that dropped items were found on the floor in various areas, including the boss room in the Abyss."
+    },
+    {
+      "Note":"The soapstone is not needed to read or rate messages, only to write them.",
+      "Note2":"A message will only be sent to other players while the author of the message is online and connected.",
+      "Note3":"Players can cast six messages at a time, per character.",
+      "Note4":"Cast the Seek Guidance Miracle to see more messages, as well as their ratings. This miracle will also show some helpful developer messages, visible both on- and offline (see seek guidance for details).",
+      "Note5":"There are also tutorial messages scattered around, mostly in the Undead Asylum. These messages can only be read, and are visible both on- and offline."
+    },
+    {
+      "Note":"No other usage, from the director of Darks Souls: \"When it comes to the pendant, I actually had a little bit of an intention to play a prank.\"",
+      "Note2":"Hidetaka Miyazaki, dark souls game director, suggested that the player should choose either the Pendant or Nothing as a starting gift. His suggestion set in motion all kinds of speculation on the Pendant's 'true' usage, but no additional effect or usage have yet been discovered.",
+      "Note3":"It is speculated that invaders in Darkroot Garden must have chosen the Pendant as a gift, or in their possession, to drop one upon death.",
+      "Note4":"Based on in-game dialogue (which one ?) the pendant may be an heirloom handed down from the Furtive Pygmy, one of the first to receive a flame. If this is true then both the player (if the item is taken as a starting gift) and/or Reah of Thorolund (her ownership is discovered after certain events) are possibly descendants of the Pygmy.      ",
+      "Note5":"Supposedly the player is the descendant of the pygmy, who snuffed his flame in favor of the age of man. Meaning the \"bad\" ending is really the good ending. And when you consider that Gwynevere seems to be an illusion conjured by Gwyndolin, it seems like she is trying to trick you into disregarding your ancestor's wishes and prolonging the age of Gods, making the \"good\" ending the bad ending.",
+      "Note6":"Since it has been said that it is impossible to find its use in the first playthrough, maybe it's required to play multiple times with the same pendant on our inventory to unlock its effect. --- LautrecOfCarim",
+      "Note7":"Since it has been said that it is impossible to find its use in the first playthrough, maybe it's required to play multiple times with the same pendant on our inventory to unlock its effect. --- LautrecOfCarim",
+      "Note8":"There's a pendant in Shadow Tower: Abyss for the PS2 as well. Shadow Tower games are first-person action RPGs and just like King's Field, another RPG series by From, they are a sort of a precursor to Demon's Souls and Dark Souls. In one of the game's levels you find an item called \"Onyx Pendant\" (it's in a chest hidden behind a breakable wall). Its description says \"Old-looking item with no obvious value\". The pendant proceeds to sit in your inventory till the end of the game as there's absolutely nothing you can do with that thing. You find tons of weapons, equipment and other items throughout the game and every single one of them has a purpose but not the pendant.",
+      "Note9":"A pendant called 'Seath's Tear' can also be found by completing a sub-quest in King's Field (king's field 2 in japan). In that game the pendant actually has a purpose, as it will revive the wearer by offering a statue (idol) of Seath.",
+      "Note10":"Let's see what we know so far; The description says that \"fond memories comfort travellers\". Reah has one and you get them randomly from forest intruder kills. Reah does not have it on her when she's found praying in front of a statue in Undead Parish. The same statue is found near the Darkmoon Ring and the Sunlight Altar. You can trade it in to Snuggly for a Souvenir of Reprisal. Souvenirs of Reprisal are offerings in the Darkmoon covenant. The description of the pendant matches that of the sunlight medal (could be just a translation error). Please let me know if there are any other connections or clues about the pendant and I'll add it to the list. The only trail I seem to be finding is that it's pointing me in the direction of Gwyn's offsprings or towards \"protectors\" (Darkmoons and Forest Hunters). Someone pointed out that the pendant also looks dirty or covered in mud. I tried thinking of a way to \"wash it off\" and thought about dropping it in the Ash Lake. It didn't change anything about it so I decided to quit and reload ala snuggly trade. All that did was make the item disappear. So now I'm stuck with the pendant Reah dropped. I'll try and see if I can do anything special with it in Gwyn's tomb or Gwynevere's chamber."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note (Prism Colors)":["Purple", "Yellow", "Green", "White", "Red/Orange", "Light Cyan", "Pink", "Blue", "Orange/Pink", "Red", "Slightly different green"]
+    },
+    {
+      "Note":"Does not remove the Transient Curse effect."
+    },
+    {
+      "Note":"The Purple Coward's Crystal has a somewhat long casting animation that can be interrupted by the opponent."
+    },
+    {
+      "Note":"Siegmeyer of Catarina gifts a Pierce Shield to the player in Blighttown in exchange for three Purple Moss Clumps."
+    },
+    {
+      "Note":"Can invade only players who have not killed the area boss yet.",
+      "Note2":"Can invade anyone with higher level than you or 10% lower level than you.",
+      "Note3":"Humanity is gained when you defeat a 'master of world'",
+      "Note4":"The color of this eye orb is based on the Red Eye Stone, obtained by killing The Maiden in Black in Demon's Souls.",
+      "Note5":"Some believe Darkwraiths to be revolutionaries, defenders of the human race, but they might just be evil Humanity."
+    },
+    {
+      "Note":"The victor will be rewarded with one Humanity and souls.",
+      "Note2":"You can summon up to 2 dark spirits and they will be able to damage each other.",
+      "Note3":"Compatible with password matchmaking.",
+      "Note4":"When you use the summon sign, you can get summoned by anyone within -10% +10% of your level but as with the Red Eye Orb, there is no upper limit on who can summon you.",
+      "Note5":"The Red Sign Soapstone cannot be used while in Hollow form.",
+      "Note6":"You can still be summoned even if the host has defeated the area boss.",
+      "Note7":"You cannot be indicted when you get summoned and defeat the host.",
+      "Note8":"Much like the Red Eye Orb, the Red Sign Soapstone sometimes turns the user into a blue dark spirit or a white phantom."
+    },
+    {
+      "Note":"Both weapons and shields can be repaired (100 durability points), as long as they are held in the right hand while applying the powder."
+    },
+    {
+      "Note":"The Rite of Kindling is lost with every playthrough, but kindled bonfires remain at the level that they were bolstered. Therefore, it is a good idea to kindle important bonfires before moving to NG+, as it may be quite a while before players have access to the Rite of Kindling again.",
+      "Note2":"Any bonfires that were previously kindled just twice before going into NG+ (i.e. 15 Estus Flask charges), when encountered in NG+, can be kindled a third time (to 20 Estus Flasks charges) without having to first reacquire the Rite of Kindling.",
+      "Note3":"Reah of Thorolund and her followers were seeking the rite, which was also the reason why they went down into the Catacombs. Strangely enough, they traveled past the point where it was found (off Pinwheel) and ended up in the Tomb of the Giants, where most of them met their demise."
+    },
+    {
+      "Note":"Duration: 60 seconds.",
+      "Note2":"May only be used on weapons that are on the standard +1...+15 weapon path and which are not inherently magical (see Weapon Buffs)."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"This item is reusable.",
+      "Note2":"Time period is very small, practically the same for parrying.",
+      "Note3":"Actually deflects the magic, rather than provides protection against."
+    },
+    {
+      "Note":"The Souvenir of Reprisal is a very discolored ear, collected from the victim."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Used as a consumable item and does not add to equip weight."
+    },
+    {
+      "Note":"Ghosts are encountered in New Londo Ruins.",
+      "Note2":"The effect lasts for 5 minutes.",
+      "Note3":"Transient Curse is a Self Buff and interferes with other such buffs (i.e. Great Magic Barrier, Green Blossom, Power Within, etc.). While active, a player is unable to cast other Self Buffs and vice versa.",
+      "Note4":"Players may instantly lose the effect of the Transient Curse if they return to the main menu and reload their save.",
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Can be used in hollow or human form.",
+      "Note2":"This item is only needed to play as a phantom, and not to summon phantoms.",
+      "Note3":"When you use white sign soapstone, you can get summoned by players within +/- (10 + 10%) of your level"
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Can't be used to create/ascend any weapon."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"DEIXA"
+    },
+    {
+      "Note":"DEIXA"
+    },
+  ]
 
-    },
-    {
-      "Note":`Firebombs deal 21 poise damage.`,
-      "Note":`Very low price (50 souls apiece) and good damage make them handy in many situations. You can kill the Undead Attack Dogs in Capra Demon's fight with a single bomb, making it much easier to run up the stairs without having to circle around the dogs. Firebombs are also good replacements for Fireorbs/Fireballs when the target is outside the range of these pyromancy spells.`,
-    },
-    {
-      "Note":`Cannot be sold to Kingseeker Frampt if you either jump down the hole he is in or speak to Darkstalker Kaathe`,
-    },
-    {
-      "Note":`Duration: 60 seconds.`,
-      "Note2":`May only be used on weapons that are on the standard +1...+15 weapon path and which are not inherently magical.`,
-    },
-    {
-      "Note":`Duration: 60 seconds.`,
-      "Note":`Stacks with: Cloranthy Ring, Grass Crest Shield and Mask of the Child.`,
-      "Note":`Green Blossom is a Self Buff and interferes with other such buffs (i.e. Great Magic Barrier, Transient Curse, Power Within, etc.). As long as it's active it's not possible to cast other Self Buffs and vice versa.`,
-    },
-    {
-      "Note":`Same effect as the "Homeward" Miracle.`,
-      "Note2":`Bonfires were originally used to burn the bones of slaughtered cattle, hence the name; bone-fire.`,
-      "Note3":`Homeward Bone is obviously a play on words with the expression "Homeward Bound".`,
-    },
-    {
-      "Note":`Can be traded to Snuggly for a Ring of Sacrifice.`,
-      "Note2":`Can be sold to Kingseeker Frampt for 1,000 souls.`,
-      "Note3":`The more Humanity one has in the counter by their health bar, the higher some resistances are. `,
-      "Note4":`Humanity in the counter also increases Curse resistance to a high degree the more one has. `,
-      "Note5":`Humanity also greatly increase Item Discovery hardcapping at 10 Humanity in the counter granting 210 Item Discovery. `,
-      "Note6":`Humanity is the primary component of the Chaos upgrade path's power with the max damage bonus being received  at 10 Humanity held in the counter. `,
-      "Note7":`A great tactic is to obtain the Dark Hand as soon as one can as NPCs that are Humanoid characters like Petrus hold a good amount of Humanity that can be absorbed.`,
-      "Note8":`For characters that are encountered sitting, kicking them with cause  them to stand up. Using the Force Miracle works as well if one fears miss-clicking a kick and attacking said character.`,
-      "Note9":`In addition to what is mentioned above, using the Kick maneuver or the Force Miracle deal no damage to said characters and does not incur a sin. Using the Dark Hand's Absorb grab-attack does not deal damage to targets either, however it does cause the NPCs to speak as if they were attacked. This is not a cause for alarm as no damage is being done and it does not incur a sin as long as the grab connects and animation plays.  Make sure to be on even ground and close to the target.`,
-      "Note10":`Humanity can be conveniently farmed infinitely at the last bonfire at the end of the Artorias of the Abyss DLC in the final area leading up to Manus, Father of the Abyss. `,
-    },
-    {
-      "Note":`Being indicted gives you +1 sin, and will leave you open to invasions from the Blade of the Dark Moon faction.`,
-      "Note2":`If slain by a player in the Blade of the Dark Moon faction, you will get -1 sin, and be notified that the invading player cannot be indicted.`,
-      "Note3":`Red phantoms summoned from their Red Sign Soapstone can not be indicted after killing the host.`,
-      "Note4":`Forest Hunter and Path of the Dragon members can also be indicted while invading with their covenant item. They will not be added to the Book of the Guilty scoreboard, but will still be open to Darkmoon invasions.`,
-      "Note5":`This item is not consumed upon use, so it only needs to be bought once.`,
-      "Note6":`The "Indict ...?" prompt goes away if the indictment is discarded.`,
-      "Note7":`A host can indict an invader even if killed by something else while the invader is present.`,
-    },
-    {
-      "Note":`The visual effect of the Talisman lasts for 25 seconds. The actual effect lasts for approximately the same length.`,
-      "Note2":`Lloyd's Talismans don't block healing from any source other than Estus Flasks, including miracles, Humanity and Divine Blessings.`,
-      "Note4":`Throwing a Lloyd's Talisman at a Mimic causes it to go to sleep, allowing the player to collect its item without danger of being attacked.`,
-      "Note5":`It is rumored that one can get it very rarely from Giant Clams. However, this is more likely to be related to the drift item mechanics, as it has been reported that dropped items were found on the floor in various areas, including the boss room in the Abyss.`,
-    },
-    {
-      "Note":`The soapstone is not needed to read or rate messages, only to write them.`,
-      "Note2":`A message will only be sent to other players while the author of the message is online and connected.`,
-      "Note3":`Players can cast six messages at a time, per character.`,
-      "Note4":`Cast the Seek Guidance Miracle to see more messages, as well as their ratings. This miracle will also show some helpful developer messages, visible both on- and offline (see seek guidance for details).`,
-      "Note5":`There are also tutorial messages scattered around, mostly in the Undead Asylum. These messages can only be read, and are visible both on- and offline.`,
-    },
-    {
-      "Note":`No other usage, from the director of Darks Souls: "When it comes to the pendant, I actually had a little bit of an intention to play a prank."`,
-      "Note2":`Hidetaka Miyazaki, dark souls game director, suggested that the player should choose either the Pendant or Nothing as a starting gift. His suggestion set in motion all kinds of speculation on the Pendant's 'true' usage, but no additional effect or usage have yet been discovered.`,
-      "Note3":`It is speculated that invaders in Darkroot Garden must have chosen the Pendant as a gift, or in their possession, to drop one upon death.`,
-      "Note4":`Based on in-game dialogue (which one ?) the pendant may be an heirloom handed down from the Furtive Pygmy, one of the first to receive a flame. If this is true then both the player (if the item is taken as a starting gift) and/or Reah of Thorolund (her ownership is discovered after certain events) are possibly descendants of the Pygmy.      `,
-      "Note4":`Supposedly the player is the descendant of the pygmy, who snuffed his flame in favor of the age of man. Meaning the "bad" ending is really the good ending. And when you consider that Gwynevere seems to be an illusion conjured by Gwyndolin, it seems like she is trying to trick you into disregarding your ancestor's wishes and prolonging the age of Gods, making the "good" ending the bad ending.`,
-      "Note5":`Since it has been said that it is impossible to find its use in the first playthrough, maybe it's required to play multiple times with the same pendant on our inventory to unlock its effect. --- LautrecOfCarim`,
-      "Note6":`Since it has been said that it is impossible to find its use in the first playthrough, maybe it's required to play multiple times with the same pendant on our inventory to unlock its effect. --- LautrecOfCarim`,
-      "Note7":`There's a pendant in Shadow Tower: Abyss for the PS2 as well. Shadow Tower games are first-person action RPGs and just like King's Field, another RPG series by From, they are a sort of a precursor to Demon's Souls and Dark Souls. In one of the game's levels you find an item called "Onyx Pendant" (it's in a chest hidden behind a breakable wall). Its description says "Old-looking item with no obvious value". The pendant proceeds to sit in your inventory till the end of the game as there's absolutely nothing you can do with that thing. You find tons of weapons, equipment and other items throughout the game and every single one of them has a purpose but not the pendant.`,
-      "Note8":`A pendant called 'Seath's Tear' can also be found by completing a sub-quest in King's Field (king's field 2 in japan). In that game the pendant actually has a purpose, as it will revive the wearer by offering a statue (idol) of Seath.`,
-      "Note9":`Let's see what we know so far; The description says that "fond memories comfort travellers". Reah has one and you get them randomly from forest intruder kills. Reah does not have it on her when she's found praying in front of a statue in Undead Parish. The same statue is found near the Darkmoon Ring and the Sunlight Altar. You can trade it in to Snuggly for a Souvenir of Reprisal. Souvenirs of Reprisal are offerings in the Darkmoon covenant. The description of the pendant matches that of the sunlight medal (could be just a translation error). Please let me know if there are any other connections or clues about the pendant and I'll add it to the list. The only trail I seem to be finding is that it's pointing me in the direction of Gwyn's offsprings or towards "protectors" (Darkmoons and Forest Hunters). Someone pointed out that the pendant also looks dirty or covered in mud. I tried thinking of a way to "wash it off" and thought about dropping it in the Ash Lake. It didn't change anything about it so I decided to quit and reload ala snuggly trade. All that did was make the item disappear. So now I'm stuck with the pendant Reah dropped. I'll try and see if I can do anything special with it in Gwyn's tomb or Gwynevere's chamber.`,
-    },
-    {
-      "Note":``,
-    },
-    {
-      "Note (Prism Colors)":['Purple', 'Yellow', 'Green', 'White', 'Red/Orange', 'Light Cyan', 'Pink', 'Blue', 'Orange/Pink', 'Red', 'Slightly different green'],
-    },
-    {
-      "Note":`Does not remove the Transient Curse effect.`,
-    },
-    {
-      "Note":`The Purple Coward's Crystal has a somewhat long casting animation that can be interrupted by the opponent.`,
-    },
-    {
-      "Note":`Siegmeyer of Catarina gifts a Pierce Shield to the player in Blighttown in exchange for three Purple Moss Clumps.`,
-    },
-    {
-      "Note":`Can invade only players who have not killed the area boss yet.`,
-      "Note2":`Can invade anyone with higher level than you or 10% lower level than you.`,
-      "Note3":`Humanity is gained when you defeat a 'master of world'`,
-      "Note4":`The color of this eye orb is based on the Red Eye Stone, obtained by killing The Maiden in Black in Demon's Souls.`,
-      "Note5":`Some believe Darkwraiths to be revolutionaries, defenders of the human race, but they might just be evil Humanity.`,
-    },
-    {
-      "Note":`DEIXA`,
-    },
-    {
-      "Note":`DEIXA`,
-    },
-    {
-      "Note":`DEIXA`,
-    },
-  ];
 
 
 const location = [], usage = [], notes = [];
@@ -2287,7 +2492,7 @@ const items = [
 
     `,
 
-    Type: "Consumable",
+    Type: "Consumables",
 
     Availability: location[58],
 
@@ -2424,7 +2629,7 @@ const items = [
     GeneralInformation: `Egg Vermifuges are restorative items in Dark Souls.
     `,
 
-    Type: `Consumable`,
+    Type: `Consumables`,
 
     Availability: location[64],
 
@@ -2448,7 +2653,7 @@ const items = [
 
     `,
 
-    Type: `Consumable`,
+    Type: `Consumables`,
 
     Availability: location[65],
 
@@ -2469,7 +2674,7 @@ const items = [
     GeneralInformation: `Estus Flasks are restorative items in Dark Souls.
 
     `,
-    Type: `Consumable`,
+    Type: `Consumables`,
     Availability: location[66],
     Usage: usage[66],
     Notes: notes[66],
@@ -2507,7 +2712,7 @@ const items = [
 
     GeneralInformation: `Fire Keeper Souls are restorative items in Dark Souls.`,
 
-    Type: `Consumable`,
+    Type: `Consumables`,
 
     Availability: location[68],
 
@@ -2516,8 +2721,7 @@ const items = [
     Notes: notes[68],
   },
   {
-    Name: `FIREBOMB
-    `,
+    Name: `FIREBOMB`,
 
     Image:
       `https://static.wikia.nocookie.net/darksouls/images/b/b0/Firebomb.png/revision/latest?cb=20160526213656`,
@@ -2553,7 +2757,7 @@ const items = [
     Image: `https://static.wikia.nocookie.net/darksouls/images/4/40/Item_Gold_Pine_Resin.png/revision/latest?cb=20130407034540`,
     InGameDescription: `Rare pine which emits golden sparks. Applies lightning to right-hand weapon. Affected weapon inflicts rare lightning damage, making it effective against targets which are resilient to both magic and fire. Very effective against dragon family foes.`,
     GeneralInformation: `Gold Pine Resins are offensive items in Dark Souls.`,
-    Type: `Consumable`,
+    Type: `Consumables`,
     Availability: location[71],
     Usage: usage[71],
     Notes: notes[71],
@@ -2563,7 +2767,7 @@ const items = [
     Image: `https://static.wikia.nocookie.net/darksouls/images/8/85/Green_blossom.png/revision/latest?cb=20121018125640`,
     InGameDescription: `Green weed, shaped like a flower. Temporary boost to stamina recovery speed. This uniquely bitter, biting herb is sometimes harvested in large quantities but normally it is an annual plant found near water.`,
     GeneralInformation: `The Green Blossom is a restorative item in Dark Souls.`,
-    Type: `Consumable`,
+    Type: `Consumables`,
     Availability: location[72],
     Usage: usage[72],
     Notes: notes[72],
@@ -2573,7 +2777,7 @@ const items = [
     Image: `https://static.wikia.nocookie.net/darksouls/images/a/ab/Homeward_Bone.png/revision/latest?cb=20121211053925`,
     InGameDescription: `Bone fragment reduced to white ash. Return to last bonfire used for resting. Bonfires are fueled by the bones of the Undead. In rare cases, the strong urge of their previous owner's [sic] to seek bonfires enchants their bones with a homeward instinct.`,
     GeneralInformation: `Homeward Bones are miscellaneous items in Dark Souls.`,
-    Type: `Consumable`,  
+    Type: `Consumables`,  
     Availability: location[73],
     Usage: usage[73],
     Notes: notes[73],
@@ -2583,7 +2787,7 @@ const items = [
     Image: `https://static.wikia.nocookie.net/darksouls/images/8/89/Item_Humanity.png/revision/latest?cb=20120306111417`,
     InGameDescription: `Rare tiny black sprite found on corpses. Use to gain 1 humanity and restore a large amount of HP. This black sprite is called humanity, but little is known about its true nature. If the soul is the source of all life, then what distinguishes the humanity we hold within ourselves?`,
     GeneralInformation: `Humanity is a restorative item in Dark Souls. It is also commonly known as solid humanity, to distinguish it from its liquid form.`,
-    Type: `Consumable`,
+    Type: `Consumables`,
     Availability: location[74],
     Usage: usage[74],
     Notes: notes[74],
@@ -2644,7 +2848,7 @@ const items = [
     Image: `https://static.wikia.nocookie.net/darksouls/images/0/01/Item_Prism_Stone.png/revision/latest?cb=20120308064409`,
     InGameDescription: `Warm pebble emitting a beautiful phasing aura of seven colors, with a very rare eighth. The rainbow stone does nothing special, but can serve as a path marker, and can be dropped off a cliff to judge height by the sound of descent. If a loud noise is heard upon its landing, then a fall off the ledge is surely lethal.`,
     GeneralInformation: `Prism Stones are miscellaneous items in Dark Souls.`,
-    Type: `Consumable`,
+    Type: `Consumables`,
     Availability: location[80],
     Usage: usage[80],
     Notes: notes[80],
@@ -2654,7 +2858,7 @@ const items = [
     Image: `https://darksouls.wiki.fextralife.com/file/Dark-Souls/2019.png`,
     InGameDescription: `Ash-colored stone encasing a skull. Secret treasure of Arstor, the Earl of Carim. Reduces curse build-up and breaks curse. Humans are helpless against curses, and can only redirect their influence. The Purging Stone does not dispel curses, but receives them as a surrogate. The stone itself was once a person or some other being.`,
     GeneralInformation: `Purging Stones are restorative items in Dark Souls.`,
-    Type: `Consumable`,
+    Type: `Consumables`,
     Availability: location[81],
     Usage: usage[81],
     Notes: notes[81],
@@ -2674,7 +2878,7 @@ const items = [
     Image: `https://static.wikia.nocookie.net/darksouls/images/c/c4/Purple_moss_clump.png/revision/latest?cb=20121023194922`,
     InGameDescription: `Medicinal purple moss clump. Reduces poison build-up. Cures poison. Poison builds up in the body, and when it breaks out, it causes gradual damage over a period of time. Poison can be exasperating, so be certain to carry the needed quantity of these moss clumps when destined for an afflicted area.`,
     GeneralInformation: `Purple Moss Clumps are restorative items in Dark Souls.`,
-    Type: `Consumable`,
+    Type: `Consumables`,
     Availability: location[83],
     Usage: usage[83],
     Notes: notes[83],
@@ -2688,6 +2892,196 @@ const items = [
     Availability: location[84],
     Usage: usage[84],
     Notes: notes[84],
+  },
+  {
+    Name: `RED SIGN SOAPSTONE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/1/1b/Red_Sign_Soapstone.png/revision/latest?cb=20121004020449`,
+    InGameDescription: `Online play item. Leaves invasion sign. (Hollows cannot use the item). Be summoned to another world as a dark spirit, and defeat the summoner to acquire humanity. Certain Darkwraiths resist their descent into dark and persevere along the honorable path. The Red Soapstone is for them.`,
+    GeneralInformation: `The Red Sign Soapstone is an online play item in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[85],
+    Usage: usage[85],
+    Notes: notes[85],
+  },
+  {
+    Name: `REPAIR POWDER`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/b/b8/Repair_powder.png/revision/latest?cb=20121005093929`,
+    InGameDescription: `Lightly enchanted golden powder. Repairs weapon equipped in right hand. Use of a weapon depletes its durability, eventually rendering it ineffective. Repair Powder is a precious method of repair on the battlefield, as it obviates the need for a Repairbox`,
+    GeneralInformation: `Repair Powder is a restorative item in Dark Souls.`,
+    Type: `Consumables`,
+    Availability: location[86],
+    Usage: usage[86],
+    Notes: notes[86],
+  },
+  {
+    Name: `RITE OF KINDLING`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/e/e5/Rite_of_Kindling.png/revision/latest?cb=20120511183034`,
+    InGameDescription: `This secret rite allows bonfires to be bolstered further with Kindling, so that even more Estus can be collected. Kindling was a sacred rite passed down among clerics, but all Undead can imitate the process in the same manner that they restore their Hollowing with humanity. How peculiar that humans had found little use for humanity until they turned Undead.`,
+    GeneralInformation: `Rite of Kindling is a special utility item in Dark Souls.`,
+    Type: `Key Bonfire Item`,
+    Availability: location[87],
+    Usage: usage[87],
+    Notes: notes[87],
+  },
+  {
+    Name: `ROTTEN PINE RESIN`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/1/17/Rottenpineresin.png/revision/latest?cb=20130407035133`,
+    InGameDescription: `Rotten pine resin that has gained poison. Adds poison effect to right-hand weapon. Hits with affected weapon build up enemy poison level. If enemy is poisoned, damage will be inflicted for a period of time.`,
+    GeneralInformation: `Rotten Pine Resin is an offensive item in Dark Souls.`,
+    Type: `Consumables`,
+    Availability: location[88],
+    Usage: usage[88],
+    Notes: notes[88],
+  },
+  {
+    Name: `RUBBISH`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/d/d5/Rubbish.png/revision/latest?cb=20121203062737`,
+    InGameDescription: `Rubbish has no value. Who in their right mind would bother carrying this around? Perhaps you need help.`,
+    GeneralInformation: `Rubbish is an item in Dark Souls.`,
+    Type: `Miscellaneous`,
+    Availability: location[89],
+    Usage: usage[89],
+    Notes: notes[89],
+  },
+  {
+    Name: `SERVANT ROSTER`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/c/c7/Servant_Roster.png/revision/latest?cb=20121211055106`,
+    InGameDescription: `Online play item. Check servants of the Daughters of Chaos. Egg-bearer Eingyi keeps this roster of those who serve his master, a Daughter of Chaos. Eingyi praises those who offer significant humanity to alleviate his master's suffering. But what is praise from Eingyi really worth?`,
+    GeneralInformation: `The Servant Roster is an online play item in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[90],
+    Usage: usage[90],
+    Notes: notes[90],
+  },
+  {
+    Name: `SILVER COIN`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/3/3c/Silver_coin.png/revision/latest?cb=20121005093841`,
+    InGameDescription: `Coin made of silver, with a portrait of the legendary Knight King Rendal on its face. Even coins of great value in the world of men have little value in Lordran, where the accepted currency is souls. Those who dream of returning to the outside world are fond of carrying these around.`,
+    GeneralInformation: `Silver Coins are items in Dark Souls.`,
+    Type: `Miscellaneous`,
+    Availability: location[91],
+    Usage: usage[91],
+    Notes: notes[91],
+  },
+  {
+    Name: `SILVER PENDANT`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/7/71/Silver_Pendant.png/revision/latest?cb=20121211055226`,
+    InGameDescription: `Silver Pendant engraved with the crest of Artorias. One of the ancient treasures of Anor Londo. Presented to Artorias for facing the Abyss. Effectively deflects the Dark of the Abyss, especially in its magic forms.`,
+    GeneralInformation: `The Silver Pendant is an item in Dark Souls. It is part of the Artorias of the Abyss DLC.`,
+    Type: `Miscellaneous`,
+    Availability: location[92],
+    Usage: usage[92],
+    Notes: notes[92],
+  },
+  {
+    Name: `SOUVENIR OF REPRISAL`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/3/3d/Item_Souvenir_of_Reprisal.png/revision/latest?cb=20120308064339`,
+    InGameDescription: `Blood-drained, shrunken ear. Souvenir taken for subduing the guilty. The knights called the Blades of the Darkmoon punish the guilt-soaked offenders of the Gods and take this as proof of their conquest. The earless corpses of the guilty will be left behind as a warning to others, inspiring both fear and respect for the Gods. Such is the eternal mandate of the Dark Sun.`,
+    GeneralInformation: `A Souvenir of Reprisal is an item in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[93],
+    Usage: usage[93],
+    Notes: notes[93],
+  },
+  {
+    Name: `SUNLIGHT MEDAL`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/9/93/Misc_Sunlight_Medal.png/revision/latest?cb=20120305053425`,
+    InGameDescription: `This faintly warm medal engraved with the symbol of the Sun, is the ultimate honor, awarded to those who summon the Warrior of Sunlight and complete a goal. The symbol represents Lord Gwyn's firstborn, who lost his deity status and was expunged from the annals. But the old God of War still watches closely over his warriors.`,
+    GeneralInformation: `A Sunlight Medal is an item in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[94],
+    Usage: usage[94],
+    Notes: notes[94],
+  },
+  {
+    Name: `THROWING KNIFE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/4/4b/Throwing_knife.png/revision/latest?cb=20121023201249`,
+    InGameDescription: `Throwing Knife. Used as a projectile. Throwing knives have limited range and accuracy compared to arrows, but offer a quick-and-easy ranged attack. Undead who lack other means of ranged attacks will do well to stock a few of these.`,
+    GeneralInformation: `The Throwing Knife is an offensive item in Dark Souls.`,
+    Type: `Projectiles`,
+    Availability: location[95],
+    Usage: usage[95],
+    Notes: notes[95],
+  },
+  {
+    Name: `TRANSIENT CURSE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/b/b8/Transient_Curse.png/revision/latest?cb=20121029014257`,
+    InGameDescription: `Limb of the victim of a curse. Temporary curse allows engagement with ghosts. The only way to fight back against ghosts, who are cursed beings, is to become cursed oneself. The safest method, however dreadful, is to cut off an arm of the dead.`,
+    GeneralInformation: `Transient Curses are consumables items in Dark Souls.`,
+    Type: `Consumable`,
+    Availability: location[96],
+    Usage: usage[96],
+    Notes: notes[96],
+  },
+  {
+    Name: `TWIN HUMANITIES`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/0a/Item_Twin_Humanities.png/revision/latest?cb=20120308065519`,
+    InGameDescription: `Rare tiny black sprite found on corpses.Very unusual twin humanity. Use to gain 2 humanity and restore a large amount of HP. This black sprite is called humanity, but little is known about its true nature. If the soul is the source of all life, then what distinction is left for humanity?`,
+    GeneralInformation: `Twin Humanities is a restorative item in Dark Souls.`,
+    Type: `Consumble`,
+    Availability: location[97],
+    Usage: usage[97],
+    Notes: notes[97],
+  },
+  {
+    Name: `WHITE SIGN SOAPSTONE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/8/86/White_Sign_Soapstone.png/revision/latest?cb=20200810124641`,
+    InGameDescription: `Online play item. Leave summon sign. Be summoned to another world as a phantom through your sign, and defeat the area boss to acquire humanity. (Hollows cannot conduct summons). In Lordran, the flow of time is distorted, and the White Sign Soapstone allows Undead to assist one another.`,
+    GeneralInformation: `The White Sign Soapstone is an online play item in Dark Souls.`,
+    Type: `Multiplayer Item`,
+    Availability: location[98],
+    Usage: usage[98],
+    Notes: notes[98],
+  },
+  {
+    Name: `SOUL OF THE FOUR KINGS`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/a/a2/BequeathedLordSoulShard.png/revision/latest?cb=20121211135516`,
+    InGameDescription: `Soul of one of the Four Kings, who fell to the Dark. A fragment of a Lord Soul discovered at the dawn of the Age of Fire. Lord Gwyn recognized the foresight of these four great leaders of New Londo, and granted them their ranks and the fragments of a great soul. Although this is not a full Lord Soul, it can still satiate the Lordvessel.`,
+    GeneralInformation: `Soul of Four Kings is a Key Bonfire Item in Dark Souls.`,
+    Type: "Key Bonfire Item",
+    Availability: location[99],
+    Usage: usage[99],
+    Notes: notes[99],
+  },
+  {
+    Name: `SOUL OF SEATH THE SCALELESS`,
+    Image: `https://darksouls.wiki.fextralife.com/file/Dark-Souls/Bequeathed_Lord_Soul_Shard_2.png`,
+    InGameDescription: `Soul of the albino dragon, Seath the Scaleless. A fragment of a Lord Soul discovered at the dawn of the Age of Fire. Seath allied with Lord Gwyn and turned upon the dragons; for this he was awarded Dukedom embraced by the royalty, and given a fragment of a great soul. Although just a piece, it will still satiate the Lordvessel.`,
+    GeneralInformation: `Soul of Seath the Scaleless is a Key Bonfire Item in Dark Souls.`,
+    Type: `Key Bonfire Item`,
+    Availability: location[100],
+    Usage: usage[100],
+    Notes: notes[100],
+  },
+  {
+    Name: `CORE OF AN IRON GOLEM`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul serving as the core of the Iron Golem, guardian of Sen's Fortress, and slayer of countless heroes seeking Anor Londo. Originally a bone of an everlasting dragon. Use to acquire a huge amount of souls, or to create a unique weapon.`,
+    GeneralInformation: `The Core of an Iron Golem is a consumable item in Dark Souls.`,
+    Type: `Consumables`,
+    Availability: location[101],
+    Usage: usage[101],
+    Notes: notes[101],
+  },
+  {
+    Name: `GUARDIAN SOUL`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/63/Guardian_Soul.png/revision/latest?cb=20121211052842`,
+    InGameDescription: `Soul of the white winged lion sanctuary watchkeeper, who dreaded the spread of the Abyss. The Guardian exhibited traits of several animals other than lions, suggesting that it was no ordinary beast, but rather closer to the beings known as Demons.`,
+    GeneralInformation: `The Guardian Soul is a soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[102],
+    Usage: usage[102],
+    Notes: notes[102],
+  },
+  {
+    Name: `LARGE SOUL OF A BRAVE WARRIOR`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/f/fe/Soul_of_a_Brave_Warrior.png/revision/latest?cb=20200810132526`,
+    InGameDescription: `Large soul of a brave Undead warrior who has long ago gone Hollow. Use to acquire a large amount of souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Large Soul of a Brave Warrior is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[103],
+    Usage: usage[103],
+    Notes: notes[103],
   },
   {
     Name: `aa`,
