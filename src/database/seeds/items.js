@@ -534,11 +534,109 @@ const Localizacao = [
     "Availability3":`The Duke's Archives - Inside the Archive Tower cell accessed using the Archive Prison Extra Key.`,
   },
   {
+    "Availability":`Drops from Corpse Wielder Infested Ghoul (10% chance - Blighttown)`,
+    "Availability2":`Drops from Vagrants, specifically the White Good Vagrant.`,
+    "Availability3":`Most often found on corpses in the earlier areas of Lordran.`,
+    "Availability4":`Firelink Shrine - Found in the earlier part of the graveyard.`,
+    "Availability5":`Firelink Shrine - In the graveyard, close to the previous.`,
+    "Availability6":`Upper Undead Burg - Before the first fog door. Must be dropped onto from above by breaking a group of barrels.`,
+    "Availability7":`Upper Undead Burg - After the area where the Taurus Demon is fought, the corpse is hidden behind some breakable boxes before heading down the stairs towards the Undead Parish.`,
+    "Availability8":`Lower Undead Burg - The corpse is in a barrel in the vicinity where the Hollow Thieves ambush the player.`,
+    "Availability9":`Lower Undead Burg - Near the locked door that leads to the Depths.`,
+    "Availability10":`Undead Parish - Down the steps behind the Fang Boar, in the cellar-like area infested with Hollows. It is high above, hanging from the rafters.`,
+
+  },
+  {
+    "Availability":`Drops from Vagrants, specifically the Red Good Vagrant.`,
+    "Availability2":`Undead Parish - Hanging out of a window of the church, near the ladder that leads to the roof.`,
+    "Availability3":`Depths - After unlocking the door with the Key to Depths, the corpse is on the level down the first flight of stairs, behind some breakable boxes.`,
+    "Availability4":`Depths - In the area where many Basilisks can be found.`,
+    "Availability5":`Blighttown - Right beside the breaking floor section.`,
+    "Availability6":`Blighttown - Near the Parasitic Wall Hugger.`,
+    "Availability7":`The Great Hollow - To the left when exiting the first room with the three Basilisks.`,
+    "Availability8":`The Great Hollow - On the branch leading down from the Basilisk group to the bottom of the area.`,
+    "Availability9":`Darkroot Garden - When entering from the Undead Parish, it is behind a rock before reaching the large locked door that requires the Crest of Artorias.`,
+    "Availability10":`Darkroot Garden - After taking the path to the right of the locked door that requires the Crest of Artorias, in a small side area before the fog door, it is lying in the middle of three Demonic Foliages that pop out of the ground when the corpse is looted.`,
+    "Availability11":`Darkroot Basin - In the area with the Crystal Golems, it is under a tree towards the locked tower where Havel the Rock is held.`,
+    "Availability12":`Valley of Drakes - Near the locked gate that connects to New Londo Ruins.`,
+    "Availability13":`The Catacombs - Near a bow-wielding Skeleton, in the low-ceiling area that is just before the first switch bridge.`,
+    "Availability14":`The Catacombs - In a room with a ladder that connects to the large room with the Titanite Demon.`,
+    "Availability15":`The Catacombs - Next to Paladin Leeroy's summon sign.`,
+    "Availability16":`New Londo Ruins - On the catwalks, just after walking through the first fog door.`,
+    "Availability17":`New Londo Ruins - Behind the building where Ingward is found, on the pathway that leads to the lever that drains the ruins.`,
+  },
+  {
+    "Availability":`Blighttown - In the poisonous swamp, it is leaning against one of the large pillars not far from the bonfire.`,
+    "Availability2":`Blighttown - In the swamp, the corpse is below the path that leads up to the Depths. Very close to the swamp bonfire.`,
+    "Availability3":`Blighttown - Near the far side wall that is opposite from the swamp bonfire.`,
+    "Availability4":`New Londo Ruins - After draining the ruins, it can be reached by dropping off of the ledge where the Cursebite Ring is found.`,
+    "Availability5":`New Londo Ruins - Only accessible after draining the ruins, in a small wooden shack and next to a fog door that leads to the Mass of Souls.`,
+    "Availability6":`New Londo Ruins - Near the shallow, flooded area that is between the two main structures with a Darkwraith nearby.`,
+    "Availability7":`New Londo Ruins - Close to the previous, the corpse is sprawled on a set of stairs.`,
+    "Availability8":`Demon Ruins - Reachable only after killing Ceaseless Discharge, it is on a small "island" surrounded by lava.`,
+    "Availability9":`Sen's Fortress - Before crossing the 1st bridge, look high to your left, you'll see it from an alcove. You can access it by finding your way to the tar-covered floor, head to the Titanite Demon sitting the closest to the previous view, to his right there is a small set of stairs leading to an alcove with a ladder, climb it to reach the corpse.`,
+    "Availability10":`Sen's Fortress - When you reach the boulders' path going down to the Covetous Gold Serpent Ring's area, ascend a certain distance, then quickly drop off to your left on the platform of planks (watch out for the Cobra Mage).
+    `,
+  },
+  {
+    "Availability":`Drops from Gravelord Nito`,
+  },
+  {
+    "Availability":`Drops from The Bed of Chaos`,
+  },
+  {
+    "Availability":`Darkroot Garden - After climbing up the ladder behind the Hydra in Darkroot Basin, the corpse is across the bridge and beyond the bottom of the second ladder.`,
+    "Availability2":`New Londo Ruins - Can only be reached after draining the ruins. It is along one of the catwalks that leads to the Very Large Ember.`,
+    "Availability3":`Sen's Fortress - In the room corner of the first room.`,
+    "Availability4":`Sen's Fortress - Guarded by 1 of the 4 Titanite Demons at the tar-covered floor (the demon with 2 corpses behind it).`,
+    "Availability5":`Demon Ruins - Guarded by the lone Capra Demon near the Demon Firesage's arena entrance.`,
+    "Availability6":`Demon Ruins - On the right ledge of the tunnel leading to Lost Izalith shortcut.`,
+    "Availability7":`Demon Ruins - After defeating the Demon Firesage, climb the stairs, it is guarded by a gang of 3 Demonic Statues.`,
+    "Availability8":`Demon Ruins - While descending the branch leading to Centipede Demon Boss fight, drop off to the right ledge before the first curve of the branch, the corpse is easily missed.`,
+    "Availability9":`The Duke's Archives - Under the stairs of the large library.`,
+    "Availability10":`The Duke's Archives - After obtaining the Archive Prison Extra Key, head back to your cell, and advance further to where the 3 Crystal Undead Soldiers are, open the door and drop carefully from the narrow wooden walkway to the level below, the corpse is hanging there.`,
+  },
+  {
+    "Availability":`The Duke's Archives: After you kill Seath The Scaleless, go back to the place you first fought him and go up some stairs and there will be a corpse.`,
+    "Availability2":`Lost Izalith: After the Centipede Demon, equip the ring it drops and cross the lava with the giant creatures. You will find one inside the first temple in the middle of the lava, in a chest.`,
+  },
+  {
+    "Availability":`Sen's Fortress: Inside a hanging cage beside Big Hat Logan.`,
+    "Availability2":`Anor Londo: Guarded by the second of the infamous Silver Knight archers.`,
+    "Availability3":`Anor Londo: Balcony above the Titanite Demon, guarded by a Silver Knight.`,
+    "Availability4":`Crystal Cave: In front of the Moonlight Butterfly right after crossing the last invisible bridge.`,
+    "Availability5":`Tomb of Giants: There's two in the last area before the entrance to Nito.`,
+    "Availability6":`Lost Izalith: On a ledge above the underpass, close to the Rare Ring of Sacrifice.`,
+  },
+  {
+    "Availability":`Drops from Corpse Wielder Infested Ghoul (20% chance - Blighttown)`,
+    "Availability2":`Northern Undead Asylum - Found on a corpse in the area after using the Big Pilgrim's Key, on a side ledge before triggering the cut-scene.`,
+    "Availability3":`Firelink Shrine - Up the stairs near Petrus of Thorolund, past the elevator to Undead Parish (may be inoperable) and up a flight of stairs.`,
+    "Availability4":`Firelink Shrine - Found on a corpse up the steps near the Giant Crow, along the ledge and at the end of the path.`,
+    "Availability5":`Firelink Shrine - Through an archway near the steps that lead to the Giant Crow, the corpse is hidden behind a wall near a ledge overlooking Blighttown.`,
+    "Availability6":`Firelink Shrine - Up the path towards Undead Burg. The corpse is hanging on a ledge near an Undead Soldier.`,
+    "Availability7":`Firelink Shrine - Past the entrance to the aqueduct that connects to the Undead Burg.`,
+    "Availability8":`Firelink Shrine - In the aqueduct passage, guarded by an Undead Rat.`,
+    "Availability9":`Undead Burg - Before the first fog door, it can be reached by dropping down into the narrow area below. It is on a corpse, in a building, hanging out of a balcony.`,
+    "Availability10":`Undead Burg - In the building after the first fog door, before the Hellkite Dragon is first spotted.`,
+    "Availability11":`Undead Burg - Beyond the bonfire, on the wooden scaffolding where three Firebomb wielding Hollow Warriors are standing.`,
+  },
+  {
     "Availability":`lorem`,
   },
   {
     "Availability":`lorem`,
   },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  
 ];
 
 const Uso = [
@@ -921,11 +1019,56 @@ const Uso = [
       "Usage": `Gives 8,000 souls when consumed.`,
     },
     {
+      "Usage": `Gives 400 souls when consumed.`,
+      "Usage2": `Can be 'sold' to Frampt for 500 souls.`,
+    },
+    {
+      "Usage": `Gives 1000 souls when consumed.`,
+    },
+    {
+      "Usage": `Gives 3,000 souls when consumed.`,
+    },
+    {
+      "Usage": `Kindle Lordvessel at Firelink Altar`,
+    },
+        {
+      "Usage": `Kindle Lordvessel at Firelink Altar`,
+    },
+    {
+      "Usage": `Gives 5,000 souls when consumed.`,
+    },
+    {
+      "Usage": `Gives 20,000 souls when consumed.`,
+    },
+    {
+      "Usage": `Gives 10,000 souls when consumed.`,
+    },
+    {
+      "Usage": `Gives 200 Souls when consumed.`,
+      "Usage2": `Can be fed to Kingseeker Frampt for 500 Souls.`,
+    },
+    {
       "Usage": `YPSILOM`,
     },
     {
       "Usage": `YPSILOM`,
     },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+    
   ];
 
 
@@ -1377,11 +1520,42 @@ const Uso = [
       "Note":""
     },
     {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Nito, First of the Dead used his Lord Soul to release a miasma of death during the Dragon War. He also administered death, and offered much of his soul to death."
+    },
+    {
+      "Note":"The Witch of Izalith used her soul to weave great firestorms, burning the archtrees. When the First Flame started to fade, the Witch attempted to recreate it using her Lord Soul. The attempt (at first) failed, and she, as well as many of Izalith's inhabitants, were corrupted by this, the inhabitants were transformed into demons, while the Witch herself was turned into the Bed of Chaos, a bed of life from which all demons came from. Despite this, she did indeed eventually succeed in regards to the Chaos Flame and gaining control over it."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
       "Note":"DEIXA"
     },
     {
       "Note":"DEIXA"
     },
+    {
+      "Note":"DEIXA"
+    },
+    
   ]
 
 
@@ -3084,6 +3258,96 @@ const items = [
     Notes: notes[103],
   },
   {
+    Name: `LARGE SOUL OF A LOST UNDEAD`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/8/81/Soul_of_a_Lost_Undead.png/revision/latest?cb=20120722042813`,
+    InGameDescription: `Large soul of a lost Undead who has long ago gone Hollow. Use to acquire souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Large Soul of a Lost Undead is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[104],
+    Usage: usage[104],
+    Notes: notes[104],
+  },
+  {
+    Name: `LARGE SOUL OF A NAMELESS SOLDIER`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/4/40/Soul_of_a_Nameless_Soldier.png/revision/latest?cb=20120724083429`,
+    InGameDescription: `Soul of a nameless Undead soldier who has long ago gone Hollow. Use to acquire many souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Large Soul of a Nameless Soldier is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[105],
+    Usage: usage[105],
+    Notes: notes[105],
+  },
+  {
+    Name: `LARGE SOUL OF A PROUD KNIGHTs`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/f/f9/Soul_of_a_Proud_Knight.png/revision/latest?cb=20200810132348`,
+    InGameDescription: `Large soul of a proud Undead knight who has long ago gone Hollow. Use to acquire many souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Large Soul of a Proud Knight is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[106],
+    Usage: usage[106],
+    Notes: notes[106],
+  },
+  {
+    Name: `GRAVELORD NITO'S SOUL`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/06/Lord_Soul.png/revision/latest?cb=20200810134033`,
+    InGameDescription: `Soul of Gravelord Nito, first of the dead. This Lord Soul was discovered at the dawn of the Age of Fire. Gravelord Nito administers the death of all manner of beings. The power of his soul is so great that it satiates the Lordvessel, despite the fact that much of its energy has already been offered to death.`,
+    GeneralInformation: `A Lord Soul is a unique soul item in Dark Souls. They are used to satiate the Lordvessel in the Firelink Altar, and access to the Kiln of the First Flame.`,
+    Type: `Key Bonfire Item`,
+    Availability: location[107],
+    Usage: usage[107],
+    Notes: notes[107],
+  },
+  {
+    Name: `BED OF CHAOS' SOUL`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/06/Lord_Soul.png/revision/latest?cb=20200810134033`,
+    InGameDescription: `Soul of the Bed of Chaos and the mother of all demons. This Lord Soul was found at the dawn of the Age of Fire. The Witch of Izalith attempted to duplicate the First Flame from a soul, but instead created a distorted being of chaos and fire. Its power formed a bed of life which would become the source of all demons, and is more than enough to satiate the Lordvessel.`,
+    GeneralInformation: `A Lord Soul is a unique soul item in Dark Souls. They are used to satiate the Lordvessel in the Firelink Altar, and access to the Kiln of the First Flame.`,
+    Type: `Key Bonfire Item`,
+    Availability: location[108],
+    Usage: usage[108],
+    Notes: notes[108],
+  },
+  {
+    Name: `SOUL OF A BRAVE WARRIOR`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/f/fe/Soul_of_a_Brave_Warrior.png/revision/latest?cb=20200810132526`,
+    InGameDescription: `Soul of a brave Undead warrior who has long ago gone Hollow. Use to acquire a large amount of souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Soul of a Brave Warrior is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[109],
+    Usage: usage[109],
+    Notes: notes[109],
+  },
+  {
+    Name: `SOUL OF A GREAT HERO`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/5/58/Soul_of_a_Great_Hero.png/revision/latest?cb=20120724082129`,
+    InGameDescription: `Great soul of a hero of legend who has long ago gone Hollow. Use to acquire an incredible amount of souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Soul of a Great Hero is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[110],
+    Usage: usage[110],
+    Notes: notes[110],
+  },
+    {
+    Name: `SOUL OF A HERO`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/f/fe/Soul_of_a_Brave_Warrior.png/revision/latest?cb=20200810132526`,
+    InGameDescription: `Soul of a hero of legend who has long ago gone Hollow. Use to acquire a large amount of souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Soul of a Hero is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[111],
+    Usage: usage[111],
+    Notes: notes[111],
+  },
+  {
+    Name: `SOUL OF A LOST UNDEAD`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/8/81/Soul_of_a_Lost_Undead.png/revision/latest?cb=20120722042813`,
+    InGameDescription: `Soul of a lost Undead who has long ago gone Hollow. Use to acquire souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Soul of a Lost Undead is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[112],
+    Usage: usage[112],
+    Notes: notes[112],
+  },
+    {
     Name: `aa`,
     Image: `aa`,
     InGameDescription: `aa`,
