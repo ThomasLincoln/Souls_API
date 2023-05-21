@@ -622,6 +622,59 @@ const Localizacao = [
     "Availability11":`Undead Burg - Beyond the bonfire, on the wooden scaffolding where three Firebomb wielding Hollow Warriors are standing.`,
   },
   {
+    "Availability":`Drops from  Corpse Wielder Infested Ghoul (5% chance - Blighttown)`,
+    "Availability2":`Undead Burg - On the bridge with the Hellkite Dragon.`,
+    "Availability3":`Depths - In the flooded area through the door connecting to the room where the Butchers are found.`,
+    "Availability4":`Depths - Found in a corner where the Giant Undead Rat is encountered.`,
+    "Availability5":`Depths - In a side tunnel where the Giant Undead Rat is encountered.`,
+    "Availability6":`Depths - In one of the side tunnels, close to the fog door that leads to the area where the Channeler and three Large Undead Rats are encountered.`,
+    "Availability7":`Depths - In the area with numerous Basilisks.`,
+    "Availability8":`New Londo Ruins - In the initial area, soon after exiting the elevator that leads to Firelink Shrine.`,
+  },
+  {
+    "Availability":`Blighttown - After climbing down the initial ladders when entering from the Depths, it is on the lower ledge that can be reached by climbing down a nearby ladder. It is guarded by Infested Ghouls.`,
+    "Availability2":`Blighttown - Near the bonfire in the upper section, on one of the wooden platforms.`,
+    "Availability3":`Blighttown - Another is found on a wooden platform, not far from the upper bonfire.`,
+    "Availability4":`Blighttown - On a wooden platform below the corpse that is carrying the Shadow Set. The platform must be fallen onto from above.`,
+    "Availability5":`Blighttown - In upper Blighttown, up a ladder that is not far from the Parasitic Wall Hugger.`,
+    "Availability6":`Blighttown - If descending from Valley of Drakes, it is in the dark tunnel area where multiple Blowdart Snipers are located.`,
+    "Availability7":`Darkroot Garden - In the hidden area that is blocked by two Possessed Trees, it is along the cliff side where numerous Frog-Ray enemies spawn.`,
+    "Availability8":`Valley of Drakes - Between the claws of the Undead Dragon. Can be looted without awakening it.`,
+    "Availability9":`The Catacombs - Near the lever that operates the first switch bridge.`,
+    "Availability10":`The Catacombs - Beyond the first switch bridge. The corpse is in an alcove, clinging to a booby-trapped statue.`,
+    "Availability11":`The Catacombs - In a sunken room just beyond the previous corpse listed.`,
+    "Availability12":`The Catacombs - In the hidden chamber where a Black Knight can be found, overlooking the large cavern with many Bonewheel Skeletons.`,
+    "Availability13":`The Catacombs - Can only be reached after defeating Pinwheel. It is at the end of the "shortcut" path.`,
+    "Availability14":`New Londo Ruins - Within the building that Ingward is on top of. It is at the end of the long, circuitous hallway`,
+    "Availability15":`Demon Ruins - After defeating Ceaseless Discharge and clearing the magma, it is near a Capra Demon.`,
+    "Availability16":`Demon Ruins - Below the group of Capra Demon and close by the Bonfire.`,
+    "Availability17":`Demon Ruins - Before descending the large staircase towards the Demon Firesage.`,
+  },
+  {
+    "Availability":`Dropped by Knight Artorias in the Artorias of the Abyss DLC.`,
+  },
+  {
+    "Availability":`Obtained by killing Gwyn, Lord of Cinder.`,
+  },
+  {
+    "Availability":`Obtained by killing Dark Sun Gwyndolin.`,
+  },
+  {
+    "Availability":`Received after defeating Manus.`,
+  },
+  {
+    "Availability":`Dropped by Dragonslayer Ornstein, along with the Leo Ring, but only if he is defeated after Executioner Smough.`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
+    "Availability":`lorem`,
+  },
+  {
     "Availability":`lorem`,
   },
   {
@@ -1048,7 +1101,34 @@ const Uso = [
       "Usage2": `Can be fed to Kingseeker Frampt for 500 Souls.`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `Gives 800 souls when consumed.`,
+    },
+    {
+      "Usage": `Gives 2000 souls when consumed.`,
+    },
+    {
+      "Usage": `Abyss Greatsword (Ascended from +10 greatsword weapons)`,
+      "Usage2": `Dark Silver Tracer and Gold Tracer (give soul to Ciaran, or kill her)`,
+      "Usage3": `Gives 16,000 souls when consumed. 10,000 souls from feeding to Frampt.`,
+    },
+    {
+      "Usage": `Great Lord Greatsword (Ascended from +10 greatsword weapons)`,
+      "Usage2": `Sunlight Spear (also requires 10 Sunlight Medals at Sunlight Altar)`,
+      "Usage3": `Gives 20,000 souls when consumed. Can also be sold to Kingseeker Frampt for 40,000 souls.`,
+    },
+    {
+      "Usage": `Darkmoon Bow (Ascended from +10 bow weapons)`,
+      "Usage2": `Tin Darkmoon Catalyst (Ascended from cane catalyst)`,
+      "Usage3": `Gives 16,000 souls when consumed. Can also be sold to Kingseeker Frampt for 20,000 souls.`,
+    },
+    {
+      "Usage": `Manus Catalyst (Ascended from catalysts)`,
+      "Usage": `Pursuers (trade to Snuggly)`,
+      "Usage": `Gives 18,000 souls when consumed. 10,000 souls from feeding to Frampt.`,
+    },
+    {
+      "Usage": `Dragonslayer Spear (Ascended from +10 spear weapons)`,
+      "Usage2": `Gives 12,000 souls when consumed. 8,000 souls from feeding to Frampt.`,
     },
     {
       "Usage": `YPSILOM`,
@@ -1063,6 +1143,12 @@ const Uso = [
       "Usage": `YPSILOM`,
     },
     {
+      "Usage": `YPSILOM`,
+    },
+    {
+      "Usage": `YPSILOM`,
+    },
+        {
       "Usage": `YPSILOM`,
     },
     {
@@ -1545,6 +1631,34 @@ const Uso = [
     },
     {
       "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Besides using the Soul of Artorias to create the Abyss Greatsword, it can also be used to obtain other weapons. Exchange the soul with Lord's Blade Ciaran for the Dark Silver Tracer and Gold Tracer - she can be found in the arena where you encounter Artorias after he is defeated (it may require dying or warping for her to appear). It is worth noting that the soul does not need to be traded to get Ciaran's weapons, as she will drop them if killed, but it is one method of gaining them (also there will be placed some Lloyds talimans in front of Artorias grave in the presence when you do so, being in contrast to nothing if you trade). Killing her has no other effect, good or bad in the game.",
+      "Note2":"If you consume the Soul of Artorias or have it in your Bottomless Box before Ciaran appears, she will not spawn. Make sure you talk to her with the Soul of Artorias in your inventory."
+    },
+    {
+      "Note":"Highly recommended you either obtain the Sunlight Spear, or create the Great Lord Greatsword. Do not \"use\" this soul."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"\"Manu\" is a Hindu concept which refers to the archetypical man, and progenitor of humanity (like the Biblical Adam).",
+      "Note2":"\"Manus\" is the also Latin word for \"hand\".",
+      "Note3":"\"Manes\" in Roman religion, refers to the souls of the departed, particularly those who were morally ambiguous.",
+      "Note4":"In DS2, The Abyss brought forth Nashandra, Elana, Nadalia and Alsanna. They are the grandchildren of Manus."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"DEIXA"
     },
     {
       "Note":"DEIXA"
@@ -3348,15 +3462,185 @@ const items = [
     Notes: notes[112],
   },
     {
-    Name: `aa`,
-    Image: `aa`,
-    InGameDescription: `aa`,
-    GeneralInformation: `aa`,
-    Type: `aa`,
-    Availability: location[30],
-    Usage: usage[30],
-    Notes: notes[30],
+    Name: `SOUL OF A NAMELESS SOLDIER`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/4/40/Soul_of_a_Nameless_Soldier.png/revision/latest?cb=20120724083429`,
+    InGameDescription: `Soul of a nameless Undead soldier who has long ago gone Hollow. Use to acquire souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Soul of a Nameless Soldier is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[113],
+    Usage: usage[113],
+    Notes: notes[113],
   },
+    {
+    Name: `SOUL OF A PROUD KNIGHT`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/f/f9/Soul_of_a_Proud_Knight.png/revision/latest?cb=20200810132348`,
+    InGameDescription: `Soul of a proud Undead knight who has long ago gone Hollow. Use to acquire many souls. Souls are the source of all life, and whether Undead, or even Hollow, one continues to seek them.`,
+    GeneralInformation: `The Soul of a Proud Knight is a consumable soul item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[114],
+    Usage: usage[114],
+    Notes: notes[114],
+  },
+    {
+    Name: `SOUL OF ARTORIAS`,
+    Image: `https://darksouls.wiki.fextralife.com/file/Dark-Souls/Soul%20of%20Artorias.png`,
+    InGameDescription: `Soul of Lord Gwyn's Knight Artorias, who was consumed by the Abyss. The Legend that Artorias repelled the Abyss only told half of the story. It seems that he was defeated, and his honor preserved, by some unsung hero, who is the true victor over the Abyss.`,
+    GeneralInformation: `The Soul of Artorias is a consumable item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[115],
+    Usage: usage[115],
+    Notes: notes[115],
+  },
+    {
+    Name: `SOUL OF GWYN, LORD OF CINDER`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/b/b4/Soul_of_Gwyn.png/revision/latest?cb=20120724082610`,
+    InGameDescription: `Soul of Gwyn, Lord of Sunlight and Cinder, who linked the First Flame. Lord Gwyn bequeathed most of his power to the Gods, and burned as cinder for the First Flame, but even so, Lord Gwyn's soul is a powerful thing indeed.`,
+    GeneralInformation: `The Soul of Gwyn, Lord of Cinder is a consumable item in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[116],
+    Usage: usage[116],
+    Notes: notes[116],
+  },
+    {
+    Name: `SOUL OF GWYNDOLIN`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul of Darkmoon Gwyndolin, god of the Dark Sun and guardian of deserted Anor Londo. Special beings have special souls. Use the soul of Gwyn's lastborn to acquire a huge amount of souls, or to create a unique weapon.`,
+    GeneralInformation: `The Soul of Gwyndolin is a boss soul in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[117],
+    Usage: usage[117],
+    Notes: notes[117],
+  },
+    {
+    Name: `SOUL OF MANUS`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/9/91/Soul_of_Manus.png/revision/latest?cb=20130119224221`,
+    InGameDescription: `Soul of Manus, Father of the Abyss. This extraordinary soul is a viscous, lukewarm lump of gentle humanity. Ancient Manus was clearly once human. But he became the Father of the Abyss after his humanity went wild, eternally seeking his precious broken pendant.`,
+    GeneralInformation: `The Soul of Manus is a consumable in Dark Souls. It is the soul of Manus, Father of the Abyss, who can only be fought in the Artorias of the Abyss DLC.`,
+    Type: `Soul`,
+    Availability: location[118],
+    Usage: usage[118],
+    Notes: notes[118],
+  },
+    {
+    Name: `SOUL OF ORNSTEIN`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul of Ornstein, Dragonslayer Knight who guards the cathedral in the forsaken city of Anor Londo. Special beings special souls. Lord Gwyn granted this soul to his four most trusted knights. Use to acquire a huge amount of souls, or to create a unique weapon.`,
+    GeneralInformation: `The Soul of Ornstein is a boss soul in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[119],
+    Usage: usage[119],
+    Notes: notes[119],
+  },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
 ];
 
 const loadAndSaveData = async () => {
