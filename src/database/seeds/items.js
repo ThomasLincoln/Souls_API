@@ -666,10 +666,45 @@ const Localizacao = [
     "Availability":`Dropped by Dragonslayer Ornstein, along with the Leo Ring, but only if he is defeated after Executioner Smough.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Obtained by killing Crossbreed Priscilla.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Obtained by killing Chaos Witch Quelaag`,
+  },
+  {
+    "Availability":`Obtained by killing Great Grey Wolf Sif.`,
+  },
+  {
+    "Availability":`Dropped by Executioner Smough, if he is killed after Dragonslayer Ornstein.`,
+  },
+  {
+    "Availability":`Obtained by killing the Moonlight Butterfly. (Guaranteed - Darkroot Garden)`,
+  },
+  {
+    "Availability":`Sold by Blacksmith Andre (800 souls)`,
+    "Availability2":`Sold by Blacksmith Vamos (800 souls)`,
+    "Availability3":`Sold by Giant Blacksmith (800 souls)`,
+    "Availability4":`Sold by Crestfallen Merchant (1,000 souls)`,
+    "Availability5":`Sold by Hawkeye Gough (800 souls)`,
+    "Availability6":`Drops from: Undead Soldiers (spear), Undead Warrior (bow)`,
+    "Availability7":`Drops from Balder Knights with rapier or swords (8% chance - Undead Parish and drop varies from 0.91% ~ 21.82% chance in Sen's Fortress)`,
+    "Availability8":`Drops from Undead Soldier wielding a sword (1.6% Chance - Undead Burg, Undead Parish, Northern Undead Asylum (Return), Firelink Shrine)`,
+  },
+  {
+    "Availability":`The Berenike Knight that respawns at the top of Sen's Fortress has a 25% chance of dropping Large Titanite Shards.`,
+    "Availability2":`Dropped by Slimes in the Depths. Their drop rate is the lowest (2%), but a large number of them spawn outside the bonfire room, making it easy to sprint to the other end of the passage to provoke them into dropping from the ceiling, then turn around and kill them on your way back. Due to their extreme weakness to fire, Pyromancy can potentially speed this process, easily killing each one with a single Fireball.`,
+    "Availability3":`Giant Leeches in Blighttown are abundant and drop Large Titanite Shards occasionally. Unfortunately, this method is a bit slow in terms of farmed shards per minute.`,
+    "Availability4":`Oolacile Township's Bloatheads drop Large Titanite Shards at a very slightly lower rate (5.0% compared to the leeches' 5.15%), although they give more souls.`,
+    "Availability5":`The Crestfallen Merchant sells Large Titanite Shards in Sen's Fortress at 4,000 souls each.`,
+    "Availability6":`The Giant Blacksmith in Anor Londo sells Large Titanite Shards at 3,800 souls each.`,
+    "Availability7":`The Berenike Knight in the Painted World of Ariamis drops a guaranteed Large Titanite Shard every time it is killed, along with 1,300 souls.`,
+  },
+  {
+    "Availability":`Gift from Sieglinde of Catarina after completing her and Siegmeyer of Catarina's storyline.`,
+    "Availability2":`Random chance of obtaining from Crystal Lizards in The Great Hollow.`,
+    "Availability3":`Guaranteed drop from the Stray Demon.`,
+    "Availability4":`Treasure from a chest behind the waterfall in Black Dragon Kalameet's boss arena in the Royal Wood.`,
+    "Availability5":`Darkwraiths are the only respawning enemies that drop them, but with an incredibly low drop rate.`,
   },
   {
     "Availability":`lorem`,
@@ -1131,7 +1166,41 @@ const Uso = [
       "Usage2": `Gives 12,000 souls when consumed. 8,000 souls from feeding to Frampt.`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `Lifehunt Scythe (Ascended from +10 scythe or whip weapons)`,
+      "Usage2": `Gives 12,000 souls when consumed. Can also be sold to Kingseeker Frampt for 15,000 souls.`,
+    },
+    {
+      "Usage": `Quelaag's Furysword`,
+      "Usage2": `Chaos Blade`,
+      "Usage3": `Souls acquired: 8,000 souls from consuming. 10,000 souls from feeding to Frampt.`,
+    },
+    {
+      "Usage": `Greatsword of Artorias (Ascended from +10 broken straight sword or straight sword hilt weapons with Giant Blacksmith at Anor Londo)`,
+      "Usage2": `Greatsword of Artorias (Cursed) (Ascended from +10 great sword weapons with Giant Blacksmith at Anor Londo)`,
+      "Usage3": `Greatshield of Artorias (Ascended from +10 shields)`,
+      "Usage4": `Gives 16,000 souls when consumed.`,
+      "Usage5": `Grants 4000 souls when fed to Kingseeker Frampt.`,
+    },
+    {
+      "Usage": `Smough's Hammer (Ascended from +10 strike weapons)`,
+      "Usage2": `Gives 12,000 souls when consumed.`,
+      "Usage3": `Gives only 1 soul when fed to Frampt.`,
+    },
+    {
+      "Usage": `Moonlight Butterfly Horn`,
+      "Usage2": `Crystal Ring Shield`,
+      "Usage3": `1,200 from using.`,
+      "Usage4": `8,000 from feeding to Frampt.`,
+    },
+    {
+      "Usage": `Reinforce standard weapons and shields to +5 (9 required to upgrade from 0 to +5)`,
+      "Usage2": `Reinforce standard armors to +3 (4 required to upgrade from 0 to +3)`,
+    },
+    {
+      "Usage": `Titanite used for normal and raw weapon upgrades.`,
+    },
+    {
+      "Usage": `Reinforce standard weapons to +15, Crystal and Lightning weapons to +5, reinforce standard armour to +10`,
     },
     {
       "Usage": `YPSILOM`,
@@ -1143,12 +1212,6 @@ const Uso = [
       "Usage": `YPSILOM`,
     },
     {
-      "Usage": `YPSILOM`,
-    },
-    {
-      "Usage": `YPSILOM`,
-    },
-        {
       "Usage": `YPSILOM`,
     },
     {
@@ -1658,7 +1721,28 @@ const Uso = [
       "Note":""
     },
     {
-      "Note":"DEIXA"
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Artorias and Sif are linked to The Abyss Watchers of DS3."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"The Crystal Butterflies in Crystal Cave do not drop boss souls"
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Upgrades available from Blacksmith Andre after giving him the Large Ember."
+    },
+    {
+      "Note":"Titanite Chunks display the rune \"Eihwaz\", which means \"yew\"."
     },
     {
       "Note":"DEIXA"
@@ -1666,10 +1750,6 @@ const Uso = [
     {
       "Note":"DEIXA"
     },
-    {
-      "Note":"DEIXA"
-    },
-    
   ]
 
 
@@ -3531,86 +3611,86 @@ const items = [
     Usage: usage[119],
     Notes: notes[119],
   },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
+    {
+    Name: `SOUL OF PRISCILLA`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul of Priscilla the Crossbreed, trapped inside the painted world of Ariamis. Special beings have special souls. Use the soul of this crossbreed bastard child and antithesis to all life to acquire a huge amount of souls, or to create a unique weapon.`,
+    GeneralInformation: `The Soul of Priscilla is a boss soul in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[120],
+    Usage: usage[120],
+    Notes: notes[120],
+  },
+    {
+    Name: `SOUL OF QUELAAG`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul of Quelaag, once daughter of the Witch of Izalith, but now a chaos demon. Special beings have special souls, and Quelaag's soul contains all aspects of Chaos. Use it to acquire a huge amount of souls, or to create a unique weapon.`,
+    GeneralInformation: `The Soul of Quelaag is a boss soul in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[121],
+    Usage: usage[121],
+    Notes: notes[121],
+  },
+    {
+    Name: `SOUL OF SIF`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul of Sif the Great Grey Wolf, who guards the grave of Artorias the Abysswalker. Special beings have special souls. Use the soul of Sif, who inherited the divine knightsword, to acquire a huge amount of souls, or create a unique weapon.`,
+    GeneralInformation: `The Soul of Sif is a boss soul in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[122],
+    Usage: usage[122],
+    Notes: notes[122],
+  },
+    {
+    Name: `SOUL OF SMOUGH`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul of Smough the Executioner, who guards the cathedral in the forsaken city of Anor Londo. Special beings have special souls. Use the soul of this eerily gleeful executioner to acquire a huge amount of souls, or to create a unique weapon.`,
+    GeneralInformation: `aa`,
+    Type: `The Soul of Smough is a boss soul in Dark Souls.`,
+    Availability: location[123],
+    Usage: usage[123],
+    Notes: notes[123],
+  },
+    {
+    Name: `SOUL OF THE MOONLIGHT BUTTERFLY`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/68/Boss_Soul.png/revision/latest?cb=20200810133833`,
+    InGameDescription: `Soul of the mystical Moonlight Butterfly, which flitters in Darkroot Garden. Special beings have special souls. The butterfly's soul is a creation of Seath the Scaleless. Use to acquire a huge amount of souls, or to create a unique weapon.`,
+    GeneralInformation: `The Soul of the Moonlight Butterfly is a boss soul in Dark Souls.`,
+    Type: `Soul`,
+    Availability: location[124],
+    Usage: usage[124],
+    Notes: notes[124],
+  },
+    {
+    Name: `TITANITE SHARD`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/08/Titanite_Shard.png/revision/latest?cb=20130420014835`,
+    InGameDescription: `Titanite shard for weapon reinforcement. Most common titanite material. Reinforces standard weapons to +5. Titanite shards are fragments of the Legendary Slabs. Titanite is etched into weapons to reinforce.`,
+    GeneralInformation: `Titanite Shards are Upgrade Materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[125],
+    Usage: usage[125],
+    Notes: notes[125],
+  },
+    {
+    Name: `LARGE TITANITE SHARD`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/62/Large_Titanite_Shard.png/revision/latest?cb=20130420014847`,
+    InGameDescription: `Titanite shard for weapon reinforcement. Larger titanite material. Reinforces standard weapons to +10, and raw weapons to +5. Titanite shards are fragments of the Legendary Slabs. Titanite is etched into weapons to reinforce.`,
+    GeneralInformation: `Large Titanite Shards are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[126],
+    Usage: usage[126],
+    Notes: notes[126],
+  },
+    {
+    Name: `TITANITE SLAB`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/3/3c/Titanite_Slab.png/revision/latest?cb=20120914043443`,
+    InGameDescription: `Titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods. Reinforces standard weapons to +15, and crystal or lightning weapons to +5. Legendary Slabs are the heirlooms of a nameless blacksmith deity, who forged the weapons of other Gods. Weapons forged with this slab become rare legendary weapons.`,
+    GeneralInformation: `Titanite Slabs are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[127],
+    Usage: usage[127],
+    Notes: notes[127],
+  },
   //   {
   //   Name: `aa`,
   //   Image: `aa`,
