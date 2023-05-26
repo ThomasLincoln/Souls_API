@@ -707,19 +707,93 @@ const Localizacao = [
     "Availability5":`Darkwraiths are the only respawning enemies that drop them, but with an incredibly low drop rate.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Drops from Slimes (2% Chance - Depths)`,
+    "Availability2":`Drops from Burrowing Rockworm (4.76% ~ 25.81% Chance - Demon Ruins)`,
+    "Availability3":`Drops from Giant Leech (2.06% Chance for 5 - Blighttown)`,
+    "Availability4":`Drops from Oolacile Sorceress (1% ~ 5% Chance - Oolacile Township and Chasm of the Abyss)`,
+    "Availability5":`Can be obtained by feeding Kingseeker Frampt a Red Titanite Chunk, Blue Titanite Chunk or White Titanite Chunk.`,
+    "Availability6":`One can be found behind the two Giant Leeches under the big branch that leads to Great Hollow.`,
+    "Availability7":`One can be found on the last ledge before the drop to Blacksmith Vamos in The Catacombs.`,
+    "Availability8":`One can be found on the broken ledge of the small tower in front of the Abyss entrance.`,
+    "Availability9":`One can be found under the first set of large stairs with the four Demonic Statues.`,
+    "Availability9":`One can be found inside the Centipede Demon arena.`,
+    "Availability9":`Two can be found on a corpse in the poison sewer below the area where you meet Siegmeyer of Catarina in Lost Izalith.`,
+    "Availability9":`Sold by the Crestfallen Merchant in Sen's Fortress for 5,000 souls.`,
+    "Availability9":`Sold by the Giant Blacksmith in Anor Londo for 4,800 souls.`,
+    "Availability9":`Sold by Hawkeye Gough in Artorias of the Abyss for 4,800 souls.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Guaranteed drops from the last Black Knight in Kiln of the First Flame`,
+    "Availability2":`Drops from Crystal Golems (8% Chance - Darkroot Basin, outside of The Duke's Archives and Crystal Cave)`,
+    "Availability3":`A Blue Titanite Chunk can be obtained by killing the Black Knight guarding the Grass Crest Shield at Darkroot Basin.`,
+    "Availability4":`Two  Blue Titanite Chunk can be found in The Great Hollow.`,
+    "Availability5":`Dropped by the Blue Golem  guarding the Broken Pendant  in The Duke's Archives. (PTD)`,
+    "Availability6":`Dropped from Moonlight Butterfly (10% Chance ~ Crystal Cave)`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Rare drop from the Moonlight Butterflies in the Crystal Cave (0.2% chance).`,
+    "Availability2":`Found on a corpse in the Crystal Cave. The corpse is located at the end of a lengthy, narrow, invisible bridge.`,
+    "Availability3":`Found in a chest in the Royal Wood. The chest is located in a small puddle of water near the first elevator. It is guarded by two Guardians and numerous Wooden Scarecrows. This is the same location that the Enchanted Ember is found in Darkroot Garden.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Dropped by Titanite Demons. A respawning demon can be found on the shortcut path between Demon Ruins and Lost Izalith; Rank +2 in the Chaos Servant covenant is not needed to reach it, as the demon can be encountered on the Lost Izalith side of the shortcut path (however, it is a lot easier to farm if the shortcut is opened). Most Titanite Demons drop one Demon Titanite, but those found in Anor Londo and Lost Izalith drop two each.`,
+    "Availability2":`Two per playthrough can be obtained from Snuggly the Crow by trading one Dung Pie and one Prism Stone.`,
+    "Availability3":`A total of five can be found in chests scattered throughout Anor Londo.`,
   },
   {
-    "Availability":`lorem`,
+    "Availability":`Rare (5%) drop from Drakes in the Valley of Drakes.`,
+    "Availability2":`Trade with Snuggly: 1x for Egg Vermifuge.`,
+    "Availability3":`1x from the Undead Dragon in the Valley of Drakes`,
+    "Availability4":`1x from the Undead Dragon in the Painted World of Ariamis.`,
+    "Availability5":`1x from the Hydra in Darkroot Basin.`,
+    "Availability6":`2x from the Black Hydra in Ash Lake.`,
+    "Availability7":`1x in a chest close to the second bonfire in Blighttown.`,
+    "Availability8":`1x on a corpse just to the left of the Black Hydra in Ash Lake.`,
+    "Availability9":`1x on a floating corpse past the Man-Eater Shells in Ash Lake.`,
+    "Availability10":`1x inside the hollow tree on the beach in Ash Lake.`,
+    "Availability11":`lorem`,
+  },
+  {
+    "Availability":`Drops from Burrowing Rockworm (5% Chance)`,
+    "Availability2":`Drops from Chaos Bug (0.5% Chance) (Note: Sunlight Medal is a much more likely drop, so this isn't very efficient).`,
+    "Availability3":`One can be found on a corpse on the raised platform at the top of the staircase leading out of the poison swamp in Lost Izalith. Another can be found on a corpse in the swamp pit where multiple Chaos Eaters are located.`,
+    "Availability4":`Two are located in The Great Hollow on corpses, both are located above the second set of Basilisks on branches.`,
+    "Availability5":`Drops from Chaos Bug (0.5% Chance)`,
+    "Availability6":`Drops from Chaos Eater (10% Chance).`,
+    "Availability6":`Guaranteed drop by second Kiln Black Knight.`,
+    "Availability6":`Guaranteed drop by both Black Knight in Undead Asylum.`,
+    "Availability6":`lorem`,
+  },
+  {
+    "Availability":`Lost Izalith: In a chest of the sewer area near Bed of Chaos.`,
+    "Availability2":`Rare drop from Chaos Eaters in Lost Izalith (0.3% Chance).`,
+    "Availability3":`Trade the Ascended version of a +0 Pyromancy Flame with Snuggly (higher than +0 are not accepted).`,
+  },
+  {
+    "Availability":`DarkWraith Knights in New Londo Ruins, after depleting the water level and opening the doors connecting Valley of Drakes. Common drop.`,
+    "Availability2":`Drops from Crystal Lizard (8.33% or 41.67% - Undead Burg, The Catacombs, Tomb of Giants, The Great Hollow, Darkroot Garden, Lost Izalith, Crystal Cave, The Duke's Archives, Royal Wood, Oolacile Township and Chasm of the Abyss)`,
+    "Availability3":`Drops from The Black Knight. (Guaranteed - Undead Burg, Undead Parish and Kiln of the First Flame)`,
+    "Availability4":`Royal Sentinels in Anor Londo. Rare drop`,
+    "Availability5":`The giant that opens the gate to Sen's Fortress`,
+    "Availability6":`Anor Londo: Area in front of Giant Blacksmith`,
+    "Availability7":`New Londo Ruins: Behind an illusory wall in a chest and another past the second Hoard, also in a chest.`,
+  },
+  {
+    "Availability":`Sold by Blacksmith Andre (800 souls)`,
+    "Availability2":`Sold by Blacksmith Vamos (800 souls)`,
+    "Availability3":`Sold by Giant Blacksmith (800 souls)`,
+    "Availability4":`Sold by Crestfallen Merchant (1,000 souls)`,
+    "Availability5":`Sold by Hawkeye Gough (800 souls)`,
+    "Availability6":`Drops from: Undead Soldiers (spear), Undead Warrior (bow)`,
+    "Availability7":`Drops from Balder Knights with rapier or swords (8% chance - Undead Parish and drop varies from 0.91% ~ 21.82% chance in Sen's Fortress)`,
+    "Availability8":`Drops from Undead Soldier wielding a sword (1.6% Chance - Undead Burg, Undead Parish, Northern Undead Asylum (Return), Firelink Shrine)`,
+  },
+  {
+    "Availability":`Gift from Sieglinde of Catarina after completing her and Siegmeyer of Catarina's storyline.`,
+    "Availability2":`Random chance of obtaining from Crystal Lizards in The Great Hollow.`,
+    "Availability3":`Guaranteed drop from the Stray Demon.`,
+    "Availability4":`Treasure from a chest behind the waterfall in Black Dragon Kalameet's boss arena in the Royal Wood.`,
+    "Availability5":`Darkwraiths are the only respawning enemies that drop them, but with an incredibly low drop rate.`,
   },
   {
     "Availability":`lorem`,
@@ -1203,7 +1277,38 @@ const Uso = [
       "Usage": `Reinforce standard weapons to +15, Crystal and Lightning weapons to +5, reinforce standard armour to +10`,
     },
     {
-      "Usage": `YPSILOM`,
+      "Usage": `Reinforce Magic, Divine, and Fire weapons to +5`,
+    },
+    {
+      "Usage": `Blue Titanite drops from the Crystal Golems found near the Hydra in Darkroot Basin as well as the area before crystal cave.`,
+    },
+    {
+      "Usage": `It allows reinforcement of +9 magic weapons to +10 and +4 enchanted weapons to +5.`,
+    },
+    {
+      "Usage": `Can be used to upgrade weapons forged from Boss Souls.`,
+    },
+    {
+      "Usage": `Can be used to upgrade Dragon weapons.`,
+      "Usage2": `Can be used to increase player's rank in the Path of the Dragon covenant.`,
+    },
+    {
+      "Usage": `Reinforce Fire weapons to +9 and Chaos weapons to +4.`,
+    },
+    {
+      "Usage": `It allows to reinforce +9 fire weapons to +10 and +4 chaos weapons to +5.`,
+    },
+    {
+      "Usage": `+14 Reinforce: Standard weapon.`,
+      "Usage2": `+4 Reinforce: Crystal and Lightning weapon.`,
+      "Usage3": `+9 Reinforce: Standard Armor.`,
+    },
+    {
+      "Usage": `Reinforce standard weapons and shields to +5 (9 required to upgrade from 0 to +5)`,
+      "Usage2": `Reinforce standard armors to +3 (4 required to upgrade from 0 to +3)`,
+    },
+    {
+      "Usage": `Reinforce standard weapons to +15, Crystal and Lightning weapons to +5, reinforce standard armour to +10`,
     },
     {
       "Usage": `YPSILOM`,
@@ -1211,7 +1316,10 @@ const Uso = [
     {
       "Usage": `YPSILOM`,
     },
-    {
+        {
+      "Usage": `YPSILOM`,
+    },
+        {
       "Usage": `YPSILOM`,
     },
     {
@@ -1745,11 +1853,54 @@ const Uso = [
       "Note":"Titanite Chunks display the rune \"Eihwaz\", which means \"yew\"."
     },
     {
+      "Note":""
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Ultimate Magic and Enchanted Upgrades material."
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note (Weapons upgraded with Dragon Scales)":[
+        "Dragon Bone Fist",
+        "Dragon Greatsword",
+        "Dragon King Greataxe",
+        "Dragon Tooth",
+        "Drake Sword",
+        "Moonlight Greatsword",
+        "Priscilla's Dagger",
+        "Obsidian Greatsword"
+      ]
+    },
+    {
+      "Note":"High level reinforcement material"
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Titanite Chunks display the rune \"Eihwaz\", which means \"yew\".",
+      "Note2":"The Very Large Ember must be given to Andre of Astora in order to ascend standard weapons using Titanite Chunks.",
+      "Note3":"The Crystal Ember must be given to the Giant Blacksmith in order to ascend crystal weapons using Titanite Chunks.",
+    },
+    {
+      "Note":""
+    },
+    {
+      "Note":"Ascends Standard, Crystal, or Lightning weapons to their maximum potentials (+15, +5, and +5, respectively).",
+      "Note":"Titanite Chunks display the rune \"Eihwaz\", which means \"yew\"."
+    },
+    {
       "Note":"DEIXA"
     },
     {
       "Note":"DEIXA"
     },
+    
   ]
 
 
@@ -3691,6 +3842,127 @@ const items = [
     Usage: usage[127],
     Notes: notes[127],
   },
+    {
+    Name: `GREEN TITANITE SHARD`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/05/Green_Titanite_Shard.png/revision/latest?cb=20120914043443`,
+    InGameDescription: `Titanite shard for weapon reinforcement. Green titanite imbued with a special power. Reinforces magic, divine, fire weapons to +5. Titanite shards are fragments of the Legendary Slabs. Titanite is etched into weapons to reinforce.`,
+    GeneralInformation: `Green Titanite Shards are Upgrade Materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[128],
+    Usage: usage[128],
+    Notes: notes[128],
+  },
+    {
+    Name: `BLUE TITANITE CHUNK`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/0f/Blue_Titanite_Chunk.png/revision/latest?cb=20120914043444`,
+    InGameDescription: `Titanite chunk for weapon reinforcement. Blue titanite has powerful magic energy. Reinforces magic weapons to +9, and enchanted weapons to +4. With the discovery of chunks in Lordran, the race to locate the Legendary Slabs has begun. But could they be mere myth?`,
+    GeneralInformation: `Blue Titanite Chunks are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[129],
+    Usage: usage[129],
+    Notes: notes[129],
+  },
+    {
+    Name: `BLUE TITANITE SLAB`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/9/90/Blue_Titanite_Slab.png/revision/latest?cb=20120914043444`,
+    InGameDescription: `Blue titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods. Reinforces magic weapons to +10, and enchanted weapons to +5. Legendary Slabs are the heirlooms of a nameless blacksmith deity, who forged the weapons of other Gods. Weapons forged with this slab become rare legendary weapons.`,
+    GeneralInformation: `Blue Titanite Slabs are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[130],
+    Usage: usage[130],
+    Notes: notes[130],
+  },
+    {
+    Name: `DEMON TITANITE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/2/2f/Item_Demon_Titanite.png/revision/latest?cb=20120308063937`,
+    InGameDescription: `Special titanite stolen from a faceless stone beast known as a Titanite Demon. When the nameless blacksmith deity passed, from several Slabs, great beasts arose. The power of titanite remains within them, and they still roam Lordran toda`,
+    GeneralInformation: `Demon Titanites are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[131],
+    Usage: usage[131],
+    Notes: notes[131],
+  },
+    {
+    Name: `DRAGON SCALE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/6/64/Item_Dragon_Scale.png/revision/latest?cb=20120308064040`,
+    InGameDescription: `Dragon scale for reinforcing dragon weapons. Peeled from an ancient dragon. A dragon is inseparable from its scales, and the transcendent apostles, who seek the perpetuity of the ancient dragons, have crossed the very end of the earth to seek this invaluable treasure.`,
+    GeneralInformation: `Dragon Scales are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[132],
+    Usage: usage[132],
+    Notes: notes[132],
+  },
+    {
+    Name: `RED TITANITE CHUNK`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/d/d3/Item_Red_Titanite_Chunk.png/revision/latest?cb=20120308064522`,
+    InGameDescription: `Titanite chunk for weapon reinforcement. Red titanite has powerful fire energy. Reinforces fire weapons to +9, and chaos weapons to +4. With the discovery of chunks in Lordran, the race to locate the Legendary Slabs has begun. But could they be mere myth?`,
+    GeneralInformation: `Red Titanite Chunks are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[133],
+    Usage: usage[133],
+    Notes: notes[133],
+  },
+    {
+    Name: `RED TITANITE SLAB`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/5/54/Item_Red_Titanite_Slab.png/revision/latest?cb=20120308064547`,
+    InGameDescription: `Red titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods. Reinforces fire weapons to +10, and chaos weapons to +5. Legendary Slabs are the heirlooms of a nameless blacksmith deity, who forged the weapons of other Gods. Weapons forged with this slab become rare legendary weapons.`,
+    GeneralInformation: `Red Titanite Slabs are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[134],
+    Usage: usage[134],
+    Notes: notes[134],
+  },
+    {
+    Name: `TITANITE CHUNK`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/08/Item_Titanite_Chunk.png/revision/latest?cb=20120308064814`,
+    InGameDescription: `Titanite chunk for weapon reinforcement. Not found outside of Lordran. Reinforces standard weapons to +14, and crystal, lightning weapons to +4. With the discovery of chunks in Lordran, the race to locate the Legendary Slabs has begun. But could they be mere myth?`,
+    GeneralInformation: `Titanite Chunks are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[135],
+    Usage: usage[135],
+    Notes: notes[135],
+  },
+    {
+    Name: `TITANITE SHARD`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/0/08/Titanite_Shard.png/revision/latest?cb=20130420014835`,
+    InGameDescription: `Titanite shard for weapon reinforcement. Most common titanite material. Reinforces standard weapons to +5. Titanite shards are fragments of the Legendary Slabs. Titanite is etched into weapons to reinforce.`,
+    GeneralInformation: `Titanite Shards are Upgrade Materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[136],
+    Usage: usage[136],
+    Notes: notes[136],
+  },
+    {
+    Name: `TITANITE SLAB`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/3/3c/Titanite_Slab.png/revision/latest?cb=20120914043443`,
+    InGameDescription: `Titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods. Reinforces standard weapons to +15, and crystal or lightning weapons to +5. Legendary Slabs are the heirlooms of a nameless blacksmith deity, who forged the weapons of other Gods. Weapons forged with this slab become rare legendary weapons.`,
+    GeneralInformation: `Titanite Slabs are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[137],
+    Usage: usage[137],
+    Notes: notes[137],
+  },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+
   //   {
   //   Name: `aa`,
   //   Image: `aa`,
@@ -3721,6 +3993,142 @@ const items = [
   //   Usage: usage[],
   //   Notes: notes[],
   // },
+
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+  //   {
+  //   Name: `aa`,
+  //   Image: `aa`,
+  //   InGameDescription: `aa`,
+  //   GeneralInformation: `aa`,
+  //   Type: `aa`,
+  //   Availability: location[],
+  //   Usage: usage[],
+  //   Notes: notes[],
+  // },
+
 ];
 
 const loadAndSaveData = async () => {
