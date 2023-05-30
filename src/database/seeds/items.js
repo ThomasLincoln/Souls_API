@@ -788,17 +788,49 @@ const Localizacao = [
     "Availability7":`Drops from Balder Knights with rapier or swords (8% chance - Undead Parish and drop varies from 0.91% ~ 21.82% chance in Sen's Fortress)`,
     "Availability8":`Drops from Undead Soldier wielding a sword (1.6% Chance - Undead Burg, Undead Parish, Northern Undead Asylum (Return), Firelink Shrine)`,
   },
+  // 137
   {
-    "Availability":`Gift from Sieglinde of Catarina after completing her and Siegmeyer of Catarina's storyline.`,
-    "Availability2":`Random chance of obtaining from Crystal Lizards in The Great Hollow.`,
-    "Availability3":`Guaranteed drop from the Stray Demon.`,
-    "Availability4":`Treasure from a chest behind the waterfall in Black Dragon Kalameet's boss arena in the Royal Wood.`,
-    "Availability5":`Darkwraiths are the only respawning enemies that drop them, but with an incredibly low drop rate.`,
+    "Availability":`Available for purchase for 8,000 souls at the Giant Blacksmith.`,
+    "Availability2":`Drops from Crystal Lizard (guaranteed - Undead Burg, The Catacombs, Tomb of Giants, The Great Hollow, Darkroot Garden, Lost Izalith, Crystal Cave, The Duke's Archives, Royal Wood, Oolacile Township and Chasm of the Abyss).`,
+    "Availability3":`Drops from Man-Eater Shell (30% Chance in Ash Lake, 20% chance in Crystal Cave).`,
+    "Availability4":`Drops from Stone Gaurdians in Oolacile. (AotA only)`,
+    "Availability5":`Found in a chest in the first half of Anor Londo.`,
+    "Availability6":`Trade with Snuggly: 1x for Purple Moss Clump, 1x for Bloodred Moss Clump, 2x for Blooming Purple Moss Clump.`,
+    "Availability7": `1x is found inside a treasure chest on the 1st floor of The Duke's Archives, activate the 2nd lift & head to your left till the end of the walkway.`,
+    "Availability8": `1x is pillaged off a corpse on the 1st floor of The Duke's Archives, activate the 2nd lift & head to your right, the corpse is located in a balcony halfway, and guarded by 2 Crystal Undead Soldiers.`,
+  },
+  // 138
+  { 
+    "Availability": `The Black Knight. (100% chance - Undead Burg, Undead Parish, Darkroot Basin, The Catacombs, Northern Undead Asylum, Tomb of Giants and Kiln of the First Flame)`,
+    "Availability2": `Pinwheel Servant (0.3% or 10% Chance - Tomb of Giants)`,
+    "Availability3": `Chaos Eater (0.2% Chance - Lost Izalith)`,
+    "Availability4": `Bone Tower (5% chance - Tomb of Giants)`,
+    "Availability5": `One per playthrough can be obtained by trading a Sunlight Medal to Snuggly the Crow.`,
+  },
+  // 139
+  {
+    "Availability": `Found in the Tomb of Giants within a narrow cavern before the Nito fog gate.`,
+    "Availability2": `Found in the Chasm of the Abyss near the Manus, Father of the Abyss fog gate`,
+    "Availability3": `Rare drop from the Pinwheel Servant at the fog gate near Gravelord Nito (0.2% Chance - Tomb of Giants. )`,
   },
   {
-    "Availability":`lorem`,
+    "Availability": ``,
   },
-  
+  {
+    "Availability": ``,
+  },
+  {
+    "Availability": ``,
+  },
+  {
+    "Availability": ``,
+  },
+  {
+    "Availability": ``,
+  },
+  {
+    "Availability": ``,
+  },
 ];
 
 const Uso = [
@@ -1307,19 +1339,21 @@ const Uso = [
       "Usage": `Reinforce standard weapons and shields to +5 (9 required to upgrade from 0 to +5)`,
       "Usage2": `Reinforce standard armors to +3 (4 required to upgrade from 0 to +3)`,
     },
+    // 137
     {
-      "Usage": `Reinforce standard weapons to +15, Crystal and Lightning weapons to +5, reinforce standard armour to +10`,
+      "Usage": `+5 reinforce: for weapons not reinforced normally.`,
+      "Usage2": `Can be used to upgrade non-infusable weapons and rare armor (excluding Boss Soul and Dragon)+.`,
+    },
+    // 138
+    {
+      "Usage": `Reinforce Divine weapons to +9, Occult weapons to +4`,
+    },
+    // 139
+    {
+      "Usage": `Ultimate Divine/Occult Reinforce material.`,
+      "Usage2": `It allows to reinforce +9 divine weapons to +10 and +4 occult weapons to +5.`,
     },
     {
-      "Usage": `YPSILOM`,
-    },
-    {
-      "Usage": `YPSILOM`,
-    },
-        {
-      "Usage": `YPSILOM`,
-    },
-        {
       "Usage": `YPSILOM`,
     },
     {
@@ -1890,9 +1924,20 @@ const Uso = [
     {
       "Note":""
     },
+    // 137
     {
-      "Note":"Ascends Standard, Crystal, or Lightning weapons to their maximum potentials (+15, +5, and +5, respectively).",
-      "Note":"Titanite Chunks display the rune \"Eihwaz\", which means \"yew\"."
+      "Note":""
+    },
+    // 138
+    {
+      "Note":""
+    },
+    // 139
+    {
+      "Note":""
+    },
+    {
+      "Note":"DEIXA"
     },
     {
       "Note":"DEIXA"
@@ -3933,118 +3978,36 @@ const items = [
     Notes: notes[136],
   },
     {
-    Name: `TITANITE SLAB`,
-    Image: `https://static.wikia.nocookie.net/darksouls/images/3/3c/Titanite_Slab.png/revision/latest?cb=20120914043443`,
-    InGameDescription: `Titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods. Reinforces standard weapons to +15, and crystal or lightning weapons to +5. Legendary Slabs are the heirlooms of a nameless blacksmith deity, who forged the weapons of other Gods. Weapons forged with this slab become rare legendary weapons.`,
-    GeneralInformation: `Titanite Slabs are upgrade materials in Dark Souls.`,
+    Name: `TWINKLING TITANITE`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/f/f6/Item_Twinkling_Titanite.png/revision/latest?cb=20120308063424`,
+    InGameDescription: `This weapon-reinforcing titanite is imbued with a particularly powerful energy. Reinforces weapons that cannot be reinforced normally to +5. After this titanite was peeled from its Slab, it is said that it received a special power, but its specific nature is not clear.`,
+    GeneralInformation: `Twinkling Titanite are upgrade materials in Dark Souls.`,
     Type: `Ore`,
     Availability: location[137],
     Usage: usage[137],
     Notes: notes[137],
   },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
+    {
+    Name: `WHITE TITANITE CHUNK`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/d/d0/Item_White_Titanite_Chunk.png/revision/latest?cb=20120308065631`,
+    InGameDescription: `Titanite chunk for weapon reinforcement. White titanite has powerful magic energy. Reinforces divine weapons to +9, and occult weapons to +4. With the discovery of chunks in Lordran, the race to locate the Legendary Slabs has begun. But could they be mere myth?`,
+    GeneralInformation: `White Titanite Chunks are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[138],
+    Usage: usage[138],
+    Notes: notes[138],
+  },
 
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
-  //   {
-  //   Name: `aa`,
-  //   Image: `aa`,
-  //   InGameDescription: `aa`,
-  //   GeneralInformation: `aa`,
-  //   Type: `aa`,
-  //   Availability: location[],
-  //   Usage: usage[],
-  //   Notes: notes[],
-  // },
+    {
+    Name: `WHITE TITANITE SLAB`,
+    Image: `https://static.wikia.nocookie.net/darksouls/images/e/e7/White_Titanite_Slab.png/revision/latest?cb=20120914043445`,
+    InGameDescription: `White titanite slab for weapon reinforcement. Legendary Slabs were the domain of the Gods. Reinforces divine weapons to +10, and occult weapons to +5.Legendary Slabs are the heirlooms of a nameless blacksmith deity, who forged the weapons of other Gods. Weapons forged with this slab become rare legendary weapons.`,
+    GeneralInformation: `White Titanite Slabs are upgrade materials in Dark Souls.`,
+    Type: `Ore`,
+    Availability: location[139],
+    Usage: usage[139],
+    Notes: notes[139],
+  },
 
   //   {
   //   Name: `aa`,
