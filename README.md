@@ -10,7 +10,7 @@ For detailed documentation and usage examples, please refer to the [Souls API Do
 
 To get started using the Souls API, follow these steps:
 
-1. Clone the repository to your local machine: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository to your local machine: `git clone https://github.com/ThomasLincoln/Souls_API.git`
 2. Install the necessary dependencies: `npm install`
 3. Start the API server in development mode: `npm run dev`
 4. The API will be accessible at `http://localhost:3000`.
