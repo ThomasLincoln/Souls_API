@@ -26,6 +26,17 @@ The following endpoints are available in the API:
 
 Please note that `{id}`, `{name}`, and `{type}` should be replaced with the corresponding values when making requests to the API.
 
+## Future Tasks:
+
+- [ ] Separate item data into a single JSON file.
+- [ ] Add weapons to the API.
+- [ ] Add armors to the API.
+- [ ] Add bosses to the API.
+- [ ] Add enemies to the API.
+- [ ] Add NPCs (non-playable characters) to the API.
+- [ ] Add rings to the API.
+
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
