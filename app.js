@@ -1,11 +1,13 @@
 import express from "express";
 import dotenv from "dotenv";
 import mysql from "mysql2/promise";
+import helmet from "helmet";
 dotenv.config();
 
 const connection = await mysql.createConnection(process.env.DATABASE_URL);
 const app = express();
 
+app.use(helmet())
 app.get("/items/", async (req, res) => {
   const { id, name, type } = req.query;
 
